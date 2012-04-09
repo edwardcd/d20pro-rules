@@ -1,0 +1,186 @@
+Generic|Acrobatic
+Generic|Action Boost
+Generic|Advanced Combat Martial Arts
+Generic|Advanced Firearms Proficiency
+Generic|Advanced Two-Weapon Fighting
+Generic|Agile Riposte
+Generic|Aircraft Operation
+Generic|Alertness
+Generic|Alien Craft Operation
+Generic|Alien Weapons Proficiency
+Generic|Animal Affinity
+Generic|Arcane Skills
+Generic|Archaic Weapons Proficiency
+Generic|Armor Proficiency, Archiac Heavy
+Generic|Armor Proficiency, Archiac Light
+Generic|Armor Proficiency, Archiac Medium
+Generic|Armor Proficiency, Concealable
+Generic|Armor Proficiency, Impromptu
+Generic|Armor Proficiency, Powered
+Generic|Armor Proficiency, Tactical
+Generic|Athletic
+Generic|Augment Healing
+Generic|Augment Summoning
+Generic|Attentive
+Generic|Blind-Fight
+Generic|Brawl
+Generic|Builder
+Generic|Burst Fire
+Generic|Cautious
+Generic|Charismatic Plus
+Generic|Cleave
+Generic|Combat Expertise
+Generic|Combat Martial Arts
+Generic|Combat Reflexes
+Generic|Combat Throw
+Generic|Confident
+Generic|Craft Cybernetics
+Generic|Creative
+Generic|Cybernetic Surgery
+Generic|Cybertaker
+Generic|Dead Aim
+Generic|Deceptive
+Generic|Dedicated plus
+Generic|Defensive Martial Arts
+Generic|Delay Power, Metapsionic
+Generic|Divine Heritage, Initial
+Generic|Dodge
+Generic|Double Tap
+Generic|Drive-By Attack
+Generic|Educated
+Generic|Elusive Target
+Generic|Empower Spell, Metamagic
+Generic|Empower Turning
+Generic|Endurance
+Generic|Enlarge Power, Metapsionic
+Generic|Enlarge Spell, Metamagic
+Generic|Eschew Materials, Metamagic
+Generic|Exotic Firearms Proficiency
+Generic|Exotic Melee Weapon Proficiency
+Generic|Extend Power, Metapsionic
+Generic|Extend Spell, Metamagic
+Generic|Extra Turning
+Generic|Far Shot
+Generic|Fast Plus
+Generic|Fleet of Foot
+Generic|Flyby Attack
+Generic|Focused
+Generic|Force Stop
+Generic|Frightful Presence
+Generic|Gearhead
+Generic|Great Cleave
+Generic|Great Fortitude
+Generic|Greater Spell Focus
+Generic|Greater Spell Penetration
+Generic|Guide
+Generic|Heighten Power, Metapsionic
+Generic|Heighten Spell, Metamagic
+Generic|Heroic Surge
+Generic|Hide Power, Metapsionic
+Generic|Improved Brawl
+Generic|Improved Bull Rush
+Generic|Improved Combat Martial Arts
+Generic|Improved Combat Throw
+Generic|Improved Damage Threshold
+Generic|Improved Disarm
+Generic|Improved Feint
+Generic|Improved Grapple
+InitModifier|Improved Initiative|4
+Generic|Improved Knockout Punch
+Generic|Improved Natural Healing
+Generic|Improved Overrun
+Generic|Improved Trip
+Generic|Improved Turning
+Generic|Improved Two-Weapon Fighting
+Generic|Iron Will
+Generic|Jack of All Trades
+Generic|Knockout Punch
+Generic|Lightning Reflexes
+Generic|Low Profile
+Generic|Magical Affinity
+Generic|Magical Heritage, Initial
+Generic|Mastercrafter
+Generic|Mecha, Advvanced Operation
+Generic|Mecha, Hair Trigger
+Generic|Mecha, Mecha Crush
+Generic|Mecha, Mecha Fling
+Generic|Mecha, Mecha Operation
+Generic|Mecha, Mecha Sweep
+Generic|Mecha, Mecha Trample
+Generic|Mecha, Mecha Weapon Boost
+Generic|Mecha, Mecha Weapon Proficiency
+Generic|Mecha, Stun
+Generic|Mecha, Thunder Blast
+Generic|Medical Expert
+Generic|Meticulous
+Generic|Mobility
+Generic|Nerve Pinch
+Generic|Nimble
+Generic|Nonlethal Spell, Metamagic
+Generic|Oathbound
+Generic|Persistent Power, Metapsionic
+Generic|Personal Firearms Proficiency
+Generic|Planetary Adaptation
+Generic|Point Blank Shot
+Generic|Power Attack
+Generic|Power Crit
+Generic|Precise Shot
+Generic|Precise Strike
+Generic|Psionic Skills
+Generic|Quick Draw
+Generic|Quick Reload
+Generic|Quicken Power, Metapsionic
+Generic|Reach Spell, Metamagic
+Generic|Renown
+Generic|Run
+Generic|Sacred Spell, Metamagic
+Generic|Salvage
+Generic|Shadowbane Spell, Metamagic
+Generic|Shadow Heritage, Initial
+Generic|Shot on the Run
+Generic|Signature Spell
+Generic|Silent Spell, Metamagic
+Generic|Simple Weapons Proficiency
+Generic|Skip Shot
+Generic|Smart Plus
+Generic|Spacer
+Generic|Spell Focus
+Generic|Spell Penetration
+Generic|Spellslinger
+Generic|Spring Attack
+Generic|Starship Battle Run
+Generic|Starship Dodge
+Generic|Starship Feint
+Generic|Starship Gunnery
+Generic|Starship Mobility
+Generic|Starship Operation
+Generic|Starship Strafe
+Generic|Stealthy
+Generic|Still Spell, Metamagic
+Generic|Strafe
+Generic|Streetfighting
+Generic|Strong Plus
+Generic|Studious
+Generic|Sunder
+Generic|Supernatural Strike
+Generic|Surface Vehicle Operation
+Generic|Surgery
+Generic|Tough Plus
+Generic|Toughness
+Generic|Twin Power, Metapsionic
+Generic|Track
+Generic|Trustworthy
+Generic|Two-Weapon Fighting
+Generic|Ultra Immune System
+Generic|Unbalance Opponent
+Generic|Urban Tracking
+Generic|Vehicle Dodge
+Generic|Vehicle Expert
+Generic|Vehicle Specializaiton
+Generic|Weapon Finesse
+Generic|Weapon Focus
+Generic|Whirlwind Attack
+Generic|Wild Talent
+Generic|Windfall
+Generic|Xenomedic
+Generic|Zero-G Training
