@@ -1,0 +1,168 @@
+Acrobatics|DEX|General
+Appraise|INT|General
+Bluff|CHA|General
+Climb|STR|General
+Concentration (CHA)|CHA|Other
+Concentration (INT)|INT|Other
+Concentration (WIS)|WIS|Other
+Craft: Alchemy|INT|Craft/Perform/Profession
+Craft: Armor|INT|Craft/Perform/Profession
+Craft: Baskets|INT|Craft/Perform/Profession
+Craft: Blacksmith|INT|Craft/Perform/Profession
+Craft: Books|INT|Craft/Perform/Profession
+Craft: Bows|INT|Craft/Perform/Profession
+Craft: Calligraphy|INT|Craft/Perform/Profession
+Craft: Carpentry|INT|Craft/Perform/Profession
+Craft: Cloth|INT|Craft/Perform/Profession
+Craft: Clothing|INT|Craft/Perform/Profession
+Craft: Gemcutting|INT|Craft/Perform/Profession
+Craft: Glass|INT|Craft/Perform/Profession
+Craft: Jewelry|INT|Craft/Perform/Profession
+Craft: Leather|INT|Craft/Perform/Profession
+Craft: Locks|INT|Craft/Perform/Profession
+Craft: Other|INT|Craft/Perform/Profession
+Craft: Painting|INT|Craft/Perform/Profession
+Craft: Pottery|INT|Craft/Perform/Profession
+Craft: Rope|INT|Craft/Perform/Profession
+Craft: Sculpture|INT|Craft/Perform/Profession
+Craft: Ships|INT|Craft/Perform/Profession
+Craft: Shoes|INT|Craft/Perform/Profession
+Craft: Siege Engines|INT|Craft/Perform/Profession
+Craft: Stonemasonry|INT|Craft/Perform/Profession
+Craft: Tattoo|INT|Craft/Perform/Profession
+Craft: Traps|INT|Craft/Perform/Profession
+Craft: Weapons|INT|Craft/Perform/Profession
+Diplomacy|CHA|General
+Disable Device|DEX|General
+Disguise|CHA|General
+Escape Artist|DEX|General
+Fly|DEX|General
+Handle Animal|CHA|General
+Heal|WIS|General
+Intimidate|CHA|General
+Knowledge (Arcana)|INT|Knowledge
+Knowledge (Dungeoneering)|INT|Knowledge
+Knowledge (Engineering)|INT|Knowledge
+Knowledge (Geography)|INT|Knowledge
+Knowledge (History)|INT|Knowledge
+Knowledge (Local)|INT|Knowledge
+Knowledge (Nature)|INT|Knowledge
+Knowledge (Nobility)|INT|Knowledge
+Knowledge (Planes)|INT|Knowledge
+Knowledge (Religion)|INT|Knowledge
+Linguistics|INT|General
+Perception|WIS|General
+Perform: Act|CHA|Craft/Perform/Profession
+Perform: Comedy|CHA|Craft/Perform/Profession
+Perform: Dance|CHA|Craft/Perform/Profession
+Perform: Keyboard instruments|CHA|Craft/Perform/Profession
+Perform: Oratory|CHA|Craft/Perform/Profession
+Perform: Other|CHA|Craft/Perform/Profession
+Perform: Percussion instruments|CHA|Craft/Perform/Profession
+Perform: Sing|CHA|Craft/Perform/Profession
+Perform: String instruments|CHA|Craft/Perform/Profession
+Perform: Wind instruments|CHA|Craft/Perform/Profession
+Profession: Architect|WIS|Craft/Perform/Profession
+Profession: Baker|WIS|Craft/Perform/Profession
+Profession: Barkeep|WIS|Craft/Perform/Profession
+Profession: Barmaid|WIS|Craft/Perform/Profession
+Profession: Barrister|WIS|Craft/Perform/Profession
+Profession: Brewer|WIS|Craft/Perform/Profession
+Profession: Butcher|WIS|Craft/Perform/Profession
+Profession: Clerk|WIS|Craft/Perform/Profession
+Profession: Cook|WIS|Craft/Perform/Profession
+Profession: Courtesean|WIS|Craft/Perform/Profession
+Profession: Driver|WIS|Craft/Perform/Profession
+Profession: Engineer|WIS|Craft/Perform/Profession
+Profession: Farmer|WIS|Craft/Perform/Profession
+Profession: Fisherman|WIS|Craft/Perform/Profession
+Profession: Fortune-teller|WIS|Craft/Perform/Profession
+Profession: Gambler|WIS|Craft/Perform/Profession
+Profession: Gardener|WIS|Craft/Perform/Profession
+Profession: Herbalist|WIS|Craft/Perform/Profession
+Profession: Innkeeper|WIS|Craft/Perform/Profession
+Profession: Librarian|WIS|Craft/Perform/Profession
+Profession: Medium|WIS|Craft/Perform/Profession
+Profession: Merchant|WIS|Craft/Perform/Profession
+Profession: Midwife|WIS|Craft/Perform/Profession
+Profession: Miller|WIS|Craft/Perform/Profession
+Profession: Miner|WIS|Craft/Perform/Profession
+Profession: Other|WIS|Craft/Perform/Profession
+Profession: Porter|WIS|Craft/Perform/Profession
+Profession: Sailor|WIS|Craft/Perform/Profession
+Profession: Scribe|WIS|Craft/Perform/Profession
+Profession: Shepherd|WIS|Craft/Perform/Profession
+Profession: Soldier|WIS|Craft/Perform/Profession
+Profession: Soothsayer|WIS|Craft/Perform/Profession
+Profession: Stable Master|WIS|Craft/Perform/Profession
+Profession: Tanner|WIS|Craft/Perform/Profession
+Profession: Torturer|WIS|Craft/Perform/Profession
+Profession: Trapper|WIS|Craft/Perform/Profession
+Profession: Woodcutter|WIS|Craft/Perform/Profession
+Ride|DEX|General
+Sense Motive|WIS|General
+Skill Tricks| |General
+Sleight of Hand|DEX|General
+Speak Aboleth| |Social
+Speak Abyssal| |Social
+Speak Aklo| |Social
+Speak Aquan| |Social
+Speak Auran| |Social
+Speak Azlanti| |Social
+Speak Boggard| |Social
+Speak Celestial| |Social
+Speak Chelaxian| |Social
+Speak Cyclops| |Social
+Speak Common| |Social
+Speak D'ziriak| |Social
+Speak Daemonic| |Social
+Speak Dark Folk| |Social
+Speak Draconic| |Social
+Speak Drow Sign Language| |Social
+Speak Druidic| |Social
+Speak Dwarven| |Social
+Speak Elven| |Social
+Speak Ettin| |Social
+Speak Flail Snail| |Social
+Speak Giant| |Social
+Speak Gnoll| |Social
+Speak Gnome| |Social
+Speak Goblin| |Social
+Speak Grippli| |Social
+Speak Halfling| |Social
+Speak Hallit| |Social
+Speak Ignan| |Social
+Speak Infernal| |Social
+Speak Jistka| |Social
+Speak Kelish| |Social
+Speak Necril| |Social
+Speak Orc| |Social
+Speak Orvian| |Social
+Speak Osiriani| |Social
+Speak Osiriani, Ancient| |Social
+Speak Other Language| |Social
+Speak Polyglot| |Social
+Speak Protean| |Social
+Speak Sahaugin| |Social
+Speak Shadowtongue| |Social
+Speak Shoanti| |Social
+Speak Skald| |Social
+Speak Sphinx| |Social
+Speak Strix| |Social
+Speak Sylvan| |Social
+Speak Takritanin| |Social
+Speak Tengu| |Social
+Speak Terran| |Social
+Speak Thassilonian| |Social
+Speak Tien| |Social
+Speak Treant| |Social
+Speak Undercommon| |Social
+Speak Varisian| |Social
+Speak Vegepygmy| |Social
+Speak Vudrani| |Social
+Speak Worg| |Social
+Spellcraft|INT|General
+Stealth|DEX|General
+Survival|WIS|General
+Swim|STR|General
+Use Magic Device|CHA|General
