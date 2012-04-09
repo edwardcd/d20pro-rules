@@ -1,0 +1,125 @@
+Autohypnosis|WIS|FX
+Balance|DEX|Athletics
+Base Stat, Str|STR|Attributes
+Base Stat, Dex|DEX|Attributes
+Base Stat, Con|CON|Attributes
+Base Stat, Int|INT|Attributes
+Base Stat, Wis|WIS|Attributes
+Base Stat, Cha|CHA|Attributes
+Bluff|CHA|Social
+Climb|STR|Athletics
+Computer Use|INT|Knowledge
+Concentration|CON|FX
+Craft, Chemical|INT|Active
+Craft, Electronic|INT|Active
+Craft, Mechanical|INT|Active
+Craft, Pharmaceutical|INT|Active
+Craft, Structural|INT|Active
+Craft, Visual Art|INT|Active
+Craft, Writing|INT|Active
+Decipher Script|INT|Language
+Demolitions|INT|Active
+Diplomacy|CHA|Social
+Disable Device|INT|Active
+Disguise|CHA|Social
+Drive|DEX|Active
+Escape Artist|INT|Active
+Forgery|INT|Active
+Gamble|WIS|Social
+Gather Information|CHA|Social
+Handle Animal|CHA|Active
+Hide|DEX|Active
+Hobby| |Other
+Intimidate|CHA|Social
+Investigate|INT|Knowledge
+Jump|STR|Athletics
+Knowledge, Arcane Lore|INT|Knowledge
+Knowledge, Art|INT|Knowledge
+Knowledge, Behavioral Science|INT|Knowledge
+Knowledge, Business|INT|Knowledge
+Knowledge, Civics|INT|Knowledge
+Knowledge, Current Events|INT|Knowledge
+Knowledge, Earth & Life Science|INT|Knowledge
+Knowledge, History|INT|Knowledge
+Knowledge, Physical Science|INT|Knowledge
+Knowledge, Popular Culture|INT|Knowledge
+Knowledge, Streetwise|INT|Knowledge
+Knowledge, Tactics|INT|Knowledge
+Knowledge, Technology|INT|Knowledge
+Knowledge, Theology & Philosophy|INT|Knowledge
+Listen|WIS|Active
+Move Silently|DEX|Active
+Navigate|INT|Active
+Perform, Act|CHA|Social
+Perform, Dance|CHA|Social
+Perform, Keyboards|CHA|Social
+Perform, Percussion Instrument|CHA|Social
+Perform, Sing|CHA|Social
+Perform, Stand Up|CHA|Social
+Perform, Stringed Instrument|CHA|Social
+Perform, Wind instrument|CHA|Social
+Pilot|DEX|Active
+Profession|WIS|Social
+Psicraft|INT|FX
+Read/Write Apache| |Language
+Read/Write Arabic| |Language
+Read/Write Aramaic| |Language
+Read/Write Armenian| |Language
+Read/Write Chinese| |Language
+Read/Write Czech| |Language
+Read/Write Dutch| |Language
+Read/Write English| |Language
+Read/Write Farsi| |Language
+Read/Write French| |Language
+Read/Write German| |Language
+Read/Write Greek| |Language
+Read/Write Hebrew| |Language
+Read/Write Hindi| |Language
+Read/Write Irish| |Language
+Read/Write Italian| |Language
+Read/Write Japanese| |Language
+Read/Write Latin| |Language
+Read/Write Persian| |Language
+Read/Write Portuguesse| |Language
+Read/Write Russian| |Language
+Read/Write Scotish| |Language
+Read/Write Spanish| |Language
+Read/Write Welsh| |Language
+Repair|INT|Active
+Research|INT|Knowledge
+Ride|DEX|Athletics
+Search|INT|Active
+Sense Motive|WIS|Social
+Sign Language| |Language
+Sleight of Hand|DEX|Active
+Speak Apache| |Language
+Speak Arabic| |Language
+Speak Aramaic| |Language
+Speak Armenian| |Language
+Speak Chinese| |Language
+Speak Czech| |Language
+Speak Dutch| |Language
+Speak English| |Language
+Speak Farsi| |Language
+Speak French| |Language
+Speak German| |Language
+Speak Greek| |Language
+Speak Hebrew| |Language
+Speak Hindi| |Language
+Speak Irish| |Language
+Speak Italian| |Language
+Speak Japanese| |Language
+Speak Latin| |Language
+Speak Persian| |Language
+Speak Portuguesse| |Language
+Speak Russian| |Language
+Speak Scotish| |Language
+Speak Spanish| |Language
+Speak Welsh| |Language
+Spellcraft|INT|FX
+Spot|WIS|Active
+Survival|WIS|Active
+Swim|STR|Athletics
+Tactical Hand Signs| |Language
+Treat Injury|WIS|Active
+Tumble|DEX|Athletics
