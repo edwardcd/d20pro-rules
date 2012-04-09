@@ -1,0 +1,135 @@
+Generic|Ability Focus
+Generic|Ability Focus 2
+Generic|Acrobatic
+Generic|Agile
+Generic|Alertness
+Generic|Animal Affinity
+Generic|Armor Proficiency (light)
+Generic|Armor Proficiency (medium)
+Generic|Armor Proficiency (heavy)
+Generic|Athletic
+Generic|Augment Summoning
+Generic|Awesome Blow
+Generic|Blind-Fight
+Generic|Brew Potion
+Generic|Cleave
+Generic|Combat Casting
+Generic|Combat Expertise
+Generic|Combat Reflexes
+Generic|Craft Construct
+Generic|Craft Magic Arms and Armor
+Generic|Craft Rod
+Generic|Craft Staff
+Generic|Craft Wand
+Generic|Craft Wondrous Item
+Generic|Deceitful
+Generic|Deflect Arrows
+Generic|Deft Hands
+Generic|Diehard
+Generic|Diligent
+Generic|Dodge
+Generic|Empower Spell
+Generic|Empower Spell-Like Ability
+Generic|Endurance
+Generic|Energy Substitution
+Generic|Enlarge Spell
+Generic|Eschew Materials
+Generic|Exotic Weapon Profiency
+Generic|Exotic Weapon Profiency 2
+Generic|Extend Spell
+Generic|Extra Turning
+Generic|Far Shot
+Generic|Flyby Attack
+Generic|Forge Ring
+Generic|Great Cleave
+Generic|Great Fortitude
+Generic|Greater Spell Focus
+Generic|Greater Spell Penetration
+Generic|Greater Two-Weapon Fighting
+Generic|Greater Weapon Focus
+Generic|Greater Weapon Specialization
+Generic|Heighten Spell
+Generic|Hover
+Generic|Improved Bull Rush
+Generic|Improved Counterspell
+Generic|Improved Critical
+Generic|Improved Disarm
+Generic|Improved Feint
+Generic|Improved Flyby Attack
+Generic|Improved Grapple
+InitModifier|Improved Initiative|4
+Generic|Improved Multiattack
+Generic|Improved Natural Armor
+Generic|Improved Natural Armor 2
+Generic|Improved Natural Attack
+Generic|Improved Overrun
+Generic|Improved Precise Shot
+Generic|Improved Shield Bash
+Generic|Improved Sunder
+Generic|Improved Trip
+Generic|Improved Turning
+Generic|Improved Two-Weapon Fighting
+Generic|Improved Unarmed Strike
+Generic|Investigator
+Generic|Iron Will
+Generic|Leadership
+Generic|Lightning Reflexes
+Generic|Magical Aptitude
+Generic|Manyshot
+Generic|Martial Weapon Proficiency
+Generic|Maximimize Spell
+Generic|Mobility
+Generic|Mounted Archery
+Generic|Mounted Combat
+Generic|Multiattack
+Generic|Natural Spell
+Generic|Negotiator
+Generic|Nimble Fingers
+Generic|Persuasive
+Generic|Point Blank Shot
+Generic|Power Attack
+Generic|Precise Shot
+Generic|Quick Draw
+Generic|Quicken Spell
+Generic|Rapid Reload
+Generic|Rapid Shot
+Generic|Ride-By Attack
+Generic|Run
+Generic|Scribe Scroll
+Generic|Self-Sufficient
+Generic|Shield Proficiency
+Generic|Shot on the Run
+Generic|Silent Spell
+Generic|Simple Weapon Proficiency
+Generic|Skill Focus
+Generic|Skill Focus 2
+Generic|Snatch Arrows
+Generic|Spell Focus
+Generic|Spell Mastery
+Generic|Spell Penetration
+Generic|Spirited Charge
+Generic|Spring Attack
+Generic|Stealthy
+Generic|Still Spell
+Generic|Strong Soul
+Generic|Stunning Fist
+Generic|Toughness
+Generic|Toughness 2
+Generic|Toughness 3
+Generic|Tower Shield Proficiency
+Generic|Track
+Generic|Trample
+Generic|Two-Weapon Defense
+Generic|Two-Weapon Fighting
+Generic|Weapon Finesse
+Generic|Weapon Focus
+Generic|Weapon Focus 2
+Generic|Weapon Specialization
+Generic|Weapon Specialization 2
+Generic|Whirlwind Attack
+Generic|Widen Spell
+Generic|Wingover
+
+## Class Features
+Evasion|Evasion|false
+Evasion|Improved Evasion|true
