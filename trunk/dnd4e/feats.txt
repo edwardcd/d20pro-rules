@@ -1,0 +1,161 @@
+Generic|**********HEROIC FEATS**********
+Generic|Action Surge [Human]
+Generic|Agile Hunter [Ranger]
+Generic|Alertness
+Generic|Armor Proficiency (Chainmail)
+Generic|Armor Proficiency (Hide)
+Generic|Armor Proficiency (Leather)
+Generic|Armor Proficiency (Plate)
+Generic|Armor Proficiency (Scale)
+Generic|Astral Fire
+Generic|Backstabber
+Generic|Blade Opportunist
+Generic|Burning Blizzard
+Generic|Combat Reflexes
+Generic|Dark Fury
+Generic|Defensive Mobility
+Generic|Distracting Shield [Fighter]
+Generic|Dodge Giants [Dwarf]
+Generic|Dragonborn Frenzy [Dragonborn]
+Generic|Dragonborn Senses [Dragonborn]
+Generic|Durable
+Generic|Dwarven Weapon Training [Dwarf]
+Generic|Eladrin Soldier [Eladrin]
+Generic|Elven Precision [Elf]
+Generic|Enlarged Dragon Breath [Dragonborn]
+Generic|Escape Artist
+Generic|Expanded Spellbook
+Generic|Far Shot
+Generic|Far Throw
+Generic|Fast Runner
+Generic|Ferocious Rebuke [Tiefling]
+Generic|Group Insight [Half-Elf]
+Generic|Halfling Agility [Halfling]
+Generic|Healing Hands [Paladin]
+Generic|Hellfire Blood [Tiefling]
+Generic|Human Perseverance [Human]
+Generic|Improved Dark One's Blessing [Warlock]
+Generic|Improved Fate of the Void [Warlock]
+Generic|Improved Initiative
+Generic|Improved Misty Step [Warlock]
+Generic|Inspired Recovery [Warlord]
+Generic|Jack of All Trades
+Generic|Lethal Hunter [Ranger]
+Generic|Light Step [Elf]
+Generic|Linguist
+Generic|Long Jumper
+Generic|Lost in the Crowd [Halfling]
+Generic|Mounted Combat
+Generic|Nimble Blade
+Generic|Potent Challenge [Fighter]
+Generic|Power Attack
+Generic|Powerful Charge
+Generic|Precise Hunter [Ranger]
+Generic|Press the Advantage [Rogue]
+Generic|Quick Draw
+Generic|Raging Storm
+Generic|Ritual Caster
+Generic|Shield Proficiency (Heavy)
+Generic|Shield Proficiency (Light)
+Generic|Shield Push [Fighter]
+Generic|Skill Focus
+Generic|Skill Training
+Generic|Sure Climber
+Generic|Surprise Knockdown [Rogue]
+Generic|Tactical Assault [Warlord]
+Generic|Toughness
+Generic|Two-Weapon Defense
+Generic|Two-Weapon Fighting
+Generic|Weapon Focus
+Generic|Weapon Proficiency
+Generic|Wintertouched
+
+
+
+Generic|**********PARAGON FEATS**********
+Generic|-Action Recovery [Human]
+Generic|-Agile Athlete
+Generic|-Arcane Reach
+Generic|-Armor Specialization (Chainmail)
+Generic|-Armor Specialization (Hide)
+Generic|-Armor Specialization (Plate)
+Generic|-Armor Specialization (Scale)
+Generic|-Back to the Wall
+Generic|-Blood Thirst
+Generic|-Combat Anticipation
+Generic|-Combat Commander [Warlord]
+Generic|-Danger Sense
+Generic|-Deadly Axe
+Generic|-Defensive Advantage
+Generic|-Devastating Critical
+Generic|-Distant Shot
+Generic|-Dwarven Durability [Dwarf]
+Generic|-Empowered Dragon Breath [Dragonborn]
+Generic|-Evasion
+Generic|-Feywild Protection [Eladrin]
+Generic|-Fiery Rebuke [Tiefling]
+Generic|-Fleet-Footed
+Generic|-Great Fortitude
+Generic|-Hammer Rhythm
+Generic|-Heavy Blade Opportunity
+Generic|-Improved Second Wind
+Generic|-Inescapable Force
+Generic|-Iron Will
+Generic|-Lasting Frost
+Generic|-Light Blade Precision
+Generic|-Lightning Arc
+Generic|-Lightning Reflexes
+Generic|-Mettle
+Generic|-Point-Blank Shot
+Generic|-Polearm Gamble
+Generic|-Psychic Lock
+Generic|-Resounding Thunder
+Generic|-Running Shot [Elf]
+Generic|-Scimitar Dance
+Generic|-Second Implement [Wizard]
+Generic|-Secret Stride
+Generic|-Seize the Moment
+Generic|-Shield Specialization
+Generic|-Sly Hunter
+Generic|-Solid Sound
+Generic|-Spear Push
+Generic|-Spell Focus [Wizard]
+Generic|-Steady Shooter
+Generic|-Sweeping Flail
+Generic|-Twofold Curse [Warlock]
+Generic|-Uncanny Dodge
+Generic|-Underfoot [Halfling]
+
+
+Generic|**********EPIC FEATS**********
+Generic|--Arcane Mastery [Wizard]
+Generic|--Axe Mastery
+Generic|--Blind-Fight
+Generic|--Bludgeon Mastery
+Generic|--Epic Resurgence
+Generic|--Flail Mastery
+Generic|--Flanking Maneuver
+Generic|--Font of Radiance
+Generic|--Heavy Blade Mastery
+Generic|--Irresistible Flame
+Generic|--Light Blade Mastery
+Generic|--Pick Mastery
+Generic|--Spear Mastery
+Generic|--Spell Accuracy [Wizard]
+Generic|--Triumphant Attack
+Generic|--Two-Weapon Flurry
+Generic|--Unfettered Stride
+
+Generic|**********MULTICLASS FEATS**********
+
+Generic|Arcane Initiate [Multiclass Wizard]
+Generic|Initiate of the Faith [Multiclass Cleric]
+Generic|Pact Initiate [Multiclass Warlock]
+Generic|Sneak of Shadows [Multiclass Rogue]
+Generic|Soldier of the Faith [Multiclass Paladin]
+Generic|Student of Battle [Multiclass Warlord]
+Generic|Student of the Sword [Multiclass Fighter]
+Generic|Warrior of the Wild [Multiclass Ranger]
+Generic|Novice Power 
+Generic|Acolyte Power
+Generic|Adept Power
