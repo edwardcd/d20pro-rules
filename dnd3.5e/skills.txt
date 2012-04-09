@@ -1,0 +1,45 @@
+Appraise|INT|Knowledge
+Balance|DEX|Athletics
+Bluff|CHA|Social
+Climb|STR|Athletics
+Concentration|CON|Combat
+Craft|INT|Other
+Decipher Script|INT|Rogue
+Diplomacy|CHA|Social
+Disable Device|INT|Rogue
+Disguise|CHA|Rogue
+Escape Artist|DEX|Athletics
+Forgery|INT|Rogue
+Gather Information|CHA|Social
+Handle Animal|CHA|Social
+Heal|WIS|Combat
+Hide|DEX|Combat
+Intimidate|CHA|Social
+Jump|STR|Athletics
+Knowledge (arcana)|INT|Knowledge
+Knowledge (architect/engineering)|INT|Knowledge
+Knowledge (dungeoneering)|INT|Knowledge
+Knowledge (geography)|INT|Knowledge
+Knowledge (history)|INT|Knowledge
+Knowledge (local)|INT|Knowledge
+Knowledge (nature)|INT|Knowledge
+Knowledge (nobility)|INT|Knowledge
+Knowledge (religion)|INT|Knowledge
+Knowledge (the planes)|INT|Knowledge
+Listen|WIS|Combat
+Move Silently|DEX|Combat
+Open Lock|DEX|Rogue
+Perform|CHA|Social
+Profession|WIS|Other
+Ride|DEX|Athletics
+Search|INT|Other
+Sense Motive|WIS|Social
+Sleight of Hand|DEX|Rogue
+Speak Language ranks|Other
+Spellcraft|INT|Knowledge
+Spot|WIS|Combat
+Survival|WIS|Other
+Swim|STR|Athletics
+Tumble|DEX|Combat
+Use Magic Device|CHA|Combat
+Use Rope|DEX|Other
