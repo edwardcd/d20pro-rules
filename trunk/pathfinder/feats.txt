@@ -1,0 +1,882 @@
+## Class Features
+Evasion|Evasion|false
+Evasion|Improved Evasion|true
+Generic|Ability Focus
+Generic|Acadamae Graduate
+Generic|Acrobatic
+Generic|Acrobatic Steps
+Generic|Adder Strike
+Generic|Additional Traits
+Generic|Adept Champion
+Generic|Adept Channel
+Generic|Advance Warning
+Generic|Advanced Defensive Combat Training
+Generic|Agile Maneuvers
+Generic|Aldori Dueling Mastery
+Generic|Alertness
+Generic|Alignment Channel
+Generic|All Gnolls Must Die
+Generic|Allied Spellcaster
+Generic|Altitude Affinity
+Generic|Amateur Gunslinger
+Generic|Amateur Gunslinger
+Generic|Ammo Drop
+Generic|Amplified Rage
+Generic|Andoren Falconry
+Generic|Animal Affinity 
+Generic|Arc Slinger
+Generic|Arcane Armor Mastery
+Generic|Arcane Armor Training
+Generic|Arcane Blast
+Generic|Arcane Jinxer
+Generic|Arcane School Spirit
+Generic|Arcane Shield
+Generic|Arcane Strike
+Generic|Arcane Talent
+Generic|Arcane Vendetta
+Generic|Area Jinx
+Generic|Armor Proficiency (Heavy)
+Generic|Armor Proficiency (Heavy)
+Generic|Armor Proficiency (Light)
+Generic|Armor Proficiency (Light)
+Generic|Armor Proficiency (Medium)
+Generic|Armor Proficiency (Medium)
+Generic|Aspect of the Beast (Claws of the Beast)
+Generic|Aspect of the Beast (Night Senses - Darkvision +30&apos;)
+Generic|Aspect of the Beast (Night Senses - Darkvision 30&apos;)
+Generic|Aspect of the Beast (Night Senses - Low-Light Vision)
+Generic|Aspect of the Beast (Predator&apos;s Leap)
+Generic|Aspect of the Beast (Wild Instinct)
+Generic|Athletic
+Generic|Augment Summoning
+Generic|Awesome Blow
+Generic|Babble-Peddler
+Generic|Back to Back
+Generic|Bashing Finish
+Generic|Belier&apos;s Bite
+Generic|Betrayer
+Generic|Bewildering Koan
+Generic|Big Game Hunter
+Generic|Binding Throw
+Generic|Black Marketeer
+Generic|Bleeding Critical
+Generic|Blind-Fight
+Generic|Blinding Critical
+Generic|Bloatmage Initiate
+Generic|Blood of Heroes
+Generic|Blood Ties
+Generic|Blood Vengeance
+Generic|Bloodstone Manhunter
+Generic|Bloody Assault
+Generic|Bludgeoner
+Generic|Boar Ferocity
+Generic|Boar Shred
+Generic|Boar Style
+Generic|Body Shield
+Generic|Bodyguard
+Generic|Bolster Jinx
+Generic|Bolstered Resilience
+Generic|Bonebreaker
+Generic|Boon Companion: -Choose-
+Generic|Bouncing Spell
+Generic|Bounding Hammer
+Generic|Brain Eater
+Generic|Branded for Retribution
+Generic|Breadth of Experience
+Generic|Break Guard
+Generic|Brew Fleshcrafting Poison
+Generic|Brew Potion
+Generic|Broken Wing Gambit
+Generic|Brutal Grappler
+Generic|Bull Rush Strike
+Generic|Burn Rider
+Generic|Calm Disposition
+Generic|Careful Speaker
+Generic|Cartwheel Dodge
+Generic|Catch Off-Guard
+Generic|Caustic Slur
+Generic|Cavalry Formation
+Generic|Chainbreaker
+Generic|Channel Smite
+Generic|Channeled Revival
+Generic|Channeling Scourge
+Generic|Charge Through
+Generic|Charging Hurler
+Generic|Childlike
+Generic|Chokehold
+Generic|City Born - Korvosa
+Generic|City Born - Magnimar
+Generic|City Born - Riddleport
+Generic|Civilized Ghoulishness
+Generic|Cleave
+Generic|Cleaving Finish
+Generic|Close-Quarters Thrower
+Generic|Cloud Step
+Generic|Clustered Shots
+Generic|Cockatrice Strike
+Generic|Combat Casting
+Generic|Combat Expertise
+Generic|Combat Medic
+Generic|Combat Patrol
+Generic|Combat Reflexes
+Generic|Combat Style Master
+Generic|Command Undead
+Generic|Companion Figurine
+Generic|Conceal Scent
+Generic|Contingent Chenneling
+Generic|Cooperative Crafting
+Generic|Coordinated Charge
+Generic|Coordinated Defense
+Generic|Coordinated Maneuvers
+Generic|Cornugon Shield
+Generic|Cornugon Smash
+Generic|Cornugon Stun
+Generic|Cornugon Trip
+Generic|Corsair of Taldor
+Generic|Cosmopolitan
+Generic|Country Born
+Generic|Covering Defense
+Generic|Craft Construct
+Generic|Craft Magic Arms &amp; Armor
+Generic|Craft Rod
+Generic|Craft Staff
+Generic|Craft Wand
+Generic|Craft Wondrous Item
+Generic|Crane Riposte
+Generic|Crane Style
+Generic|Crane Wing
+Generic|Crippling Critical
+Generic|Critical Focus
+Generic|Critical Mastery
+Generic|Crossbow Mastery
+Generic|Crusader's Fist
+Generic|Crushing Blow
+Generic|Cry of Mercy
+Generic|Cypher Magic
+Generic|Cypher Script
+Generic|Dark Adept
+Generic|Darting Viper
+Generic|Dastardly Finish
+Generic|Dazing Assault
+Generic|Dazing Spell
+Generic|Dazzling Display
+Generic|Deadly Aim
+Generic|Deadly Finish
+Generic|Deadly Stroke
+Generic|Deafening Critical
+Generic|Death from Above
+Generic|Death or Glory
+Generic|Death’s Suitor
+Generic|Deathless Initiate
+Generic|Deathless Master
+Generic|Deathless Zealot
+Generic|Deceitful
+Generic|Deceptive Exchange
+Generic|Deep Drinker
+Generic|Deep Sight
+Generic|Defensive Combat Training
+Generic|Defensive Weapon Training
+Generic|Deflect Arrows
+Generic|Deft Hands
+Generic|Deft Shootist
+Generic|Deft Shootist Deed
+Generic|Demon Hunter
+Generic|Demonic Obedience
+Generic|Derro Magic
+Generic|Derro Magister
+Generic|Dervish Dance
+Generic|Desert Dweller
+Generic|Desperate Battler
+Generic|Destroyer’s Blessing 
+Generic|Destructive Dispel
+Generic|Devastating Strike
+Generic|Devil&apos;s Foe 
+Generic|Diehard 
+Generic|Dilettante 
+Generic|Dimensional Agility
+Generic|Dimensional Assault
+Generic|Dimensional Dervish
+Generic|Dimensional Maneuvers
+Generic|Dimensional Savant
+Generic|Disarming Strike 
+Generic|Disassemble Magic Item 
+Generic|Discordant Voice
+Generic|Disengaging Feint
+Generic|Disengaging Flourish
+Generic|Disengaging Shot
+Generic|Disorienting Maneuver
+Generic|Dispel Synergy
+Generic|Dispelling Critical
+Generic|Dispelling Fist
+Generic|Disposable Weapon
+Generic|Disrupting Shot 
+Generic|Disruptive 
+Generic|Disruptive Recall
+Generic|Disruptive Spell 
+Generic|Distance Thrower
+Generic|Distant Jinx 
+Generic|Distant Jinx 
+Generic|Divine Deception 
+Generic|Diviner&apos;s Delving 
+Generic|Djinni Spin
+Generic|Djinni Spirit
+Generic|Djinni Style
+Generic|Dodge 
+Generic|Domain Strike
+Generic|Dorn-Dergar Master 
+Generic|Double Bane
+Generic|Double Slice 
+Generic|Draconic Defender 
+Generic|Draconic Discipline 
+Generic|Drag Down
+Generic|Dragon Ferocity
+Generic|Dragon Roar
+Generic|Dragon Style
+Generic|Dramatic Display
+Generic|Dreadful Carnage 
+Generic|Duck and Cover 
+Generic|Eagle Eyes 
+Generic|Eagle Knight Candidate 
+Generic|Earth Child Binder
+Generic|Earth Child Style
+Generic|Earth Child Topple
+Generic|Eclectic 
+Generic|Ectoplasmic Spell 
+Generic|Effortless Trickery 
+Generic|Efreeti Stance
+Generic|Efreeti Style
+Generic|Efreeti Touch
+Generic|Eldritch Claws 
+Generic|Elemental Channel 
+Generic|Elemental Fist
+Generic|Elemental Focus 
+Generic|Elemental Spell 
+Generic|Elephant Stomp 
+Generic|Elusive Redirection
+Generic|Elven Accuracy 
+Generic|Empower Spell 
+Generic|Empower Spell-Like Ability
+Generic|Endurance 
+Generic|Endure Pain (Zon-Kuthon’s Kiss) 
+Generic|Enfilading Fire
+Generic|Enforcer 
+Generic|Enlarge Spell 
+Generic|Equipment Trick - Kaava Musk 
+Generic|Equipment Trick (heavy blade scabbard) 
+Generic|Equipment Trick (shield) 
+Generic|Escape Route
+Generic|Eschew Materials 
+Generic|Exhausting Critical 
+Generic|Exotic Weapon Proficiency 
+Generic|Exotic Weapon Proficiency (Firearms) 
+Generic|Expanded Arcana 
+Generic|Experienced Vagabond 
+Generic|Expert Driver
+Generic|Extend Spell 
+Generic|Extra Bane
+Generic|Extra Bombs 
+Generic|Extra Channel 
+Generic|Extra Discovery 
+Generic|Extra Gnome Magic
+Generic|Extra Grit
+Generic|Extra Grit 
+Generic|Extra Hex 
+Generic|Extra Ki 
+Generic|Extra Lay on Hands 
+Generic|Extra Mercy 
+Generic|Extra Performance 
+Generic|Extra Rage 
+Generic|Extra Rage Power 
+Generic|Extra Revelation 
+Generic|Extra Rogue Talent 
+Generic|Eye of the Arclord 
+Generic|False Opening
+Generic|Far Shot 
+Generic|Fascination Jinx 
+Generic|Fast Crawl 
+Generic|Fast Drinker 
+Generic|Fast Healer
+Generic|Favored Defense 
+Generic|Fearsome Barricade 
+Generic|Feint Partner
+Generic|Felling Escape
+Generic|Felling Smash
+Generic|Feral Combat Training
+Generic|Ferocious Tenacity 
+Generic|Fey Foundling 
+Generic|Field Repair
+Generic|Fiendish Facade 
+Generic|Fiendish Heritage 
+Generic|Fight On 
+Generic|Final Embrace
+Generic|Final Embrace Horror
+Generic|Final Embrace Master
+Generic|Fire God’s Blessing 
+Generic|Flagbearer 
+Generic|Flame-Tested Survivor 
+Generic|Flanking Foil
+Generic|Fleet 
+Generic|Flyby Attack 
+Generic|Focused Discipline 
+Generic|Focused Shot
+Generic|Focused Spell 
+Generic|Following Step 
+Generic|Forge Ring 
+Generic|Fortified Armor Training
+Generic|Fortune Teller 
+Generic|Free Spirit 
+Generic|Friendly Switch 
+Generic|Furious Finish
+Generic|Furious Focus 
+Generic|Fury’s Fall 
+Generic|Fury’s Snare 
+Generic|Galley Slave 
+Generic|Gang Up 
+Generic|Gift of Sight 
+Generic|Gifted Mesmerist 
+Generic|Gnome Trickster 
+Generic|Go Unnoticed 
+Generic|Godless Healing 
+Generic|Godless Healing 
+Generic|Gore Fiend 
+Generic|Gorgon&apos;s Fist 
+Generic|Gory Finish
+Generic|Grand Master Performer 
+Generic|Graverisen 
+Generic|Great Cleave 
+Generic|Great Fortitude 
+Generic|Greater Blind-Fight 
+Generic|Greater Bull Rush 
+Generic|Greater Channel Smite
+Generic|Greater Dirty Trick 
+Generic|Greater Disarm 
+Generic|Greater Drag 
+Generic|Greater Elemental Focus 
+Generic|Greater Feint 
+Generic|Greater Grapple 
+Generic|Greater Overrun 
+Generic|Greater Penetrating Strike 
+Generic|Greater Rending Fury
+Generic|Greater Reposition 
+Generic|Greater Shield Focus 
+Generic|Greater Shield Specialization
+Generic|Greater Snap Shot
+Generic|Greater Spell Focus: -Choose- 
+Generic|Greater Spell Penetration 
+Generic|Greater Steal 
+Generic|Greater Sunder 
+Generic|Greater Trip 
+Generic|Greater Two-weapon Fighting 
+Generic|Greater Vital Strike 
+Generic|Greater Weapon Focus 
+Generic|Greater Weapon Specialization 
+Generic|Greater Whip Mastery
+Generic|Green Faith Acolyte 
+Generic|Groundling 
+Generic|Guided Hand
+Generic|Gunsmithing
+Generic|Gunsmithing 
+Generic|Halfling Slinger 
+Generic|Hamatula Grasp 
+Generic|Hamatula Strike 
+Generic|Hamatulatsu 
+Generic|Hammer the Gap
+Generic|Harmonic Sage
+Generic|Harmonic Spell 
+Generic|Harrowed 
+Generic|Haunted Gnome
+Generic|Haunted Gnome Assault
+Generic|Haunted Gnome Shroud
+Generic|Healer&apos;s Touch 
+Generic|Heighten Spell 
+Generic|Heightened Trap Sense 
+Generic|Hellcat Pounce 
+Generic|Hellcat Stealth 
+Generic|Helpless Prisoner 
+Generic|Hermean Blood 
+Generic|Hero&apos;s Fortune 
+Generic|Hero’s Display
+Generic|Heroic Defiance  
+Generic|Heroic Recovery  
+Generic|Hex Strike
+Generic|History of Scars 
+Generic|Horse Master
+Generic|Hover 
+Generic|Impact Critical Shot
+Generic|Impaling Charge 
+Generic|Impaling Critical
+Generic|Improved Back to Back
+Generic|Improved Blind-Fight 
+Generic|Improved Bull Rush 
+Generic|Improved Channel 
+Generic|Improved Charging Hurler
+Generic|Improved Cleaving Finish
+Generic|Improved Counterspell 
+Generic|Improved Critical 
+Generic|Improved Devastating Strike
+Generic|Improved Dirty Trick 
+Generic|Improved Disarm 
+Generic|Improved Drag 
+Generic|Improved Familiar 
+Generic|Improved Feint 
+Generic|Improved Feint Partner
+Generic|Improved Grapple 
+Generic|Improved Great Fortitude 
+Generic|Improved Impaling Critical
+Generic|Improved Iron Will  
+Generic|Improved Ki Throw 
+Generic|Improved Lightning Reflexes  
+Generic|Improved Natural Armor 
+Generic|Improved Natural Attack 
+Generic|Improved Overrun 
+Generic|Improved Precise Shot 
+Generic|Improved Rending Fury
+Generic|Improved Reposition 
+Generic|Improved Second Chance 
+Generic|Improved Share Spells 
+Generic|Improved Shield Bash 
+Generic|Improved Sidestep 
+Generic|Improved Snap Shot
+Generic|Improved Stalwart
+Generic|Improved Steal 
+Generic|Improved Stonecunning 
+Generic|Improved Sunder 
+Generic|Improved Trip 
+Generic|Improved Two-Weapon Feint
+Generic|Improved Two-weapon Fighting 
+Generic|Improved Unarmed Strike 
+Generic|Improved Vital Strike 
+Generic|Improved Whip Mastery
+Generic|Improvised Weapon Mastery 
+Generic|In Harm&apos;s Way 
+Generic|Indigestible 
+Generic|Indomitable Mount 
+Generic|Inscribe Rune 
+Generic|Instant Judgment
+Generic|Instrumental 
+Generic|Intensified Spell 
+Generic|Intimidating Bane
+Generic|Intimidating Prowess 
+Generic|Invested Magic 
+Generic|Invoke Primal Instinct 
+Generic|Iomedaean Sword Oath 
+Generic|Iron Will 
+Generic|Ironguts 
+Generic|Ironhide 
+Generic|Irrisen Icemage 
+Generic|Jackal Blood 
+Generic|Jaguar Pounce 
+Generic|Janni Rush
+Generic|Janni Style
+Generic|Janni Tempest
+Generic|Jawbreaker
+Generic|Jinx Alchemy 
+Generic|Jinxed Spell 
+Generic|Juggle Load 
+Generic|Keen Scent 
+Generic|Ki Diversity (Bone Crusher) 
+Generic|Ki Diversity (Dim Mak) 
+Generic|Ki Diversity (Mind of the Kensai) 
+Generic|Ki Diversity (Wings of the Crane) 
+Generic|Ki Diversity (Zen Combatant) 
+Generic|Ki Throw 
+Generic|Kirin Path
+Generic|Kirin Strike
+Generic|Kirin Style
+Generic|Knockout Artist
+Generic|Lamashtu&apos;s Mark
+Generic|Landing Roll
+Generic|Large Target 
+Generic|Leadership  
+Generic|Leaf Singer 
+Generic|Leaping Shot
+Generic|Leaping Shot Deed 
+Generic|Let Them Come 
+Generic|Light Step 
+Generic|Lightning Reflexes 
+Generic|Lightning Stance 
+Generic|Lingering Performance 
+Generic|Lingering Spell 
+Generic|Lone Wolf 
+Generic|Lookout 
+Generic|Lost in the Crowd 
+Generic|Low Profile 
+Generic|Luck of Heroes 
+Generic|Lucky Halfling 
+Generic|Lunge 
+Generic|Magical Aptitude 
+Generic|Major Spell Expertise 
+Generic|Malicious Eye 
+Generic|Mantis Style
+Generic|Mantis Torment
+Generic|Mantis Wisdom
+Generic|Manyshot 
+Generic|Marid Coldsnap
+Generic|Marid Spirit
+Generic|Marid Style
+Generic|Martial Weapon Proficiency 
+Generic|Master Alchemist 
+Generic|Master Combat Performer
+Generic|Master Craftsman 
+Generic|Master Delver 
+Generic|Master of Disguise 
+Generic|Master of the Ledger 
+Generic|Master of Wonders 
+Generic|Master Performer (Kitharodian Academy) 
+Generic|Master Siege Engineer
+Generic|Masterful Display
+Generic|Maximize Spell 
+Generic|Maximized Spellstrike
+Generic|Medusa&apos;s Wrath 
+Generic|Menacing Bane
+Generic|Merciful Bane
+Generic|Merciful Spell 
+Generic|Minor Spell Expertise 
+Generic|Minotaur&apos;s Charge 
+Generic|Missile Shield 
+Generic|Mobility 
+Generic|Mocking Dance
+Generic|Monastic Legacy
+Generic|Monkey Lunge 
+Generic|Monkey Moves
+Generic|Monkey Shine
+Generic|Monkey Style
+Generic|Monstrous Mask 
+Generic|Moonlight Stalker
+Generic|Moonlight Stalker Feint
+Generic|Moonlight Stalker Master
+Generic|Mounted Archery 
+Generic|Mounted Blade 
+Generic|Mounted Combat 
+Generic|Mounted Onslaught 
+Generic|Mounted Shield 
+Generic|Mounted Skirmisher 
+Generic|Multiattack 
+Generic|Multiweapon Fighting 
+Generic|Murderer’s Circle
+Generic|Nameless Servitor 
+Generic|Natural Spell 
+Generic|Neckbreaker
+Generic|Necromantic Affinity 
+Generic|Net Adept
+Generic|Net and Trident
+Generic|Net Maneuvering
+Generic|Net Trickery
+Generic|Night Stalker 
+Generic|Nightmare Fist
+Generic|Nightmare Striker
+Generic|Nightmare Weaver
+Generic|Nimble Moves 
+Generic|No Name
+Generic|No Name 
+Generic|Noble Scion of Lore 
+Generic|Noble Scion of Magic 
+Generic|Noble Scion of Peace 
+Generic|Noble Scion of the Arts 
+Generic|Noble Scion of War 
+Generic|Noxious Bite
+Generic|Old Cults Awakener 
+Generic|Ominous Mien 
+Generic|Ooze Companion 
+Generic|Ooze Whisperer 
+Generic|Opening Volley
+Generic|Osiriontologist 
+Generic|Osyluth Guile
+Generic|Outflank 
+Generic|Pack Attack
+Generic|Paired Opportunists 
+Generic|Panther Claw
+Generic|Panther Parry
+Generic|Panther Style
+Generic|Parry Spell 
+Generic|Parting Shot
+Generic|Pass for Human 
+Generic|Passing Trick
+Generic|Penetrating Strike 
+Generic|Perfect Strike 
+Generic|Performance Weapon Mastery
+Generic|Performing Combatant
+Generic|Persistent Spell 
+Generic|Persuasive 
+Generic|Pesh Euphoria 
+Generic|Pesh Healing 
+Generic|Pesh Rejuvenation 
+Generic|Pin Down
+Generic|Pinning Knockout
+Generic|Pinning Rend
+Generic|Pinpoint Poisoner
+Generic|Pinpoint Targeting 
+Generic|Piranha Strike
+Generic|Planar Wild Shape
+Generic|Point Blank Master 
+Generic|Point Blank Shot 
+Generic|Possess Creature
+Generic|Possess Location
+Generic|Possess Object
+Generic|Power Attack 
+Generic|Practiced Tactician 
+Generic|Practiced Tactician 
+Generic|Precise Shot 
+Generic|Precise Strike 
+Generic|Preferred Spell 
+Generic|Prone Shooter
+Generic|Prone Slinger
+Generic|Punishing Kick  
+Generic|Pushing Assault 
+Generic|Quick at Hand 
+Generic|Quick Bull Rush
+Generic|Quick Dirty Trick
+Generic|Quick Drag
+Generic|Quick Draw 
+Generic|Quick Reposition
+Generic|Quick Steal
+Generic|Quicken Spell 
+Generic|Quicken Spell-Like Ability 
+Generic|Racial Heritage:
+Generic|Raging Brutality
+Generic|Raging Deathblow
+Generic|Raging Hurler
+Generic|Raging Throw
+Generic|Raging Vitality 
+Generic|Rapid Grappler
+Generic|Rapid Reload
+Generic|Rapid Reload
+Generic|Rapid Shot 
+Generic|Ray Shield 
+Generic|Razortusk 
+Generic|Reach Spell 
+Generic|Rebounding Leap
+Generic|Rebuffing Reduction
+Generic|Relentless Butcher 
+Generic|Religious Pilgrim (Profane) 
+Generic|Religious Pilgrim (Sacred) 
+Generic|Rending Claws 
+Generic|Rending Fury
+Generic|Repositioning Strike 
+Generic|Revelation Strike
+Generic|Rhetorical Flourish
+Generic|Rhino Charge 
+Generic|Ricochet Shot Deed
+Generic|Ricochet Shot Deed 
+Generic|Ride-by Attack 
+Generic|Righteous Healing
+Generic|Rugged Northerner 
+Generic|Run 
+Generic|Sable Company Marine 
+Generic|Sahir-Afiyun 
+Generic|Sandwalker 
+Generic|Sap Adept
+Generic|Sap Master
+Generic|Savage Display
+Generic|Saving Shield 
+Generic|Scent of Fear 
+Generic|Scholar
+Generic|School Strike
+Generic|Scorpion Style
+Generic|Scribe Scroll 
+Generic|Sea Legs
+Generic|Second Chance 
+Generic|Secret Signs 
+Generic|Secret Stash Deed
+Generic|Secret Stash Deed 
+Generic|Seize the Moment
+Generic|Selective Channeling 
+Generic|Selective Spell 
+Generic|Self-sufficient 
+Generic|Serpent Lash 
+Generic|Shade of the Uskwood 
+Generic|Shadow Strike 
+Generic|Shaitan Earthblast
+Generic|Shaitan Skin
+Generic|Shaitan Style
+Generic|Shake It Off
+Generic|Shambling Monolith 
+Generic|Shapeshifter Foil
+Generic|Shapeshifting Hunter
+Generic|Shared Insight
+Generic|Shared Judgment
+Generic|Sharp Senses 
+Generic|Shatter Defenses 
+Generic|Shield Focus 
+Generic|Shield Master 
+Generic|Shield of Swings 
+Generic|Shield Proficiency 
+Generic|Shield Proficiency 
+Generic|Shield Slam 
+Generic|Shield Specialization 
+Generic|Shield Wall 
+Generic|Shielded Caster 
+Generic|Shingle Runner 
+Generic|Shot On The Run 
+Generic|Shrewd Tactician 
+Generic|Sickening Critical 
+Generic|Sickening Spell 
+Generic|Sidestep 
+Generic|Siege Commander
+Generic|Siege Engineer
+Generic|Siege Gunner
+Generic|Signature Deed
+Generic|Signature Deed 
+Generic|Silent as Stone 
+Generic|Silent Performer 
+Generic|Silent Spell 
+Generic|Simple Weapon Proficiency - All 
+Generic|Skill Focus: -Choose- 
+Generic|Skilled Driver
+Generic|Slayer’s Knack
+Generic|Sliding Axe Throw 
+Generic|Sling Flail
+Generic|Sluggish Jinx 
+Generic|Sly Draw 
+Generic|Smash 
+Generic|Smell Fear 
+Generic|Snake Fang
+Generic|Snake Sidewind
+Generic|Snake Style
+Generic|Snap Shot
+Generic|Snapping Turtle Clutch
+Generic|Snapping Turtle Shell
+Generic|Snapping Turtle Style
+Generic|Snatch 
+Generic|Snatch Arrows 
+Generic|Sneaking Precision
+Generic|Sneaky Vagabond 
+Generic|Sociable 
+Generic|Sorcerous Strike
+Generic|Sow Terror
+Generic|Spell Bane
+Generic|Spell Focus 
+Generic|Spell Mastery 
+Generic|Spell Penetration 
+Generic|Spell Perfection 
+Generic|Spellbreaker 
+Generic|Spider Step 
+Generic|Spinning Throw
+Generic|Spirited Charge 
+Generic|Splash Weapon Mastery 
+Generic|Splintering Weapon
+Generic|Spring Attack 
+Generic|Stabbing Shot 
+Generic|Stage Combatant
+Generic|Staggering Critical 
+Generic|Stalwart
+Generic|Stance of the Xorn 
+Generic|Stand Still 
+Generic|Stealth Synergy
+Generic|Stealthy 
+Generic|Steel Soul 
+Generic|Step Up 
+Generic|Step Up and Strike 
+Generic|Still Spell 
+Generic|Stoic 
+Generic|Stone Clinger 
+Generic|Stone Sense 
+Generic|Stone Singer 
+Generic|Stone-Faced 
+Generic|Storm-Lashed 
+Generic|Stormstruck Shambler 
+Generic|Strangler
+Generic|Strength of the Diamond 
+Generic|Strike Back 
+Generic|Strong Comeback
+Generic|Stunning Assault
+Generic|Stunning Critical  
+Generic|Stunning Fist  
+Generic|Stunning Pin
+Generic|Suffocating Strangulation 
+Generic|Summoner&apos;s Call: 
+Generic|Sundering Strike 
+Generic|Sure Grasp
+Generic|Survivor 
+Generic|Swap Places 
+Generic|Swarm Dodger 
+Generic|Swift Aid 
+Generic|Sword And Pistol
+Generic|Sympathetic Rage 
+Generic|Taldan Conscript 
+Generic|Taldan Duelist 
+Generic|Taldan Knight 
+Generic|Taldan Squire 
+Generic|Talmandor&apos;s Lifting 
+Generic|Tandem Trip
+Generic|Tantrum 
+Generic|Target of Opportunity
+Generic|Taunt 
+Generic|Team Pickpocketing
+Generic|Team Up 
+Generic|Teleport Tactician 
+Generic|Tenacious Transmutation 
+Generic|Thanatopic Spell 
+Generic|Threatening Illusion 
+Generic|Threnodic Spell 
+Generic|Thrill of the Kill 
+Generic|Throw Anything 
+Generic|Thunder and Fang 
+Generic|Thundering Spell 
+Generic|Tiger Claws
+Generic|Tiger Pounce
+Generic|Tiger Style
+Generic|Tiring Critical 
+Generic|Totem Spirit - Lyrune-Quah (Moon Clan) 
+Generic|Totem Spirit - Shadde-Quah (Axe Clan) 
+Generic|Totem Spirit - Shriikirri-Quah (Hawk Clan) 
+Generic|Totem Spirit - Shundar-Quah (Spire Clan) 
+Generic|Totem Spirit - Sklar-Quah (Sun Clan) 
+Generic|Totem Spirit - Skoan-Quah (Skull Clan) 
+Generic|Totem Spirit - Tamiir-Quah (Wind Clan) 
+Generic|Touch of Serenity 
+Generic|Touched by Sacred Fire 
+Generic|Toughness 
+Generic|Touvette Defender
+Generic|Tower Shield Proficiency 
+Generic|Tower Shield Proficiency 
+Generic|Trample 
+Generic|Trapper’s Setup
+Generic|Trick Riding 
+Generic|Tripping Strike 
+Generic|Turn Undead
+Generic|Twin Thunders
+Generic|Twin Thunders Flurry
+Generic|Twin Thunders Master
+Generic|Two-Handed Thrower
+Generic|Two-weapon Defense 
+Generic|Two-Weapon Feint
+Generic|Two-weapon Fighting 
+Generic|Two-weapon Rend 
+Generic|Umbral Scion 
+Generic|Under and Over 
+Generic|Underfoot 
+Generic|Unseat 
+Generic|Urban Forager 
+Generic|Varisian Tattoo 
+Generic|Verbose Performer 
+Generic|Vermin Heart 
+Generic|Versatile Jinxer 
+Generic|Vicious Stomp
+Generic|Vital Strike 
+Generic|Wand Dancer 
+Generic|War Singer 
+Generic|Warleader’s Rage 
+Generic|Warren Digger 
+Generic|Warren Digger 
+Generic|Wave Strike
+Generic|Weapon Finesse 
+Generic|Weapon Focus
+Generic|Weapon Specialization 
+Generic|Well-Prepared 
+Generic|Wheeling Charge 
+Generic|Whip Mastery
+Generic|Whip-Slinger 
+Generic|Whirlwind Attack 
+Generic|Whispered Knowledge (Secret of Blood) 
+Generic|Whispered Knowledge (Secret of Bone) 
+Generic|Whispered Knowledge (Secret of Brains) 
+Generic|Whispered Knowledge (Secret of the Grave) 
+Generic|Widen Spell 
+Generic|Wind Stance 
+Generic|Wingover 
+Generic|Witty Feint 
+Generic|Worst Case Jinxer 
+InitModifier|Improved Initiative 
+
+
