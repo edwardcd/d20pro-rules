@@ -1,0 +1,300 @@
+*****************Core Spells*********************
+Aid
+Animate Dead
+Arcane Eye
+Arcane Lock
+Augury
+Bane
+Bestow Curse
+Bless
+Blur
+Break Enchantment
+Burning Hands
+Cause Fear
+Change Self
+Cloudkill
+Command
+Comprehend Languages
+Cone of Cold
+Confusion
+Create Water
+Cure Critical Wounds
+Cure Light Wounds
+Cure Minor Wounds
+Cure Moderate Wounds
+Cure Serious Wounds
+Darkvision
+Daze
+Delay Poison
+Detect Magical Aura
+Dimension Door
+Discern Lies
+Dispel Magic
+Displacement
+Energy Trap
+Enhance Ability
+Faith’s Fury
+Fear
+Feather Fall
+Fireball
+Flaming Projectiles
+Flaming Wrath
+Freedom of Movement
+Glitterdust
+Glyph of Warding
+Greater Command
+Greater Magic Weapon
+Halt Undead
+Haste
+Hold Monster
+Hold Person
+Hold Portal
+Ice Storm
+Inflict Critical Wounds
+Inflict Light Wounds
+Inflict Minor Wounds
+Inflict Moderate Wounds
+Inflict Serious Wounds
+Insect Plague
+Invisibility
+Invisibility Sphere
+Jump
+Keen Edge
+Knock
+Lesser Restoration
+Levitate
+Light
+Lightning Bolt
+Locate Object
+Mage Armor
+Mage Hand
+Magic Missile
+Magic Mouth
+Magic Weapon
+Mask Metal
+Mass Cure Light Wounds
+Mass Inflict Light Wounds
+Message
+Minor Globe of Invulnerability
+Neutralize Poison
+Passwall
+Phantom Watchdog
+Power Device
+Prayer
+Prestidigitation
+Protection from Arrows/Bullets
+Raise Dead
+Ray of Fatigue
+Read Magic
+Remove Curse
+Remove Disease
+Remove Fear
+Remove Paralysis
+Resist Energy
+Resistance
+Restoration
+Searing Light
+See Invisibility
+Shield
+Shield of Faith
+Shout
+Silence
+Sleep
+Slow
+Spider Climb
+Status
+Stoneskin
+Telekinesis
+Tongues
+True Seeing
+True Strike
+Virtue
+Wall of Fire
+Wall of Force
+Wall of Ice
+Wall of Iron
+Wall of Stone
+Water Breathing
+Web
+Zone of Truth
+*****************Urban Arcana Spells*********************
+Arcane Graffiti
+Burglar's Buddy
+Clean
+Clown Car
+Crawling Carpet
+Dancing Lights
+Darkness
+Dataread
+Daylight
+Degauss
+Detect Scrying
+Divination
+Electromagnetic Pulse
+Faerie Fire
+Gaseous Form
+Haywire
+Improved Arcane Lock
+Instant Connectivity
+Instant Identify
+Machine Invisibility
+Magic Bullets
+Magic Circle
+Magic ID
+Magic Message
+Mask Metal
+Mending
+Nondetection
+Obscuring Mist
+Phantasmal Killer
+Phantom Chopper
+Phantom Limousine
+Phantom Prjectiles
+Rage of Bees
+Recharge
+Relay Text
+Sanctuary
+Scrying
+Secret Pocket
+Secret Vault
+Seeming
+Shadowmoth Plague
+Shatter
+Shield Other
+Shutdown
+Speak with Animals
+Spell Immunity
+Spell Resistance
+Summon vivilor I
+Summon Vivilor II
+Summon Vivilor III
+Summon Vivilor IV
+Summon Vivilor V
+Synchronicity
+Trace Purge
+Undetectable Magical Aura
+Vampiric Touch
+Via Negativa
+Wall Walk
+Wire Walk
+*****************d20 Past Spells*********************
+Animal Messenger
+Animal Trance
+Awaken
+Barkskin
+Call Lightning
+Call Lightning Storm
+Calm Animals
+Charm Animal
+Command Plants
+Contagion
+Control Water
+Dominate Animal
+Entangle
+Fog Cloud
+Goodberry
+Gust of Wind
+Hide from Animals
+Hold Animal
+Know Direction
+Pass without Trace
+Plant Growth
+Rusting Grasp
+Sleet Storm
+Speak with Plants
+Spike Stones
+Spirit Club
+Tree Stride
+Warp Wood
+*****************Psionic Powers*********************
+Attraction pp1
+Bite Of The Tiger pp5
+Biofeedback pp1
+Biofeedback, Improved pp5
+Bioweapon, Greater pp7
+Bioweapon, Lesser pp1
+Body Adjustment pp1
+Brain Lock pp3
+Burst pp1
+Call Weaponry Exotic/Archiac pp11
+Call Weaponry Longarm pp7
+Call Weaponry Pistol pp3
+Call Weaponry Simple Melee pp1
+Catapsi pp9
+Chameleon pp3
+Charm Creature pp5
+Charm Person pp1
+Clairaudience/Clairvoyance pp3
+Claws Of The Bear pp3
+Combat Precognition pp1
+Combat Focus pp3
+Combat Prescience pp3
+Conceal Thoughts pp1
+Concussion pp3
+Concussion, Lesser pp1
+Control Object pp1
+Daze pp1
+Detect Poison pp1
+Detect Psionics pp1
+Distract pp1
+Dark Vision pp3
+Detect Thoughts pp3
+Dimension Door pp7
+Domination pp7
+Domination, Lesser pp5
+Domintion Slide pp5
+Electric Charge pp3
+Electronic Fog pp3
+False Sensory Input pp5
+Far Hand pp1
+Far Punch pp1
+Fate Of One pp7
+Feather Fall pp1
+Fire Bolt pp1
+Fire Storm pp7
+Finger Of Fire pp1
+Fly pp5
+Forced Mindlink pp7
+Freedom Of Movement pp7
+Ghost Shot pp7
+Identify pp1
+Immovability pp7
+Inertial Barrier pp7
+Inflict Pain pp3
+Instant Reload pp5
+Invisibility Purge pp5
+Knock pp3
+Levitate pp3
+Lightning Strike pp5
+Mental Blast pp5
+Metaphysical Weapon pp5
+Mind Darts pp5
+Mindlink pp5
+Mindlink, Lesser pp1
+Mind Probe pp9
+Mindwipe pp7
+Missive pp1
+Natural Armor pp7
+Natural Armor, Lesser pp1
+Negate Psionics pp5
+Object Reading pp1
+Painful Touch pp3
+Power Resistance pp9
+Prowess pp5
+Psychofeedback pp7
+Sending pp9
+Sensitivity To Psychic Impressions pp3
+Short Sharp Shock pp7
+Signal Feed pp9
+Spider Climb pp1
+Steadfast Perception pp7
+Suggestion pp3
+Tailor Memory pp7
+Telekinesis pp7
+Telempathic Projection pp1
+Ubiquitous Vision pp5
+Valor pp1
+Verve pp1
+Vigor pp1
+White Noise pp1
+Whitefire pp5
