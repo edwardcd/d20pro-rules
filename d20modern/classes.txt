@@ -1,0 +1,719 @@
+##
+##
+##
+## ARCANE SPELL LIST
+##Spells0=Arcane Graffiti|Detect Magical Aura|Haywire|Magic ID|Resistance|Acid Splash|Detect Poison|Detect Magic|Read Magic|Daze|Dancing Lights|Flare|Light|Ray of Frost|Ghost Sound|Disrupt Undead|Touch of Fatigue|Mage Hand|Mending|Message|Open/Close|Arcane Mark|Prestidigitation
+##Spells1=Clean|Degauss|Instant Identify|Mask Metal|Power Device|Ray of Fatigue|Summon Vivilor I|Trace Purge|Untraceable Magical Aura|Alarm|Endure Elements|Hold Portal|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Shield|Grease|Mage Armor|Mount|Obscuring Mist|Summon Monster I|Unseen Servant|Comprehend Languages|Detect Secret Doors|Detect Undead|Identify|True Strike|Charm Person|Hypnotism|Sleep|Burning Hands|Magic Missile|Shocking Grasp|Floating Disk|Color Spray|Disguise Self|Magic Aura|Silent Image|Ventriloquism|Cause Fear|Chill Touch|Ray of Enfeeblement|Animate Rope|Enlarge Person|Erase|Expeditious Retreat|Feather Fall|Jump|Magic Weapon|Reduce Person
+##Spells2=Arcane Lock|Burglar's Buddy|Dataread|Enhance Ability|Machine Invisibility|Magic Message|Relay Text|Summon Vivilor II|Arcane Lock|Obscure Object|Protection from Arrows/Bullets|Resist Energy|Fog Cloud|Glitterdust|Acid Arrow|Summon Monster II|Summon Swarm|Web|Detect Thoughts|Locate Object|See Invisibility|Daze Monster|Hideous Laughter|Touch of Idiocy|Continual Flame|Darkness|Flaming Sphere|Gust of Wind|Scorching Ray|Shatter|Blur|Hypnotic Pattern|Invisibility|Trap|Magic Mouth|Minor Image|Mirror Image|Misdirection|Blindness/Deafness|Command Undead|False Life|Ghoul Touch|Scare|Spectral Hand|Alter Self|Bear's Endurance|Bull's Strength|Cat's Grace|Darkvision|Eagle's Splendor|Fox's Cunning|Knock|Levitate|Owl's Wisdom|Pyrotechnics|Rope Trick|Spider Climb|Whispering Wind
+##Spells3=Elecromagnetic Pules|Flaming Projectiles|Arcane Lock, Improved|Phantom Chopper|Secret Pocket|Shutdown|Summon Vivilor III|Wall Walk|Dispel Magic|Explosive Runes|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Nondetection|Protection from Energy|Phantom Steed|Sepia Snake Sigil|Sleet Storm|Stinking Cloud|Summon Monster III|Arcane Sight|Clairaudience/Clairvoyance|Tongues|Deep Slumber|Heroism|Hold Person|Rage|Suggestion|Daylight|Fireball|Tiny Hut|Lightning Bolt|Wind Wall|Displacement|Illusory Script|Invisibility Sphere|Major Image|Gentle Repose|Halt Undead|Ray of Exhaustion|Vampiric Touch|Blink|Flame Arrow|Fly|Gaseous Form|Haste|Keen Edge|Magic Weapon, Greater|Secret Page|Shrink Item|Slow|Water Breathing
+##Spells4=Clown Car|Summon Vivilor IV|Via Negativa|Wire Walk|Dimensional Anchor|Fire Trap|Globe of Invulnerability, Lesser|Remove Curse|Stoneskin|Dimension Door|Black Tentacles|Secure Shelter|Minor Creation|Solid Fog|Summon Monster IV|Arcane Eye|Detect Scrying|Locate Creature|Scrying|Charm Monster|Confusion|Crushing Despair|Geas, Lesser|Fire Shield|Ice Storm|Resilient Sphere|Shout|Wall of Fire|Wall of Ice|Hallucinatory Terrain|Illusory Wall|Invisibility, Greater|Phantasmal Killer|Rainbow Pattern|Shadow Conjuration|Animate Dead|Bestow Curse|Contagion|Enervation|Fear|Enlarge Person, Mass|Polymorph|Mnemonic Enhancer|Reduce Person, Mass|Stone Shape
+##Spells5=Instant Connectivity|Phantom Limousine|Phantom Projectiles|Phantom Watchdog|Secret Vault|Summon Vivilor V|Synchronicity|Break Enchantment|Dismissal|Mage's Private Sanctum|Cloudkill|Secret Chest|Major Creation|Mage's Faithful Hound|Planar Binding, Lesser|Summon Monster V|Teleport|Wall of Stone|Contact Other Plane|Prying Eyes|Telepathic Bond|Dominate Person|Feeblemind|Hold Monster|Mind Fog|Symbol of Sleep|Interposing Hand|Cone of Cold|Sending|Wall of Force|Dream|False Vision|Mirage Arcana|Nightmare|Persistent Image|Seeming|Shadow Evocation|Blight|Magic Jar|Symbol of Pain|Waves of Fatigue|Animal Growth|Baleful Polymorph|Fabricate|Overland Flight|Passwall|Telekinesis|Transmute Mud to Rock|Transmute Rock to Mud|Permanency
+##Spells6=Antimagic Field|Dispel Magic, Greater|Globe of Invulnerability|Guards and Wards|Repulsion|Acid Fog|Planar Binding|Summon Monster VI|Wall of Iron|Analyze Dweomer|Legend Lore|True Seeing|Geas/Quest|Heroism, Greater|Suggestion, Mass|Symbol of Persuasion|Forceful Hand|Chain Lightning|Contingency|Freezing Sphere|Mislead|Permanent Image|Programmed Image|Shadow Walk|Veil|Circle of Death|Create Undead|Eyebite|Symbol of Fear|Undeath to Death|Bear's Endurance, Mass|Bull's Strength, Mass|Cat's Grace, Mass|Control Water|Disintegrate|Eagle's Splendor, Mass|Flesh to Stone|Mage's Lucubration|Move Earth|Owl's Wisdom, Mass|Stone to Flesh|Transformation
+##Spells7=Banishment|Sequester|Spell Turning|Instant Summons|Mage's Magnificent Mansion|Phase Door|Plane Shift|Summon Monster VII|Teleport, Greater|Teleport Object|Arcane Sight, Greater|Scrying, Greater|Vision|Hold Person, Mass|Insanity|Power Word Blind|Symbol of Stunning|Grasping Hand|Delayed Blast Fireball|Forcecage|Mage's Sword|Prismatic Spray|Invisibility, Mass|Project Image|Shadow Conjuration, Greater|Simulacrum|Control Undead|Finger of Death|Symbol of Weakness|Waves of Exhaustion|Control Weather|Ethereal Jaunt|Reverse Gravity|Statue|Limited Wish
+##Spells8=Dimensional Lock|Mind Blank|Prismatic Wall|Protection from Spells|Incendiary Cloud|Maze|Planar Binding, Greater|Summon Monster VIII|Trap the Soul|Discern Location|Moment of Prescience|Prying Eyes, Greater|Antipathy|Binding|Charm Monster, Mass|Demand|Otto's Irresistible Dance|Power Word Stun|Symbol of Insanity|Sympathy|Clenched Fist|Telekinetic Sphere|Polar Ray|Shout, Greater|Sunburst|Scintillating Pattern|Screen|Shadow Evocation, Greater|Clone|Create Greater Undead|Horrid Wilting|Symbol of Death|Iron Body|Polymorph Any Object|Temporal Stasis
+##Spells9=Freedom|Imprisonment|Mage's Disjunction|Prismatic Sphere|Gate|Refuge|Summon Monster IX|Teleportation Circle|Foresight|Dominate Monster|Hold Monster, Mass|Power Word Kill|Crushing Hand|Meteor Swarm|Shades|Weird|Astral Projection|Energy Drain|Soul Bind|Wail of the Banshee|Etherealness|Shapechange|Time Stop|Wish
+##
+##
+##
+## CLERIC SPELL LIST
+##Spells0=Create Water|Cure Minor Wounds|Detect Magical Aura|Detect Poison|Guidance|Haywire|Inflict Minor Wounds|Light|Mending|Purify Food and Drink|Read Magic|Resistance|Virtue
+##Spells1=Bane|Bless|Bless Water|Cause Fear|Command|Comprehend Languages|Cure Light Wounds|Curse Water|Deathwatch|Detect Chaos|Detect Evil|Detect Good|Detect Law|Detect Undead|Divine Favor|Doom|Endure Elements|Entropic Shield|Hide from Undead|Inflict Light Wounds|Magic Stone|Magic Weapon|Obscuring Mist|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Remove Fear|Sanctuary|Shield of Faith|Summon Monster I
+##Spells2=Aid|Align Weapon|Augury|Bear's Endurance|Bull's Strength|Calm Emotions|Consecrate|Cure Moderate Wounds|Darkness|Death Knell|Delay Poison|Desecrate|Eagle's Splendor|Enhance Ability|Enthrall|Find Traps|Gentle Repose|Hold Person|Inflict Moderate Wounds|Make Whole|Owl's Wisdom|Remove Fear|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Of Faith|Shield Other|Silence|Sound Burst|Spider Climb|Spiritual Weapon|Status|Summon Monster II|Undetectable Alignment|Zone of Truth
+##Spells3=Animate Dead|Bestow Curse|Blindness/Deafness|Contagion|Continual Flame|Create Food and Water|Cure Serious Wounds|Daylight|Deeper Darkness|Dispel Magic|Glyph of Warding|Helping Hand|Inflict Serious Wounds|Invisibility Purge|Locate Object|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Vestment|Meld into Stone|Obscure Object|Prayer|Protection from Energy|Remove Blindness/Deafness|Remove Curse|Remove Disease|Searing Light|Speak with Dead|Status|Stone Shape|Summon Monster III|Water Breathing|Water Walk|Wind Wall
+##Spells4=Air Walk|Control Water|Cure Critical Wounds|Death Ward|Dimensional Anchor|Discern Lies|Dismissal|Divination|Divine Power|Faith's Fury|Freedom of Movement|Giant Vermin|Imbue with Spell Ability|Inflict Critical Wounds|Magic Weapon, Greater|Neutralize Poison|Planar Ally, Lesser|Poison|Repel Vermin|Restoration|Sending|Spell Immunity|Summon Monster IV|Tongues
+##Spells5=Atonement|Break Enchantment|Command, Greater|Commune|Cure Light Wounds, Mass|Dispel Chaos|Dispel Evil|Dispel Good|Dispel Law|Disrupting Weapon|Flame Strike|Flaming Wrath|Hallow|Inflict Light Wounds, Mass|Insect Plague|Mark of Justice|Plane Shift|Raise Dead|Righteous Might|Scrying|Slay Living|Spell Resistance|Summon Monster V|Symbol of Pain|Symbol of Sleep|True Seeing|Unhallow|Wall of Stone
+##Spells6=Animate Objects|Antilife Shell|Banishment|Bear's Endurance, Mass|Blade Barrier|Bull's Strength, Mass|Create Undead|Cure Moderate Wounds, Mass|Dispel Magic, Greater|Eagle's Splendor, Mass|Find the Path|Forbiddance|Geas/Quest|Glyph of Warding, Greater|Harm|Heal|Heroes' Feast|Inflict Moderate Wounds, Mass|Owl's Wisdom, Mass|Planar Ally|Summon Monster VI|Symbol of Fear|Symbol of Persuasion|Undeath to Death|Wind Walk|Word of Recall
+##Spells7=Blasphemy|Control Weather|Cure Serious Wounds, Mass|Destruction|Dictum|Ethereal Jaunt|Holy Word|Inflict Serious Wounds, Mass|Refuge|Regenerate|Repulsion|Restoration, Greater|Resurrection|Scrying, Greater|Summon Monster VII|Symbol of Stunning|Symbol of Weakness|Word of Chaos
+##Spells8=Antimagic Field|Cloak of Chaos|Create Greater Undead|Cure Critical Wounds, Mass|Dimensional Lock|Discern Location|Earthquake|Fire Storm|Holy Aura|Planar Ally, Greater|Inflict Critical Wounds, Mass|Shield of Law|Spell Immunity, Greater|Summon Monster VIII|Symbol of Death|Symbol of Insanity|Unholy Aura
+##Spells9=Astral Projection|Energy Drain|Etherealness|Gate|Heal, Mass|Implosion|Miracle|Soul Bind|Storm of Vengeance|Summon Monster IX|True Resurrection
+##
+##
+##
+##DOMAINS (CLERIC)
+##DomainAir=Obscuring Mist|Wind Wall|Gaseous Form|Air Walk|Control Winds|Chain Lightning|Control Weather|Whirlwind|Elemental Swarm
+##DomainAnimal=Calm Animals|Hold Animal|Dominate Animal|Summon Nature's Ally IV|Commune with Nature|Antilife Shell|Animal Shapes|Summon Nature's Ally VIII|Shapechange
+##DomainChaos=Protection from Law|Shatter|Magic Circle against Law|Chaos Hammer|Dispel Law|Animate Objects|Word of Chaos|Cloak of Chaos|Summon Monster IX
+##DomainCharm=Charm Person|Calm Emotions|Suggestion|Fear|Charm Monster|Geas/Quest|Insanity|Demand|Dominate Monster
+##DomainDeath=Cause Fear|Death Knell|Animate Dead|Death Ward|Slay Living|Create Undead|Slay Living|Create Undead|Destruction|Create Greater Undead|Wail of the Banshee
+##DomainDestruction=Inflict Light Wounds|Shatter|Contagion|Inflict Critical Wounds|Inflict Light Wounds, Mass|Harm|Disintegrate|Earthquake|Implosion
+##DomainEarth=Magic Stone|Soften Earth and Stone|Stone Shape|Spike Stones|Wall of Stone|Stoneskin|Earthquake|Iron Body|Elemental Swarm
+##DomainEvil=Protection from Good|Desecrate|Magic Circle against Good|Unholy Blight|Dispel Good|Create Undead|Blasphemy|Unholy Aura|Summon Monster IX
+##DomainFire=Burning Hands|Produce Flame|Resist Energy|Wall of Fire|Fire Shield|Fire Seeds|Fire Storm|Incendiary Cloud|Elemental Swarm
+##DomainGood=Protection from Evil|Aid|Magic Circle against Evil|Holy Smite|Dispel Evil|Blade Barrier|Holy Word|Holy Aura|Summon Monster IX
+##DomainHealing=Cure Light Wounds|Cure Moderate Wounds|Cure Serious Wounds|Cure Critical Wounds|Cure Light Wounds, Mass|Heal|Regenerate|Cure Critical Wounds, Mass|Heal, Mass
+##DomainKnowledge=Detect Secret Doors|Detect Thoughts|Clairaudience/Clairvoyance|Divination|True Seeing|Find the Path|Legend Lore|Discern Location|Foresight
+##DomainLaw=Protection from Chaos|Calm Emotions|Magic Circle against Chaos|Order's Wrath|Dispel Chaos|Hold Monster|Dictum|Shield of Law|Summon Monster IX
+##DomainLuck=Entropic Shield|Aid|Protection from Energy|Freedom of Movement|Break Enchantment|Mislead|Spell Turning|Moment of Prescience|Miracle
+##DomainMagic=Magic Aura|Identify|Dispel Magic|Imbue with Spell Ability|Spell Resistance|Antimagic Field|Spell Turning|Protection from Spells|Mage's Disjunction
+##DomainPlant=Entangle|Barkskin|Plant Growth|Command Plants|Wall of Thorns|Repel Wood|Animate Plants|Control Plants|Shambler
+##DomainProtection=Sanctuary|Shield Other|Protection from Energy|Spell Immunity|Spell Resistance|Antimagic Field|Repulsion|Mind Blank|Prismatic Sphere
+##DomainStrength=Enlarge Person|Bull's Strength|Magic Vestment|Spell Immunity|Righteous Might|Stoneskin|Grasping Hand|Clenched Fist|Crushing Hand
+##DomainSun=Endure Elements|Heat Metal|Searing Light|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
+##DomainTravel=Longstrider|Locate Object|Fly|Dimension Door|Teleport|Find the Path|Teleport, Greater|Phase Door|Astral Projection
+##DomainTrickery=Disguise Self|Invisibility|Nondetection|Confusion|False Vision|Mislead|Screen|Polymorph Any Object|Time Stop
+##DomainWar=Magic Weapon|Spiritual Weapon|Magic Vestment|Divine Power|Flame Strike|Blade Barrier|Power Word Blind|Power Word Stun|Power Word Kill
+##DomainWater=Obscuring Mist|Fog Cloud|Water Breathing|Control Water|Ice Storm|Cone of Cold|Acid Fog|Horrid Wilting|Elemental Swarm
+##
+##
+##
+## PSIONIC POWERS LIST
+##Spells0=Burst pp1|Daze pp1|Detect Poison pp1|Detect Psionics pp1|Distract pp1|Far Hand pp1|Far Punch pp1|Finger Of Fire pp1|Missive pp1|Natural Armor, Lesser pp1|Telempathic Projection pp1|Valor pp1|Verve pp1
+##Spells1=Attraction pp1|Biofeedback pp1|Bioweapon, Lesser pp1|Body Adjustment pp1|Call Weaponry Simple Melee pp1|Charm Person pp1|Combat Precognition pp1|Conceal Thoughts pp1|Control Object pp1|Concussion, Lesser pp1|Feather Fall pp1|Fire Bolt pp1|Identify pp1|Mindlink, Lesser pp1|Object Reading pp1|Spider Climb pp1|Vigor pp1|White Noise pp1
+##Spells2=Brain Lock pp3|Claws Of The Bear pp3|Call Weaponry Pistol pp3|Chameleon pp3|Combat Focus pp3|Combat Prescience pp3|Concussion pp3|Clairaudience/Clairvoyance pp3|Dark Vision pp3|Detect Thoughts pp3|Electric Charge pp3|Electronic Fog pp3|Inflict Pain pp3|Knock pp3|Levitate pp3|Painful Touch pp3|Sensitivity To Psychic Impressions pp3|Suggestion pp3
+##Spells3=Biofeedback, Improved pp5|Bite Of The Tiger pp5|Charm Creature pp5|Domintion Slide pp5|Domination, Lesser pp5|False Sensory Input pp5|Fly pp5|Instant Reload pp5|Invisibility Purge pp5|Lightning Strike pp5|Mental Blast pp5|Metaphysical Weapon pp5|Mind Darts pp5|Mindlink pp5|Negate Psionics pp5|Prowess pp5|Ubiquitous Vision pp5|Whitefire pp5
+##Spells4=Bioweapon, Greater pp7|Call Weaponry Longarm pp7|Domination pp7|Dimension Door pp7|Fate Of One pp7|Fire Storm pp7|Forced Mindlink pp7|Freedom Of Movement pp7|Ghost Shot pp7|Immovability pp7|Inertial Barrier pp7|Mindwipe pp7|Natural Armor pp7|Psychofeedback pp7|Short Sharp Shock pp7|Steadfast Perception pp7|Tailor Memory pp7|Telekinesis pp7
+##Spells5=Call Weaponry Exotic/Archiac pp11|Catapsi pp9|Mind Probe pp9|Power Resistance pp9|Sending pp9|Signal Feed pp9
+##
+##
+##
+
+## CLASS: STRONG HERO
+CreatureClass=Strong Hero
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: FAST HERO
+CreatureClass=Fast Hero
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: TOUGH HERO
+CreatureClass=Tough Hero
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: SMART HERO
+CreatureClass=Smart Hero
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: DEDICATED HERO
+CreatureClass=Dedicated Hero
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: CHARISMATIC HERO
+CreatureClass=Charismatic Hero
+AttackRate=.5
+GoodSaves=Fort|Ref
+
+## CLASS: ACOLYTE
+CreatureClass=Acolyte
+AttackRate=.75
+GoodSaves=Fort|WIll
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Cleric|WIS
+
+#SPELLS AVAILABLE
+Spells0=Create Water|Cure Minor Wounds|Detect Magic Aura|Inflict Minor Wounds|Light|Read Magic|Resistance|Virtue
+Spells1=Bane|Bless|Cause Fear|Clean|Command|Comprehend Languages|Cure Light Wounds|Degauss|Faerie Fire|Inflict Light Wounds|Instant Identify|Magic Weapon|Obscuring Mist|Remove Fear|Sanctuary|Shield of Faith|Summon Vivilor I|Trace Purge
+Spells2=Aid|Augury|Cure Moderate Wounds|Darkness|Dataread|Daylight|Delay Poison|Enhance Ability|Hold Person|Inflict Moderate Wounds|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Speak with Animals|Spider Climb|Summon Vivilor II|Zone of Truth
+Spells3=Animate Dead|Bestow Curse|Cure Serious Wounds|Dispel Magic|Glyph of Warding|Inflict Serious Wounds|Locate Object|Magic Circle|Prayer|Recharge|Remove Curse|Remove Disease|Searing Light|Secret Pocket|Shadowmoth Plague|Shutdown|Status|Summon Vivilor III|Vampiric Touch|Water Breathing
+Spells4=Crawling Carpet|Cure Critical Wounds|Discern Lies|Divination|Faith's Fury|Freedom of Movement|Inflict Critical Wounds|Magic Bullets|Magic Weapon, Greater|Neutralize Poison|Restoration|Spell Immunity|Summon Vivilor IV|Tongues|Via Negativa|Wall Walk
+Spells5=Break Enchantment|Command, Greater|Cure Light Wounds, Mass|Flaming Wrath|Inflict Light Wounds, Mass|Insect Plague|Rage of Bees|Raise Dead|Scrying|Spell Resistance|Summon Vivilor V|Synchronicity|True Seeing|Wall of Stone
+
+#SPELLS PER DAY
+PerDay1=3|2
+PerDay2=4|3
+PerDay3=4|3|2
+PerDay4=5|4|3
+PerDay5=5|4|3|2
+PerDay6=5|3|3|2
+PerDay7=6|5|4|3|2
+PerDay8=6|5|4|4|3
+PerDay9=6|5|5|4|3|2
+PerDay10=6|5|5|4|4|3
+
+## CLASS: AMBASSADOR
+CreatureClass=Ambassador
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: ARCANE ARRANGER
+CreatureClass=Arcane Arranger
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: ARCHAIC WEAPONSMASTER
+CreatureClass=Archaic Weaponsmaster
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: BATTLE MIND
+CreatureClass=Battle Mind
+AttackRate=.75
+GoodSaves=Fort
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
+
+#SPELLS AVAILABLE
+Spells0=Burst pp1|Detect Psionics pp1|Far Punch pp1|Finger Of Fire pp1|Natural Armor, Lesser pp1|Valor pp1|Verve pp1
+Spells1=Biofeedback pp1|Bioweapon, Lesser pp1|Combat Precognition pp1|Concussion, Lesser pp1|Fire Bolt pp1|Vigor pp1|White Noise pp1
+Spells2=Claws Of The Bear pp3|Combat Focus pp3|Combat Prescience pp3|Concussion pp3|Dark Vision pp3|Electric Charge pp3|Painful Touch pp3
+Spells3=Biofeedback, Improved pp5|Bite Of The Tiger pp5|Lightning Strike pp5|Metaphysical Weapon pp5|Mind Darts pp5|Negate Psionics pp5|Whitefire pp5
+Spells4=Bioweapon, Greater pp7|Fire Storm pp7|Natural Armor pp7|Psychofeedback pp7|Short Sharp Shock pp7
+
+#POWERS MANIFESTED
+Known1=2
+Known2=3
+Known3=3|1
+Known4=3|2
+Known5=3|3|1
+Known6=3|3|2
+Known7=3|3|2|1
+Known8=3|3|3|1
+Known9=3|3|3|2
+Known10=3|3|3|2|1
+
+## CLASS: BODYGUARD
+CreatureClass=Bodyguard
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: DAREDEVIL
+CreatureClass=Daredevil
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: DOGFIGHTER
+CreatureClass=Dogfighter
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: DREADNOUGHT
+CreatureClass=Dreadnought
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: ENGINEER
+CreatureClass=Engineer
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: EXPLORER
+CreatureClass=Explorer
+AttackRate=.75
+GoodSaves=Fort|Ref|Will
+
+## CLASS: FIELD MEDIC
+CreatureClass=Field Medic
+AttackRate=.5
+GoodSaves=Fort|Will
+
+## CLASS: FIELD OFFICER
+CreatureClass=Field Officer
+AttackRate=1
+GoodSaves=Will
+
+## CLASS: FIELD SCIENTIST
+CreatureClass=Field Scientist
+AttackRate=.5
+GoodSaves=Fort|Ref
+
+## CLASS: FRONTIER MARSHAL
+CreatureClass=Frontier Marshal
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: GLAMOURIST
+CreatureClass=Glamourist
+AttackRate=.5
+GoodSaves=Ref
+
+## CLASS: GUNSLINGER
+CreatureClass=Gunslinger
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: HELIX WARRIOR
+CreatureClass=Helix Warrior
+AttackRate=1
+GoodSaves=Fort|Will
+
+## CLASS: HOLY/UNHOLY KNIGHT
+CreatureClass=Holy/Unholy Knight
+AttackRate=1
+GoodSaves=Fort|WIll
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Cleric|WIS
+
+#SPELLS AVAILABLE
+Spells0=Create Water|Cure Minor Wounds|Detect Magic Aura|Inflict Minor Wounds|Light|Read Magic|Resistance|Virtue
+Spells1=Bane|Bless|Cause Fear|Clean|Command|Comprehend Languages|Cure Light Wounds|Degauss|Faerie Fire|Inflict Light Wounds|Instant Identify|Magic Weapon|Obscuring Mist|Remove Fear|Sanctuary|Shield of Faith|Summon Vivilor I|Trace Purge
+Spells2=Aid|Augury|Cure Moderate Wounds|Darkness|Dataread|Daylight|Delay Poison|Enhance Ability|Hold Person|Inflict Moderate Wounds|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Speak with Animals|Spider Climb|Summon Vivilor II|Zone of Truth
+Spells3=Animate Dead|Bestow Curse|Cure Serious Wounds|Dispel Magic|Glyph of Warding|Inflict Serious Wounds|Locate Object|Magic Circle|Prayer|Recharge|Remove Curse|Remove Disease|Searing Light|Secret Pocket|Shadowmoth Plague|Shutdown|Status|Summon Vivilor III|Vampiric Touch|Water Breathing
+
+#SPELLS PER DAY
+PerDay1=2|1
+PerDay2=3|2
+PerDay3=3|2|1
+PerDay4=4|3|2
+PerDay5=4|3|2|1
+
+## CLASS: INFILTRATOR
+CreatureClass=Infiltrator
+AttackRate=.5
+GoodSaves=Ref
+
+## CLASS: INVESTIGATOR
+CreatureClass=Investigator
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: MAGE
+CreatureClass=Mage
+AttackRate=.5
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
+
+#SPELLS AVAILABLE
+Spells0=Daze|Detect Magical Aura|Haywire|Light|Mage Hand|Magic ID|Mending|Message|Prestidigitation|Read Magic|Resistance
+Spells1=Burning Hands|Cause Fear|Change Self|Clean|Comperhend Languages|Dancing Lights|Degauss|Feather Fall|Hold Portal|Instant Identify|Jump|Mage Armor|Magic Missle|Magic Weapon|Mask Metal|Obscuring Mist|Power Device|Ray Of Fatigue|Shield|Sleep|Summon Vivilor I|Trace Purge|True Strike|Undetectable Magic Aura
+Spells2=Arcane Lock|Blur|Burglar's Buddy|Dark Vision|Dataread|Enhance Ability|Glitter Dust|Invisibility|Knock|Levitate|Locate Object|Machine Invisibility|Magic Message|Magic Mouth|Protection from Arrows/Bullets|Relay Text|Resist Energy|See Invisibility|Spider Climb|Summon Vivilor II|Web
+Spells3=Dispell Magic|Displacement|Electromagnetic Pulse|Fireball|Flaming Projectiles|Gasious Form|Magic Weapon, Greater|Halt Undead|Haste|Hold Person|Arcane Lock, Improved|Invisibility Sphere|Keen Edge|Lightning Bolt|Nondetection|Phantom Chopper|Secret Pocket|Shutdown|Slow|Summon Vivilor III|Tongues|Vampiric Touch|Wall Walk|Water Breathing
+Spells4=Animate Dead|Arcane Eye|Bestow Curse|Clown Car|Confusion|Detect Scrying|Dimension Door|Energy Trap|Fear|Ice Storm|Magic Bullet|Globe of Invulnerability, Minor|Phantasmal Killer|Remove Curse|Scrying|Shout|Stoneskin|Summon Vivilor IV|Via Negativa|Wall of Fire|Wall of Ice|Wire Walk
+Spells5=Cloudkill|Cone of Cold|Hold Monster|Instant Connectivity|Passwall|Phantom Limousine|Phantom Projectiles|Phantom Watchdog|Secret Vault|Seeming|Summon Vivilor V|Synchronicity|Telekinesis|Wall of Force|Wall of Iron|Wall of Stone
+
+#SPELLS PER DAY
+PerDay1=3|1
+PerDay2=4|2
+PerDay3=4|2|1
+PerDay4=4|3|2
+PerDay5=4|3|2|1
+PerDay6=4|3|3|2
+PerDay7=4|4|3|2|1
+PerDay8=4|4|3|3|2
+PerDay9=4|4|4|3|2|1
+PerDay10=4|4|4|3|3|2
+
+## CLASS: MARTIAL ARTIST
+CreatureClass=Martial Artist
+AttackRate=1
+GoodSaves=Ref
+
+## CLASS: MECHA JOCKEY
+CreatureClass=Mecha Jockey
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: MESMERIST
+CreatureClass=Mesmerist
+AttackRate=1
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+#SPELLS AVAILABLE
+Spells0=Burst pp1|Detect Poison pp1|Detect Psionics pp1|Far Punch pp1|Finger Of Fire pp1|Missive pp1|Verve pp1
+Spells1=Call Weaponry Simple Melee pp1|Combat Precognition pp1|Concussion, Lesser pp1|Feather Fall pp1|Identify pp1|Object Reading pp1|Spider Climb pp1
+Spells2=Call Weaponry Pistol pp3|Chameleon pp3|Combat Focus pp3|Combat Prescience pp3|Dark Vision pp3|Knock pp3|Levitate pp3|Sensitivity To Psychic Impressions pp3
+Spells3=Domintion Slide pp5|Fly pp5|Instant Reload pp5|Invisibility Purge pp5|Metaphysical Weapon pp5|Prowess pp5|Ubiquitous Vision pp5
+Spells4=Call Weaponry Longarm pp7|Dimension Door pp7|Fate Of One pp7|Freedom Of Movement pp7|Ghost Shot pp7|Immovability pp7|Steadfast Perception pp7
+
+#POWERS MANIFESTED
+Known1=0
+Known2=2
+Known3=2
+Known4=3|1
+Known5=3|2
+Known6=3|2
+Known7=3|3|1
+Known8=3|3|2
+Known9=3|3|2
+Known10=4|3|3|1
+
+## CLASS: MYSTIC
+CreatureClass=Mystic
+AttackRate=.5
+GoodSaves=Fort|Ref|Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+
+#SPELLS AVAILABLE
+Spells0=Create Water|Detect Magic Aura|Light|Read Magic|Resistance|Virtue
+Spells1=Bane|Bless|Cause Fear|Clean|Command|Comprehend Languages|Degauss|Faerie Fire|Instant Identify|Magic Weapon|Obscuring Mist|Remove Fear|Sanctuary|Shield of Faith|Summon Vivilor I|Trace Purge
+Spells2=Aid|Augury|Darkness|Dataread|Daylight|Delay Poison|Enhance Ability|Hold Person|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Speak with Animals|Spider Climb|Summon Vivilor II|Zone of Truth
+Spells3=Animate Dead|Bestow Curse|Dispel Magic|Glyph of Warding|Locate Object|Magic Circle|Prayer|Recharge|Remove Curse|Remove Disease|Searing Light|Secret Pocket|Shadowmoth Plague|Shutdown|Status|Summon Vivilor III|Vampiric Touch|Water Breathing
+Spells4=Crawling Carpet|Discern Lies|Divination|Faith's Fury|Freedom of Movement|Magic Bullets|Magic Weapon, Greater|Neutralize Poison|Restoration|Spell Immunity|Summon Vivilor IV|Tongues|Via Negativa|Wall Walk
+Spells5=Break Enchantment|Command, Greater|Flaming Wrath|Insect Plague|Rage of Bees|Scrying|Spell Resistance|Summon Vivilor V|Synchronicity|True Seeing|Wall of Stone
+
+#SPELLS PER DAY
+PerDay1=3|2
+PerDay2=4|3
+PerDay3=4|3|2
+PerDay4=5|4|3
+PerDay5=5|4|3|2
+PerDay6=5|4|4|3
+PerDay7=6|5|4|3|2
+PerDay8=6|5|4|4|3
+PerDay9=6|5|5|4|3|2
+PerDay10=6|5|5|4|4|3
+
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3|1
+Known4=6|3|2
+Known5=6|4|2|1
+Known6=7|4|3|2
+Known7=7|5|3|2|1
+Known8=8|5|4|3|2
+Known9=8|5|4|3|2|1
+Known10=9|5|5|4|3|2
+
+## CLASS: NEGOTIATOR
+CreatureClass=Negotiator
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: OCCULTIST
+CreatureClass=Occultist
+AttackRate=.5
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
+#SPELLS AVAILABLE
+Spells1=Burning Hands|Cause Fear|Change Self|Clean|Comperhend Languages|Dancing Lights|Degauss|Feather Fall|Hold Portal|Instant Identify|Jump|Mage Armor|Magic Missle|Magic Weapon|Mask Metal|Obscuring Mist|Power Device|Ray Of Fatigue|Shield|Sleep|Summon Vivilor I|Trace Purge|True Strike|Undetectable Magic Aura
+Spells2=Arcane Lock|Blur|Burglar's Buddy|Dark Vision|Dataread|Enhance Ability|Glitter Dust|Invisibility|Knock|Levitate|Locate Object|Machine Invisibility|Magic Message|Magic Mouth|Protection from Arrows/Bullets|Relay Text|Resist Energy|See Invisibility|Spider Climb|Summon Vivilor II|Web
+Spells3=Dispell Magic|Displacement|Electromagnetic Pulse|Fireball|Flaming Projectiles|Gasious Form|Magic Weapon, Greater|Halt Undead|Haste|Hold Person|Arcane Lock, Improved|Invisibility Sphere|Keen Edge|Lightning Bolt|Nondetection|Phantom Chopper|Secret Pocket|Shutdown|Slow|Summon Vivilor III|Tongues|Vampiric Touch|Wall Walk|Water Breathing
+Spells4=Animate Dead|Arcane Eye|Bestow Curse|Clown Car|Confusion|Detect Scrying|Dimension Door|Energy Trap|Fear|Ice Storm|Magic Bullet|Globe of Invulnerability, Minor|Phantasmal Killer|Remove Curse|Scrying|Shout|Stoneskin|Summon Vivilor IV|Via Negativa|Wall of Fire|Wall of Ice|Wire Walk
+
+#SPELLS PER DAY
+PerDay1=-|0
+PerDay2=-|3
+PerDay3=-|4
+PerDay4=-|5|2
+PerDay5=-|5|3
+PerDay6=-|5|4
+PerDay7=-|6|5|2
+PerDay8=-|6|5|3
+PerDay9=-|6|5|4|
+PerDay10=-|7|6|5|2
+
+## CLASS: PERSONALITY
+CreatureClass=Personality
+AttackRate=.5
+GoodSaves=Fort|Ref
+
+## CLASS: PSIONIC AGENT
+CreatureClass=Psionic Agent
+AttackRate=.75
+GoodSaves=Ref
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+
+#SPELLS AVAILABLE
+Spells0=Burst pp1|Detect Poison pp1|Detect Psionics pp1|Far Punch pp1|Finger Of Fire pp1|Missive pp1|Verve pp1
+Spells1=Call Weaponry Simple Melee pp1|Combat Precognition pp1|Concussion, Lesser pp1|Feather Fall pp1|Identify pp1|Object Reading pp1|Spider Climb pp1
+Spells2=Call Weaponry Pistol pp3|Chameleon pp3|Combat Focus pp3|Combat Prescience pp3|Dark Vision pp3|Knock pp3|Levitate pp3|Sensitivity To Psychic Impressions pp3
+Spells3=Domintion Slide pp5|Fly pp5|Instant Reload pp5|Invisibility Purge pp5|Metaphysical Weapon pp5|Prowess pp5|Ubiquitous Vision pp5
+Spells4=Call Weaponry Longarm pp7|Dimension Door pp7|Fate Of One pp7|Freedom Of Movement pp7|Ghost Shot pp7|Immovability pp7|Steadfast Perception pp7
+
+#POWERS MANIFESTED
+Known1=2
+Known2=3
+Known3=3|1
+Known4=3|2
+Known5=3|3|1
+Known6=3|3|2
+Known7=3|3|2|1
+Known8=3|3|3|1
+Known9=3|3|3|2
+Known10=3|3|3|2|1
+
+## CLASS: SHADOW HUNTER
+CreatureClass=Shadow Hunter
+AttackRate=.75
+GoodSaves=Fort|Ref|Will
+
+## CLASS: SHADOW SLAYER
+CreatureClass=Shadow Slayer
+AttackRate=1
+GoodSaves=Fort|Ref|Will
+
+## CLASS: SHADOWJACK
+CreatureClass=Shadowjack
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: SORCERER
+CreatureClass=Sorcerer
+AttackRate=1
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+
+#SPELLS AVAILABLE
+Spells0=Daze|Detect Magical Aura|Haywire|Light|Mage Hand|Magic ID|Mending|Message|Prestidigitation|Read Magic|Resistance
+Spells1=Burning Hands|Cause Fear|Change Self|Clean|Comperhend Languages|Dancing Lights|Degauss|Feather Fall|Hold Portal|Instant Identify|Jump|Mage Armor|Magic Missle|Magic Weapon|Mask Metal|Obscuring Mist|Power Device|Ray Of Fatigue|Shield|Sleep|Summon Vivilor I|Trace Purge|True Strike|Undetectable Magic Aura
+Spells2=Arcane Lock|Blur|Burglar's Buddy|Dark Vision|Dataread|Enhance Ability|Glitter Dust|Invisibility|Knock|Levitate|Locate Object|Machine Invisibility|Magic Message|Magic Mouth|Protection from Arrows/Bullets|Relay Text|Resist Energy|See Invisibility|Spider Climb|Summon Vivilor II|Web
+Spells3=Dispell Magic|Displacement|Electromagnetic Pulse|Fireball|Flaming Projectiles|Gasious Form|Magic Weapon, Greater|Halt Undead|Haste|Hold Person|Arcane Lock, Improved|Invisibility Sphere|Keen Edge|Lightning Bolt|Nondetection|Phantom Chopper|Secret Pocket|Shutdown|Slow|Summon Vivilor III|Tongues|Vampiric Touch|Wall Walk|Water Breathing
+Spells4=Animate Dead|Arcane Eye|Bestow Curse|Clown Car|Confusion|Detect Scrying|Dimension Door|Energy Trap|Fear|Ice Storm|Magic Bullet|Globe of Invulnerability, Minor|Phantasmal Killer|Remove Curse|Scrying|Shout|Stoneskin|Summon Vivilor IV|Via Negativa|Wall of Fire|Wall of Ice|Wire Walk
+Spells5=Cloudkill|Cone of Cold|Hold Monster|Instant Connectivity|Passwall|Phantom Limousine|Phantom Projectiles|Phantom Watchdog|Secret Vault|Seeming|Summon Vivilor V|Synchronicity|Telekinesis|Wall of Force|Wall of Iron|Wall of Stone
+
+#SPELLS PER DAY
+PerDay1=5|2
+PerDay2=6|3
+PerDay3=6|4
+PerDay4=6|5|2
+PerDay5=6|6|3
+PerDay6=6|6|4|2
+PerDay7=6|6|5|3
+PerDay8=6|6|6|4|2
+PerDay9=6|6|6|5|3
+PerDay10=6|6|6|6|4|2
+
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3
+Known4=6|3|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=8|5|4|3|2
+
+## CLASS: SHAMAN
+CreatureClass=Shaman
+AttackRate=.75
+GoodSaves=Fort|WIll
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Cleric|WIS
+
+#SPELLS AVAILABLE
+Spells0=Create Water|Cure Minor Wounds|Detect Magical Aura|Know Direction|Light|Resistance|Virtue
+Spells1=Calm Animals|Charm Animals|Cure Light Wounds|Entangle|Faerie Fire|Goodberry|Hide from Animals|Obscuring Mist|Pass without Trace|Spirit Club|Speak with Animals
+Spells2=Animal Messenger|Animal Trance|Barkskin|Daylight|Delay Poison|Enhance Ability|Fog Cloud|Gust Of Wind|Hold Animal|Restoration, Lesser|Resist Energy|Spider Climb|Warp Wood
+Spells3=Call Lightning|Cure Moderate Wounds|Dominate Animal|Magic Circle|Nutralize Poison|Plant Growth|Remove Disease|Shadowmoth Plague|Sleer Storm|Speak With Plants|Water Breathing
+Spells4=Command Plants|Control Water|Crawling Carpet|Cure Serious Wounds|Dispell Magic|Divination|Flaming Wrath|Ice Storm|Rusting Grasp|Spike Stones
+Spells5=Awaken|Call Lightning Storm|Cure Critical Wounds|Insect Plague|Rage Of Bees|Scrying|Stone Skin|Tree Stride|Wall Of Fire
+
+#SPELLS PER DAY
+PerDay1=3|2
+PerDay2=4|3
+PerDay3=4|3|2
+PerDay4=5|4|3
+PerDay5=5|4|3|2
+PerDay6=5|4|4|3
+PerDay7=6|5|4|3|2
+PerDay8=6|5|4|4|3
+PerDay9=6|5|5|4|3|2
+PerDay10=6|5|5|4|4|3
+
+## CLASS: SOLDIER
+CreatureClass=Soldier
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: SPACE MONKEY
+CreatureClass=Space Monkey
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: SPEED DEMON
+CreatureClass=Speed Demon
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: SPIRITUALIST
+CreatureClass=Spiritualist
+AttackRate=.5
+GoodSaves=Fort|Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
+
+#SPELLS AVAILABLE
+Spells1=Bane|Bless|Cause Fear|Clean|Command|Comprehend Languages|Cure Light Wounds|Degauss|Faerie Fire|Inflict Light Wounds|Instant Identify|Magic Weapon|Obscuring Mist|Remove Fear|Sanctuary|Shield of Faith|Summon Vivilor I|Trace Purge
+Spells2=Aid|Augury|Cure Moderate Wounds|Darkness|Dataread|Daylight|Delay Poison|Enhance Ability|Hold Person|Inflict Moderate Wounds|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Speak with Animals|Spider Climb|Summon Vivilor II|Zone of Truth
+Spells3=Animate Dead|Bestow Curse|Cure Serious Wounds|Dispel Magic|Glyph of Warding|Inflict Serious Wounds|Locate Object|Magic Circle|Prayer|Recharge|Remove Curse|Remove Disease|Searing Light|Secret Pocket|Shadowmoth Plague|Shutdown|Status|Summon Vivilor III|Vampiric Touch|Water Breathing
+Spells4=Crawling Carpet|Cure Critical Wounds|Discern Lies|Divination|Faith's Fury|Freedom of Movement|Inflict Critical Wounds|Magic Bullets|Magic Weapon, Greater|Neutralize Poison|Restoration|Spell Immunity|Summon Vivilor IV|Tongues|Via Negativa|Wall Walk
+
+#SPELLS PER DAY
+PerDay1=-|0
+PerDay2=-|3
+PerDay3=-|4
+PerDay4=-|5|2
+PerDay5=-|5|3
+PerDay6=-|5|4
+PerDay7=-|6|5|2
+PerDay8=-|6|5|3
+PerDay9=-|6|5|4|
+PerDay10=-|7|6|5|2
+
+## CLASS: STREET WARRIOR
+CreatureClass=Street Warrior
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: SWASHBUCKLER
+CreatureClass=Swashbuckler
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: SWINDLER
+CreatureClass=Swindler
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: TECHIE
+CreatureClass=Techie
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: TECHNO MAGE
+CreatureClass=Techno Mage
+AttackRate=.5
+GoodSaves=Ref
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
+
+#SPELLS AVAILABLE
+Spells0=Daze|Detect Magical Aura|Haywire|Light|Mage Hand|Magic ID|Mending|Message|Prestidigitation|Read Magic|Resistance
+Spells1=Burning Hands|Cause Fear|Change Self|Clean|Comperhend Languages|Dancing Lights|Degauss|Feather Fall|Hold Portal|Instant Identify|Jump|Mage Armor|Magic Missle|Magic Weapon|Mask Metal|Obscuring Mist|Power Device|Ray Of Fatigue|Shield|Sleep|Summon Vivilor I|Trace Purge|True Strike|Undetectable Magic Aura
+Spells2=Arcane Lock|Blur|Burglar's Buddy|Dark Vision|Dataread|Enhance Ability|Glitter Dust|Invisibility|Knock|Levitate|Locate Object|Machine Invisibility|Magic Message|Magic Mouth|Protection from Arrows/Bullets|Relay Text|Resist Energy|See Invisibility|Spider Climb|Summon Vivilor II|Web
+Spells3=Dispell Magic|Displacement|Electromagnetic Pulse|Fireball|Flaming Projectiles|Gasious Form|Magic Weapon, Greater|Halt Undead|Haste|Hold Person|Arcane Lock, Improved|Invisibility Sphere|Keen Edge|Lightning Bolt|Nondetection|Phantom Chopper|Secret Pocket|Shutdown|Slow|Summon Vivilor III|Tongues|Vampiric Touch|Wall Walk|Water Breathing
+Spells4=Animate Dead|Arcane Eye|Bestow Curse|Clown Car|Confusion|Detect Scrying|Dimension Door|Energy Trap|Fear|Ice Storm|Magic Bullet|Globe of Invulnerability, Minor|Phantasmal Killer|Remove Curse|Scrying|Shout|Stoneskin|Summon Vivilor IV|Via Negativa|Wall of Fire|Wall of Ice|Wire Walk
+Spells5=Cloudkill|Cone of Cold|Hold Monster|Instant Connectivity|Passwall|Phantom Limousine|Phantom Projectiles|Phantom Watchdog|Secret Vault|Seeming|Summon Vivilor V|Synchronicity|Telekinesis|Wall of Force|Wall of Iron|Wall of Stone
+
+#SPELLS PER DAY
+PerDay1=3|1
+PerDay2=4|2
+PerDay3=4|2|1
+PerDay4=4|3|2
+PerDay5=4|3|2|1
+PerDay6=4|3|3|2
+PerDay7=4|4|3|2|1
+PerDay8=4|4|3|3|2
+PerDay9=4|4|4|3|2|1
+PerDay10=4|4|4|3|3|2
+
+## CLASS: TECHNOSAVANT
+CreatureClass=Technosavant
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: TELEPATH
+CreatureClass=Telepath
+AttackRate=.5
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+
+#SPELLS AVAILABLE
+Spells0=Burst pp1|Daze pp1|Detect Psionics pp1|Distract pp1|Far Hand pp1|Finger Of Fire pp1|Missive pp1|Telempathic Projection pp1|Verve pp1
+Spells1=Attraction pp1|Body Adjustment pp1|Charm Person pp1|Conceal Thoughts pp1|Control Object pp1|Mindlink, Lesser pp1|Object Reading pp1|White Noise pp1
+Spells2=Brain Lock pp3|Clairaudience/Clairvoyance pp3|Detect Thoughts pp3|Electronic Fog pp3|Inflict Pain pp3|Levitate pp3|Sensitivity To Psychic Impressions pp3|Suggestion pp3
+Spells3=Charm Creature pp5|Domination, Lesser pp5|False Sensory Input pp5|Mental Blast pp5|Mindlink pp5|Negate Psionics pp5
+Spells4=Domination pp7|Forced Mindlink pp7|Inertial Barrier pp7|Mindwipe pp7|Tailor Memory pp7|Telekinesis pp7
+Spells5=Catapsi pp9|Mind Probe pp9|Power Resistance pp9|Sending pp9|Signal Feed pp9
+
+#POWERS MANIFESTED
+Known1=3|1
+Known2=3|2
+Known3=3|3
+Known4=4|3|1
+Known5=4|3|2
+Known6=4|3|2|1
+Known7=5|4|3|2
+Known8=5|4|3|2|1
+Known9=5|4|3|3|2
+Known10=6|4|3|3|2|1
+
+## CLASS: THRASHER
+CreatureClass=Thrasher
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: TRACER
+CreatureClass=Tracer
+AttackRate=1
+GoodSaves=Ref
+
+## CLASS: WILDLORD
+CreatureClass=Wildlord
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: XENOPHILE
+CreatureClass=Xenophile
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: ABERRATION
+CreatureClass=Aberration
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: ANIMAL
+CreatureClass=Animal
+AttackRate=.75
+GoodSaves=Fort, Ref
+
+## CLASS: CONSTRUCT
+CreatureClass=Construct
+AttackRate=.75
+GoodSaves=
+
+## CLASS: DRAGON
+CreatureClass=Dragon
+AttackRate=1
+GoodSaves=Fort, Ref, Will
+
+## CLASS: AIR ELEMENTAL 
+CreatureClass=Elemental (Air)
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: FIRE ELEMENTAL 
+CreatureClass=Elemental (Fire)
+AttackRate=.75
+GoodSaves=Ref
+
+## CLASS: EARTH ELEMENTAL 
+CreatureClass=Elemental (Earth)
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: WATER ELEMENTAL 
+CreatureClass=Elemental (Water)
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: FEY
+CreatureClass=Fey
+AttackRate=.5
+GoodSaves=Ref, Will
+
+## CLASS: GIANT
+CreatureClass=Giant
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: HUMANOID
+CreatureClass=Humanoid
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: MAGICAL BEAST
+CreatureClass=Magical Beast
+AttackRate=1
+GoodSaves=Fort, Ref
+
+## CLASS: MONSTROUS HUMANIOD
+CreatureClass=Monstrous Humanoid
+AttackRate=1
+GoodSaves=Ref, Will
+
+## CLASS: OOZE
+CreatureClass=Ooze
+AttackRate=.75
+GoodSaves=
+
+## CLASS: OUTSIDER
+CreatureClass=Outsider
+AttackRate=1
+GoodSaves=Fort, Ref, Will
+
+## CLASS: PLANT
+CreatureClass=Plant
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: UNDEAD
+CreatureClass=Undead
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: VERMIN
+CreatureClass=Vermin
+AttackRate=.75
+GoodSaves=Fort
