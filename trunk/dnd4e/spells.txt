@@ -1,0 +1,279 @@
+*****************Rituals*********************
+Adjure
+Affect Normal Fires
+Amanuensis
+Analyze Portal
+Ancectral Whispers
+Animal Friendship
+Animal Messenger
+Anthem of Unity
+Arcane Barrier
+Arcane Lock
+Arcane Mark
+Argent Portal
+Aria of Revelation
+Astral Guide
+Astral Sojourn
+Aura Mask
+Banish Illusions
+Banish Vermin
+Battlefield Elocution
+Beast Growth
+Bloom
+Bolster Object
+Brew Potion
+Call of Friendship
+Call Wilderness Guide
+Cauldron's Rebirth
+Chamber of Vulnerability
+Chameleon's Cloak
+Chorus of Truth
+Clear the Path
+Commune With Nature
+Comprehend Language
+Comrads' Succor
+Conceal Dragon Mark
+Conceal Object
+Consult Mystic Sages
+Consult Oracle
+Control Weather
+Corpse Gate
+Corpse Light
+Create Campsite
+Create Holy Water
+Create Teleportation Circle
+Cure Disease
+Dark Gift of the Undying
+Dark Light
+Deathly Shroud
+Decieve Sensor
+Delay Affliction
+Delver's Fire
+Demicache
+Detect Object
+Detect Secret Doors
+Detect Treasure
+Discern Lies
+Disenchant Magic Item
+Disorienting Portal
+Divine Sight
+Dowsing Rod
+Drawmij's Instant Summons
+Duplicate
+Eagle's Flight
+Earthen Ramparts
+Ease Spirit
+Easy Passage
+Eavesdropper's Foil
+Elemental Transference
+Enchant Magic Item
+Endure Elements
+Enhance Vessel
+Excavation
+Explorer's Fire
+Eye of Alarm
+Eye of Warning
+False Aura
+Fantastis Recuperation
+Far Sending
+Farsight
+Fastidiousness
+Feat of Strength
+Fey Passage
+Find the Path
+Fluid Funds
+Fool's Gold
+Fool's Speech
+Forbiddance
+Gentle Repose
+Glib Limerick
+Gravesight
+Guards and Wards
+Hallowed Temple
+Hallucinatory Creature
+Hallucinatory Item
+Hand of Fate
+History Revealed
+Hunter's Blessing
+Hunter's Curse
+Imprint Anaxim
+Imprisonment
+Inquisitive's Eyes
+Iron Vigil
+Ironwood
+Knock
+Last Sight Vision
+Leomund's Secret Chest
+Lich Transformation
+Linked Portal
+Loremaster's Bargain
+Lower Water
+Lullaby
+Magic Circle
+Magic Map
+Magic Mouth
+Make Whole
+Mark of Justice
+Masking Shroud
+Memory Seal
+Mindshape Warwing Drake
+Mordenkainen's Ascent
+Mordenkainen's Joining
+Object Reading
+Observe Creature
+Overland Flight
+Pact of the Iron Ring
+Passwall
+Phanton Steed
+Planar Portal
+Planal Sending
+Plane Shift
+Portend Weather
+Preservation
+Preserve Flame
+Primal Grove
+Primal Prison
+Purge Spellplague
+Purify Spellscarred
+Purify Water
+Pyrotechnics
+Raise Beast Companion
+Raise Dead
+Raise Land
+Remove Affliction
+Reverse Portal
+Rite of Arkentaash
+Ritual of Retrieval
+Ritual of Twin Burnings
+Rope Trick
+Safeguard
+Scramble Portal
+Scribe
+Scry Trap
+Seal Portal
+Secret Page
+Secure Shelter
+Seek Rumor
+Seeming
+Sending
+Sentinal Eye
+Shadow Bridge
+Shadow Passage
+Shadow Walk
+Share Husk
+Shift Mote
+Shrink
+Signal of Pursuit
+Silence
+Simbul's Canversion
+Skull Watch
+Snare
+Solace Bole
+Song of Restfulness
+Song of Sustenance
+Soulguard
+Speak With Dead
+Speak With Nature
+Spirit Fetch
+Spirit Idol
+Starshine
+Stasis Shell
+Status
+Steed Summons
+Succor
+Summon Winds
+Telepathic Bond
+Teleport Catcher
+Tenser's Binding
+Tenser's Floating Disk
+Tenser's Lift
+Thief's Lament
+Time Ravager
+Tiny Lanterns
+Trailblaze
+Transfer Enchantment
+Traveler's Camouflage
+Traveler's Chant
+Traveler's Feast
+Tree Shape
+Tree Stride
+True Portal
+True Sending
+Tune of Merriment
+Undead Servitor
+Undead Ward
+Unseen Servant
+View Location
+View Oblect
+Visage of Life
+Vistani Passkey
+Voice of Fate
+Voicecatcher Viel
+Walk Crossroads
+Ward the True Name
+Water Breathing
+Water Walk
+Waterborn
+Water's Gift
+Whispers of the Eddifice
+Wizard's Curtain
+Wizard's Escape
+Wizard's Sight
+Wyvern Watch
+
+
+**********************Alchemy********************
+Acidic Fire
+Alchemical Silver
+Alchemist's Acid
+Alchemist's Fire
+Alchemist's Frost
+Alchemist's Spark
+Antivenom
+Beastbane
+Blastpatch
+Blinding Bomb
+Bloodstinger Poison
+Bravery Powder
+Clear-Path Mist
+Clearsense Powder
+Clearwater Solution
+Clockwork Bomb
+Corrosive Oil
+Dragonfire Tar
+Drowsey Dust
+Eyesting
+Flashbang Powder
+Ghoststrike Oil
+Goodnight Tincture
+Greyflower Perfume
+Heartflow
+Herbal Poultice
+Infernal Oil
+Jolt Flask
+Keen Oil
+Lockburst Chalk
+Lodret Leaf
+Noxious Grenade
+Panther Tears
+Resonance Crystal
+Rust Bomb
+Salve of Slipperiness
+Slow-Step Oil
+Smoke Stick
+Sovereign Glue
+Spotted Toadstool Venom
+Suppression Crystal
+Tanglefoot Bag
+Tension Wheel
+Tetherchord
+Thunderstone
+Tracking Dust
+Universal Solvent
+Wouldpatch
+
+
+*****************Martial Practices************
+Alter Ego
+Precise Forgery
+Speach Without Words
