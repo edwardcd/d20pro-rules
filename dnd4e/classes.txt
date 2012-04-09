@@ -1,0 +1,164 @@
+## CLASS: 4thEd
+CreatureClass=4thEd
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Adept
+CreatureClass=Adept
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Ardent
+CreatureClass=Ardent
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Aristocrat
+CreatureClass=Aristocrat
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Artificer
+CreatureClass=Artificer
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Assassin
+CreatureClass=Assassin
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Avenger
+CreatureClass=Avenger
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Barbarian
+CreatureClass=Barbarian
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Bard
+CreatureClass=Bard
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Battle Mind
+CreatureClass=Battle Mind
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Cleric
+CreatureClass=Cleric
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Commoner
+CreatureClass=Commoner
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Druid
+CreatureClass=Druid
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Expert
+CreatureClass=Expert
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Fighter
+CreatureClass=Fighter
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Hybrid
+CreatureClass=Hybrid
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Invoker
+CreatureClass=Invoker
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Monk
+CreatureClass=Monk
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Monster
+CreatureClass=Monster
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Paladin
+CreatureClass=Paladin
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Psion
+CreatureClass=Psion
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Ranger
+CreatureClass=Ranger
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Rogue
+CreatureClass=Rogue
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Runepriest
+CreatureClass=Runepriest
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Seeker
+CreatureClass=Seeker
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Shaman
+CreatureClass=Shaman
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Sorcerer
+CreatureClass=Sorcerer
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Swordmage
+CreatureClass=Swordmage
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Warden
+CreatureClass=Warden
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Warlock
+CreatureClass=Warlock
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Warlord
+CreatureClass=Warlord
+AttackRate=.5
+GoodSaves=none
+
+## CLASS: Warrior
+CreatureClass=Warrior
+AttackRate=.5
+GoodSaves=Fort
+
+## CLASS: Wizard
+CreatureClass=Wizard
+AttackRate=.5
+GoodSaves=none
