@@ -768,6 +768,192 @@ Generic|Greater Spell Penetration
 Generic|Greater Two-Weapon Defense
 Generic|Greater Two-Weapon Fighting
 Generic|Greater Weapon Focus 
+Generic|Greater Weapon Focus Axe, Orc Double (+2TH)
+Generic|Greater Weapon Focus Axe, Throwing (+2TH)
+Generic|Greater Weapon Focus Battleaxe (+2TH)
+Generic|Greater Weapon Focus Blowgun (+2TH)
+Generic|Greater Weapon Focus Bolas (+2TH)
+Generic|Greater Weapon Focus Club (+2TH)
+Generic|Greater Weapon Focus Composite Longbow (+2TH)
+Generic|Greater Weapon Focus Composite Shortbow (+2TH)
+Generic|Greater Weapon Focus Crossbow, Hand (+2TH)
+Generic|Greater Weapon Focus Crossbow, Heavy (+2TH)
+Generic|Greater Weapon Focus Crossbow, Light (+2TH)
+Generic|Greater Weapon Focus Crossbow, Repeating Heavy (+2TH)
+Generic|Greater Weapon Focus Crossbow, Repeating Light (+2TH)
+Generic|Greater Weapon Focus Curve Blade, Elven (+2TH)
+Generic|Greater Weapon Focus Cutlass (T)(+2TH)
+Generic|Greater Weapon Focus Dagger (+2TH)
+Generic|Greater Weapon Focus Dagger, Punching (+2TH)
+Generic|Greater Weapon Focus Dart (+2TH)
+Generic|Greater Weapon Focus Dire Flail (+2TH)
+Generic|Greater Weapon Focus Falchion (+2TH)
+Generic|Greater Weapon Focus Flail (+2TH)
+Generic|Greater Weapon Focus Flail, Heavy (+2TH)
+Generic|Greater Weapon Focus Gauntlet (+2TH)
+Generic|Greater Weapon Focus Gauntlet, Spiked(+2TH)
+Generic|Greater Weapon Focus Gauss (T)(+2TH)
+Generic|Greater Weapon Focus Glaive (+2TH)
+Generic|Greater Weapon Focus Gnome Battle Pick (+2TH)
+Generic|Greater Weapon Focus Gnome Hooked Hammer (+2TH)
+Generic|Greater Weapon Focus Greataxe (+2TH)
+Generic|Greater Weapon Focus Greatclub (+2TH)
+Generic|Greater Weapon Focus Guisarme (+2TH)
+Generic|Greater Weapon Focus Halberd (+2TH)
+Generic|Greater Weapon Focus Hammer, Light (+2TH)
+Generic|Greater Weapon Focus Handaxe (+2TH)
+Generic|Greater Weapon Focus Javelin (+2TH)
+Generic|Greater Weapon Focus Kama (+2TH)
+Generic|Greater Weapon Focus Kukri (+2TH)
+Generic|Greater Weapon Focus Lance (+2TH)
+Generic|Greater Weapon Focus Longbow (+2TH)
+Generic|Greater Weapon Focus Longspear (+2TH)
+Generic|Greater Weapon Focus Mace, Heavy (+2TH)
+Generic|Greater Weapon Focus Mace, Light (+2TH)
+Generic|Greater Weapon Focus Morningstar(+2TH)
+Generic|Greater Weapon Focus Natural Attack(+2TH)
+Generic|Greater Weapon Focus Natural Attack/Bio-weapon (T)(+2TH)
+Generic|Greater Weapon Focus Natural Attack/Bite(+2TH)
+Generic|Greater Weapon Focus Natural Attack/Rending Claws (T)(+2TH)
+Generic|Greater Weapon Focus Natural Attack/Scything Talons (T)(+2TH)
+Generic|Greater Weapon Focus Net (+2TH)
+Generic|Greater Weapon Focus Nunchaku (+2TH)
+Generic|Greater Weapon Focus Pick, Heavy (+2TH)
+Generic|Greater Weapon Focus Pick, Light (+2TH)
+Generic|Greater Weapon Focus Quarterstaff (+2TH)
+Generic|Greater Weapon Focus Ranseur (+2TH)
+Generic|Greater Weapon Focus Rapier (+2TH)
+Generic|Greater Weapon Focus Sai (+2TH)
+Generic|Greater Weapon Focus Sap (+2TH)
+Generic|Greater Weapon Focus Scimitar (+2TH)
+Generic|Greater Weapon Focus Scimitar, 2-Handed (+2TH)
+Generic|Greater Weapon Focus Scythe (+2TH)
+Generic|Greater Weapon Focus Shield, Heavy (+2TH)
+Generic|Greater Weapon Focus Shield, Light (+2TH)
+Generic|Greater Weapon Focus Shortbow (+2TH)
+Generic|Greater Weapon Focus Shortspear (+2TH)
+Generic|Greater Weapon Focus Shuriken (+2TH)
+Generic|Greater Weapon Focus Siangham (+2TH)
+Generic|Greater Weapon Focus Sickle (+2TH)
+Generic|Greater Weapon Focus Sling (+2TH)
+Generic|Greater Weapon Focus Sling Staff, Halfling (+2TH)
+Generic|Greater Weapon Focus Spear (+2TH)
+Generic|Greater Weapon Focus Spiked Armor (+2TH)
+Generic|Greater Weapon Focus Spiked Chain (+2TH)
+Generic|Greater Weapon Focus Spiked Shield, Heavy (+2TH)
+Generic|Greater Weapon Focus Spiked Shield, Light (+2TH)
+Generic|Greater Weapon Focus Starknife (+2TH)
+Generic|Greater Weapon Focus Sword, Bastard (+2TH)
+Generic|Greater Weapon Focus Sword, Great (+2TH)
+Generic|Greater Weapon Focus Sword, Long (+2TH)
+Generic|Greater Weapon Focus Sword, Short (+2TH)
+Generic|Greater Weapon Focus Sword, Two-Bladed (+2TH)
+Generic|Greater Weapon Focus Trident (+2TH)
+Generic|Greater Weapon Focus Unarmed Strike (+2TH)
+Generic|Greater Weapon Focus Urgosh, Dwarven (+2TH)
+Generic|Greater Weapon Focus Waraxe, Dwarven (+2TH)
+Generic|Greater Weapon Focus Warhammer (+2TH)
+Generic|Greater Weapon Focus Whip (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Ballista (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Bombard (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Catapult (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Dual Ballista (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Greek Fire Projector (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Jettison (+2TH)
+Generic|Greater Weapon Focus Heavy Weapons-Sweeper (+2TH)
+Generic|Greater Weapon Specialization Axe, Orc Double (+4 Dam)
+Generic|Greater Weapon Specialization Axe, Throwing (+4 Dam)
+Generic|Greater Weapon Specialization Battleaxe (+4 Dam)
+Generic|Greater Weapon Specialization Blowgun (+4 Dam)
+Generic|Greater Weapon Specialization Bolas (+4 Dam)
+Generic|Greater Weapon Specialization Club (+4 Dam)
+Generic|Greater Weapon Specialization Composite Longbow (+4 Dam)
+Generic|Greater Weapon Specialization Composite Shortbow (+4 Dam)
+Generic|Greater Weapon Specialization Crossbow, Hand (+4 Dam)
+Generic|Greater Weapon Specialization Crossbow, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Crossbow, Light (+4 Dam)
+Generic|Greater Weapon Specialization Crossbow, Repeating Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Crossbow, Repeating Light (+4 Dam)
+Generic|Greater Weapon Specialization Curve Blade, Elven (+4 Dam)
+Generic|Greater Weapon Specialization Cutlass (T) (+4 Dam)
+Generic|Greater Weapon Specialization Dagger (+4 Dam)
+Generic|Greater Weapon Specialization Dagger, Punching (+4 Dam)
+Generic|Greater Weapon Specialization Dart (+4 Dam)
+Generic|Greater Weapon Specialization Dire Flail (+4 Dam)
+Generic|Greater Weapon Specialization Falchion (+4 Dam)
+Generic|Greater Weapon Specialization Flail (+4 Dam)
+Generic|Greater Weapon Specialization Flail, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Gauntlet (+4 Dam)
+Generic|Greater Weapon Specialization Gauntlet, Spiked (+4 Dam)
+Generic|Greater Weapon Specialization Gauss Weapon (T) (+4 Dam)
+Generic|Greater Weapon Specialization Glaive (+4 Dam)
+Generic|Greater Weapon Specialization Gnome Battle Pick (+4 Dam)
+Generic|Greater Weapon Specialization Gnome Hooked Hammer (+4 Dam)
+Generic|Greater Weapon Specialization Greataxe (+4 Dam)
+Generic|Greater Weapon Specialization Greatclub (+4 Dam)
+Generic|Greater Weapon Specialization Guisarme (+4 Dam)
+Generic|Greater Weapon Specialization Halberd (+4 Dam)
+Generic|Greater Weapon Specialization Hammer, Light (+4 Dam)
+Generic|Greater Weapon Specialization Handaxe (+4 Dam)
+Generic|Greater Weapon Specialization Javelin (+4 Dam)
+Generic|Greater Weapon Specialization Kama (+4 Dam)
+Generic|Greater Weapon Specialization Kukri (+4 Dam)
+Generic|Greater Weapon Specialization Lance (+4 Dam)
+Generic|Greater Weapon Specialization Longbow (+4 Dam)
+Generic|Greater Weapon Specialization Longspear (+4 Dam)
+Generic|Greater Weapon Specialization Mace, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Mace, Light (+4 Dam)
+Generic|Greater Weapon Specialization Morningstar(+4 Dam)
+Generic|Greater Weapon Specialization Natural Attack (T)(+4 Dam)
+Generic|Greater Weapon Specialization Natural Attack/Bio-weapon (T)(+4 Dam)
+Generic|Greater Weapon Specialization Natural Attack/Bite (T)(+4 Dam)
+Generic|Greater Weapon Specialization Natural Attack/Rending Claws (T)(+4 Dam)
+Generic|Greater Weapon Specialization Natural Attack/Scything Talons (T)(+4 Dam)
+Generic|Greater Weapon Specialization Net (+4 Dam)
+Generic|Greater Weapon Specialization Nunchaku (+4 Dam)
+Generic|Greater Weapon Specialization Pick, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Pick, Light (+4 Dam)
+Generic|Greater Weapon Specialization Quarterstaff (+4 Dam)
+Generic|Greater Weapon Specialization Ranseur (+4 Dam)
+Generic|Greater Weapon Specialization Rapier (+4 Dam)
+Generic|Greater Weapon Specialization Sai (+4 Dam)
+Generic|Greater Weapon Specialization Sap (+4 Dam)
+Generic|Greater Weapon Specialization Scimitar (+4 Dam)
+Generic|Greater Weapon Specialization Scimitar, 2-Handed (+4 Dam)
+Generic|Greater Weapon Specialization Scythe (+4 Dam)
+Generic|Greater Weapon Specialization Shield, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Shield, Light (+4 Dam)
+Generic|Greater Weapon Specialization Shortbow (+4 Dam)
+Generic|Greater Weapon Specialization Shortspear (+4 Dam)
+Generic|Greater Weapon Specialization Shuriken (+4 Dam)
+Generic|Greater Weapon Specialization Siangham (+4 Dam)
+Generic|Greater Weapon Specialization Sickle (+4 Dam)
+Generic|Greater Weapon Specialization Sling (+4 Dam)
+Generic|Greater Weapon Specialization Sling Staff, Halfling (+4 Dam)
+Generic|Greater Weapon Specialization Spear (+4 Dam)
+Generic|Greater Weapon Specialization Spiked Armor (+4 Dam)
+Generic|Greater Weapon Specialization Spiked Chain (+4 Dam)
+Generic|Greater Weapon Specialization Spiked Shield, Heavy (+4 Dam)
+Generic|Greater Weapon Specialization Spiked Shield, Light (+4 Dam)
+Generic|Greater Weapon Specialization Starknife (+4 Dam)
+Generic|Greater Weapon Specialization Sword, Bastard (+4 Dam)
+Generic|Greater Weapon Specialization Sword, Great (+4 Dam)
+Generic|Greater Weapon Specialization Sword, Long (+4 Dam)
+Generic|Greater Weapon Specialization Sword, Short (+4 Dam)
+Generic|Greater Weapon Specialization Sword, Two-Bladed (+4 Dam)
+Generic|Greater Weapon Specialization Trident (+4 Dam)
+Generic|Greater Weapon Specialization Unarmed Strike (+4 Dam)
+Generic|Greater Weapon Specialization Urgosh, Dwarven (+4 Dam)
+Generic|Greater Weapon Specialization Waraxe, Dwarven (+4 Dam)
+Generic|Greater Weapon Specialization Warhammer (+4 Dam)
+Generic|Greater Weapon Specialization Whip (+4 Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Ballista (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Bombard (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Catapult (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Dual Ballista (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Greek Fire Projector (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Jettison (+4Dam)
+Generic|Greater Weapon Specialization Heavy Weapons-Sweeper (+4Dam)
 Generic|Greater Weapon Specialization
 Generic|Green Ear 
 Generic|Green Heart
@@ -852,6 +1038,99 @@ Generic|Improved Combat Expertise
 Generic|Improved Combat Reflexes
 Generic|Improved Cooperative Metamagic (epic)
 Generic|Improved Critical
+Generic|Improved Critical Axe, Orc Double
+Generic|Improved Critical Axe, Throwing
+Generic|Improved Critical Battleaxe
+Generic|Improved Critical Blowgun
+Generic|Improved Critical Bolas
+Generic|Improved Critical Club
+Generic|Improved Critical Composite Longbow
+Generic|Improved Critical Composite Shortbow
+Generic|Improved Critical Crossbow, Hand
+Generic|Improved Critical Crossbow, Heavy
+Generic|Improved Critical Crossbow, Light
+Generic|Improved Critical Crossbow, Repeating Heavy
+Generic|Improved Critical Crossbow, Repeating Light
+Generic|Improved Critical Curve Blade, Elven
+Generic|Improved Critical Cutlass (T) 
+Generic|Improved Critical Dagger
+Generic|Improved Critical Dagger, Punching
+Generic|Improved Critical Dart
+Generic|Improved Critical Dire Flail
+Generic|Improved Critical Falchion
+Generic|Improved Critical Flail
+Generic|Improved Critical Flail, Heavy
+Generic|Improved Critical Gauntlet
+Generic|Improved Critical Gauntlet, Spiked
+Generic|Improved Critical Gauss Weapon (T)
+Generic|Improved Critical Glaive
+Generic|Improved Critical Gnome Battle Pick
+Generic|Improved Critical Gnome Hooked Hammer
+Generic|Improved Critical Greataxe
+Generic|Improved Critical Greatclub
+Generic|Improved Critical Guisarme
+Generic|Improved Critical Halberd
+Generic|Improved Critical Hammer, Light
+Generic|Improved Critical Handaxe
+Generic|Improved Critical Javelin
+Generic|Improved Critical Kama
+Generic|Improved Critical Kukri
+Generic|Improved Critical Lance
+Generic|Improved Critical Longbow
+Generic|Improved Critical Longspear
+Generic|Improved Critical Mace, Heavy
+Generic|Improved Critical Mace, Light
+Generic|Improved Critical Morningstar
+Generic|Improved Critical Natural Attack (MM)
+Generic|Improved Critical Natural Attack/Bio-Weapon (T)
+Generic|Improved Critical Natural Attack/Bite (T)
+Generic|Improved Critical Natural Attack/Rending Claws (T)
+Generic|Improved Critical Natural Attack/Scything Talons (T)
+Generic|Improved Critical Net
+Generic|Improved Critical Nunchaku
+Generic|Improved Critical Pick, Heavy
+Generic|Improved Critical Pick, Light
+Generic|Improved Critical Quarterstaff
+Generic|Improved Critical Ranseur
+Generic|Improved Critical Rapier
+Generic|Improved Critical Sai
+Generic|Improved Critical Sap
+Generic|Improved Critical Scimitar
+Generic|Improved Critical Scimitar, 2-Handed
+Generic|Improved Critical Scythe
+Generic|Improved Critical Shield, Heavy
+Generic|Improved Critical Shield, Light
+Generic|Improved Critical Shortbow
+Generic|Improved Critical Shortspear
+Generic|Improved Critical Shuriken
+Generic|Improved Critical Siangham
+Generic|Improved Critical Sickle
+Generic|Improved Critical Sling
+Generic|Improved Critical Sling Staff, Halfling
+Generic|Improved Critical Spear
+Generic|Improved Critical Spiked Armor
+Generic|Improved Critical Spiked Chain
+Generic|Improved Critical Spiked Shield, Heavy
+Generic|Improved Critical Spiked Shield, Light
+Generic|Improved Critical Starknife
+Generic|Improved Critical Sword, Bastard
+Generic|Improved Critical Sword, Great
+Generic|Improved Critical Sword, Long
+Generic|Improved Critical Sword, Short
+Generic|Improved Critical Sword, Two-Bladed
+Generic|Improved Critical Trident
+Generic|Improved Critical Unarmed Strike
+Generic|Improved Critical Urgosh, Dwarven
+Generic|Improved Critical Waraxe, Dwarven
+Generic|Improved Critical Warhammer
+Generic|Improved Critical Whip
+Generic|Improved Critical Heavy Weapons-Ballista
+Generic|Improved Critical Heavy Weapons-Bombard
+Generic|Improved Critical Heavy Weapons-Catapult
+Generic|Improved Critical Heavy Weapons-Dual Ballista
+Generic|Improved Critical Heavy Weapons-Greek Fire Projector
+Generic|Improved Critical Heavy Weapons-Jettison
+Generic|Improved Critical Heavy Weapons-Sweeper
 Generic|Improved Damage Reduction
 Generic|Improved Disarm
 Generic|Improved Disguise
@@ -868,9 +1147,9 @@ Generic|Improved Flight
 Generic|Improved Flight Item
 Generic|Improved Fortification
 Generic|Improved Grapple 
-Generic|Improved Initiative
 Generic|Improved Leadership 
 Generic|Improved Levitation
+Generic|Improved Lightning Reflexes
 Generic|Improved Metamagic (epic) 
 Generic|Improved Mounted Archery 
 Generic|Improved Natural Armor
@@ -1500,6 +1779,18 @@ Generic|Smooth Talk’
 Generic|Snake Blood 
 Generic|Snatch 
 Generic|Snatch Arrows 
+Generic|Sneak Attack +1d6 (DSM, CA)
+Generic|Sneak Attack +2d6 (DSM, CA)
+Generic|Sneak Attack +3d6 (DSM, CA)
+Generic|Sneak Attack +1d6
+Generic|Sneak Attack +2d6
+Generic|Sneak Attack +3d6
+Generic|Sneak Attack +4d6
+Generic|Sneak Attack +5d6
+Generic|Sneak Attack +6d6
+Generic|Sneak Attack +7d6
+Generic|Sneak Attack +8d6
+Generic|Sneak Attack +9d6
 Generic|Sneak Attack of Opportunity 
 Generic|Sociable Personality
 Generic|Solid Freeze
@@ -1521,6 +1812,14 @@ Generic|Spell Focus (Evil)
 Generic|Spell Focus (Good) 
 Generic|Spell Focus (Good)’ 
 Generic|Spell Focus (Law)
+Generic|Spell Focus (Abjuration)
+Generic|Spell Focus (Conjuration)
+Generic|Spell Focus (Divination)
+Generic|Spell Focus (Enchantment)
+Generic|Spell Focus (Evocation)
+Generic|Spell Focus (Illusion)
+Generic|Spell Focus (Necromancy)
+Generic|Spell Focus (Transmutation)
 Generic|Spell Graft
 Generic|Spell Hand
 Generic|Spell Knowledge (epic) 
@@ -1684,6 +1983,17 @@ Generic|Tower Shield Proficiency
 Generic|Track
 Generic|Trample
 Generic|Transdimensional Spell 
+Generic|Trap Sense +1 (Added to Ref Saves vs. traps)
+Generic|Trap Sense +2 (Added to Ref Saves vs. traps)
+Generic|Trap Sense +3 (Added to Ref Saves vs. traps)
+Generic|Trap Sense +4 (Added to Ref Saves vs. traps)
+Generic|Trap Sense +5 (Added to Ref Saves vs. traps)
+Generic|TRAP SENSE [EPIC]
+Generic|Trapfinding +1 (Detect, Find and disable traps w/DC20+ or Magical Traps)
+Generic|Trapfinding +2 (Detect, Find and disable traps w/DC20+ or Magical Traps)
+Generic|Trapfinding +3 (Detect, Find and disable traps w/DC20+ or Magical Traps)
+Generic|Trapfinding +4 (Detect, Find and disable traps w/DC20+ or Magical Traps)
+Generic|Trapfinding +5 (Detect, Find and disable traps w/DC20+ or Magical Traps)
 Generic|Trap Mastery
 Generic|Treetopper
 Generic|Tribal Traits 
@@ -1775,9 +2085,279 @@ Generic|We Few We Happy Few
 Generic|Weaken the Heart 
 Generic|Weakening Touch
 Generic|Weapon Finesse
+Generic|Weapon Focus Axe, Orc Double (+1 Atk)
+Generic|Weapon Focus Axe, Throwing (+1 Atk)
+Generic|Weapon Focus Battleaxe (+1 Atk)
+Generic|Weapon Focus Blowgun (+1 Atk)
+Generic|Weapon Focus Bolas (+1 Atk)
+Generic|Weapon Focus Club (+1 Atk)
+Generic|Weapon Focus Composite Longbow (+1 Atk)
+Generic|Weapon Focus Composite Shortbow (+1 Atk)
+Generic|Weapon Focus Crossbow, Hand (+1 Atk)
+Generic|Weapon Focus Crossbow, Heavy (+1 Atk)
+Generic|Weapon Focus Crossbow, Light (+1 Atk)
+Generic|Weapon Focus Crossbow, Repeating Heavy (+1 Atk)
+Generic|Weapon Focus Crossbow, Repeating Light (+1 Atk)
+Generic|Weapon Focus Curve Blade, Elven (+1 Atk)
+Generic|Weapon Focus Cutlass (T)  (+1 Atk)
+Generic|Weapon Focus Dagger (+1 Atk)
+Generic|Weapon Focus Dagger, Punching (+1 Atk)
+Generic|Weapon Focus Dart (+1 Atk)
+Generic|Weapon Focus Dire Flail (+1 Atk)
+Generic|Weapon Focus Falchion (+1 Atk)
+Generic|Weapon Focus Flail (+1 Atk)
+Generic|Weapon Focus Flail, Heavy (+1 Atk)
+Generic|Weapon Focus Gauntlet (+1 Atk)
+Generic|Weapon Focus Gauntlet, Spiked (+1 Atk)
+Generic|Weapon Focus Gauss Weapon (T) (+1 Atk)
+Generic|Weapon Focus Glaive (+1 Atk)
+Generic|Weapon Focus Gnome Battle Pick (+1 Atk)
+Generic|Weapon Focus Gnome Hooked Hammer (+1 Atk)
+Generic|Weapon Focus Greataxe (+1 Atk)
+Generic|Weapon Focus Greatclub (+1 Atk)
+Generic|Weapon Focus Guisarme (+1 Atk)
+Generic|Weapon Focus Halberd (+1 Atk)
+Generic|Weapon Focus Hammer, Light (+1 Atk)
+Generic|Weapon Focus Handaxe (+1 Atk)
+Generic|Weapon Focus Javelin (+1 Atk)
+Generic|Weapon Focus Kama (+1 Atk)
+Generic|Weapon Focus Kukri (+1 Atk)
+Generic|Weapon Focus Lance (+1 Atk)
+Generic|Weapon Focus Longbow (+1 Atk)
+Generic|Weapon Focus Longspear (+1 Atk)
+Generic|Weapon Focus Mace, Heavy (+1 Atk)
+Generic|Weapon Focus Mace, Light (+1 Atk)
+Generic|Weapon Focus Morningstar (+1 Atk)
+Generic|Weapon Focus Natural Attack (+1 Atk)
+Generic|Weapon Focus Natural Attack/Bio-weapon (T) (+1 Atk)
+Generic|Weapon Focus Natural Attack/Bite (+1 Atk)
+Generic|Weapon Focus Natural Attack/Rending Claws (T) (+1 Atk)
+Generic|Weapon Focus Natural Attack/Scything Talons (T) (+1 Atk)
+Generic|Weapon Focus Net (+1 Atk)
+Generic|Weapon Focus Nunchaku (+1 Atk)
+Generic|Weapon Focus Pick, Heavy (+1 Atk)
+Generic|Weapon Focus Pick, Light (+1 Atk)
+Generic|Weapon Focus Quarterstaff (+1 Atk)
+Generic|Weapon Focus Ranseur (+1 Atk)
+Generic|Weapon Focus Rapier (+1 Atk)
+Generic|Weapon Focus Sai (+1 Atk)
+Generic|Weapon Focus Sap (+1 Atk)
+Generic|Weapon Focus Scimitar (+1 Atk)
+Generic|Weapon Focus Scimitar, 2-Handed (+1 Atk)
+Generic|Weapon Focus Scythe (+1 Atk)
+Generic|Weapon Focus Shield, Heavy (+1 Atk)
+Generic|Weapon Focus Shield, Light (+1 Atk)
+Generic|Weapon Focus Shortbow (+1 Atk)
+Generic|Weapon Focus Shortspear (+1 Atk)
+Generic|Weapon Focus Shuriken (+1 Atk)
+Generic|Weapon Focus Siangham (+1 Atk)
+Generic|Weapon Focus Sickle (+1 Atk)
+Generic|Weapon Focus Sling (+1 Atk)
+Generic|Weapon Focus Sling Staff, Halfling (+1 Atk)
+Generic|Weapon Focus Spear (+1 Atk)
+Generic|Weapon Focus Spiked Armor (+1 Atk)
+Generic|Weapon Focus Spiked Chain (+1 Atk)
+Generic|Weapon Focus Spiked Shield, Heavy (+1 Atk)
+Generic|Weapon Focus Spiked Shield, Light (+1 Atk)
+Generic|Weapon Focus Starknife (+1 Atk)
+Generic|Weapon Focus Sword, Bastard (+1 Atk)
+Generic|Weapon Focus Sword, Great (+1 Atk)
+Generic|Weapon Focus Sword, Long (+1 Atk)
+Generic|Weapon Focus Sword, Short (+1 Atk)
+Generic|Weapon Focus Sword, Two-Bladed (+1 Atk)
+Generic|Weapon Focus Trident (+1 Atk)
+Generic|Weapon Focus Unarmed Strike (+1 Atk)
+Generic|Weapon Focus Urgosh, Dwarven (+1 Atk)
+Generic|Weapon Focus Waraxe, Dwarven (+1 Atk)
+Generic|Weapon Focus Warhammer (+1 Atk)
+Generic|Weapon Focus Whip (+1 Atk)
+Generic|Weapon Focus Heavy Weapons-Ballista (+1TH)
+Generic|Weapon Focus Heavy Weapons-Bombard (+1TH)
+Generic|Weapon Focus Heavy Weapons-Catapult (+1TH)
+Generic|Weapon Focus Heavy Weapons-Dual Ballista (+1TH)
+Generic|Weapon Focus Heavy Weapons-Greek Fire Projector (+1TH)
+Generic|Weapon Focus Heavy Weapons-Jettison (+1TH)
+Generic|Weapon Focus Heavy Weapons-Sweeper (+1TH)
 Generic|Weapon Focus 
 Generic|Weapon Groups 
+Generic|Weapon Specialization Axe, Orc Double (+2 Dam)
+Generic|Weapon Specialization Axe, Throwing (+2 Dam)
+Generic|Weapon Specialization Battleaxe (+2 Dam)
+Generic|Weapon Specialization Blowgun (+2 Dam)
+Generic|Weapon Specialization Bolas (+2 Dam)
+Generic|Weapon Specialization Club (+2 Dam)
+Generic|Weapon Specialization Composite Longbow (+2 Dam)
+Generic|Weapon Specialization Composite Shortbow (+2 Dam)
+Generic|Weapon Specialization Crossbow, Hand (+2 Dam)
+Generic|Weapon Specialization Crossbow, Heavy (+2 Dam)
+Generic|Weapon Specialization Crossbow, Light (+2 Dam)
+Generic|Weapon Specialization Crossbow, Repeating Heavy (+2 Dam)
+Generic|Weapon Specialization Crossbow, Repeating Light (+2 Dam)
+Generic|Weapon Specialization Curve Blade, Elven (+2 Dam)
+Generic|Weapon Specialization Cutlass (T) (+2 Dam)
+Generic|Weapon Specialization Dagger (+2 Dam)
+Generic|Weapon Specialization Dagger, Punching (+2 Dam)
+Generic|Weapon Specialization Dart (+2 Dam)
+Generic|Weapon Specialization Dire Flail (+2 Dam)
+Generic|Weapon Specialization Falchion (+2 Dam)
+Generic|Weapon Specialization Flail (+2 Dam)
+Generic|Weapon Specialization Flail, Heavy (+2 Dam)
+Generic|Weapon Specialization Gauntlet (+2 Dam)
+Generic|Weapon Specialization Gauntlet, Spiked (+2 Dam)
+Generic|Weapon Specialization Gauss Weapon (T) (+2 Dam)
+Generic|Weapon Specialization Glaive (+2 Dam)
+Generic|Weapon Specialization Gnome Battle Pick (+2 Dam)
+Generic|Weapon Specialization Gnome Hooked Hammer (+2 Dam)
+Generic|Weapon Specialization Greataxe (+2 Dam)
+Generic|Weapon Specialization Greatclub (+2 Dam)
+Generic|Weapon Specialization Guisarme (+2 Dam)
+Generic|Weapon Specialization Halberd (+2 Dam)
+Generic|Weapon Specialization Hammer, Light (+2 Dam)
+Generic|Weapon Specialization Handaxe (+2 Dam)
+Generic|Weapon Specialization Javelin (+2 Dam)
+Generic|Weapon Specialization Kama (+2 Dam)
+Generic|Weapon Specialization Kukri (+2 Dam)
+Generic|Weapon Specialization Lance (+2 Dam)
+Generic|Weapon Specialization Longbow (+2 Dam)
+Generic|Weapon Specialization Longspear (+2 Dam)
+Generic|Weapon Specialization Mace, Heavy (+2 Dam)
+Generic|Weapon Specialization Mace, Light (+2 Dam)
+Generic|Weapon Specialization Morningstar (+2 Dam)
+Generic|Weapon Specialization Natural Attack (T) (+2 Dam)
+Generic|Weapon Specialization Natural Attack/Bio-weapon (T) (+2 Dam)
+Generic|Weapon Specialization Natural Attack/Bite (+2 Dam)
+Generic|Weapon Specialization Natural Attack/Rending Claws (T) (+2 Dam)
+Generic|Weapon Specialization Natural Attack/Scything Talons (T) (+2 Dam)
+Generic|Weapon Specialization Net (+2 Dam)
+Generic|Weapon Specialization Nunchaku (+2 Dam)
+Generic|Weapon Specialization Pick, Heavy (+2 Dam)
+Generic|Weapon Specialization Pick, Light (+2 Dam)
+Generic|Weapon Specialization Quarterstaff (+2 Dam)
+Generic|Weapon Specialization Ranseur (+2 Dam)
+Generic|Weapon Specialization Rapier (+2 Dam)
+Generic|Weapon Specialization Sai (+2 Dam)
+Generic|Weapon Specialization Sap (+2 Dam)
+Generic|Weapon Specialization Scimitar (+2 Dam)
+Generic|Weapon Specialization Scimitar, 2-Handed (+2 Dam)
+Generic|Weapon Specialization Scythe (+2 Dam)
+Generic|Weapon Specialization Shield, Heavy (+2 Dam)
+Generic|Weapon Specialization Shield, Light (+2 Dam)
+Generic|Weapon Specialization Shortbow (+2 Dam)
+Generic|Weapon Specialization Shortspear (+2 Dam)
+Generic|Weapon Specialization Shuriken (+2 Dam)
+Generic|Weapon Specialization Siangham (+2 Dam)
+Generic|Weapon Specialization Sickle (+2 Dam)
+Generic|Weapon Specialization Sling (+2 Dam)
+Generic|Weapon Specialization Sling Staff, Halfling (+2 Dam)
+Generic|Weapon Specialization Spear (+2 Dam)
+Generic|Weapon Specialization Spiked Armor (+2 Dam)
+Generic|Weapon Specialization Spiked Chain (+2 Dam)
+Generic|Weapon Specialization Spiked Shield, Heavy (+2 Dam)
+Generic|Weapon Specialization Spiked Shield, Light (+2 Dam)
+Generic|Weapon Specialization Starknife (+2 Dam)
+Generic|Weapon Specialization Sword, Bastard (+2 Dam)
+Generic|Weapon Specialization Sword, Great (+2 Dam)
+Generic|Weapon Specialization Sword, Long (+2 Dam)
+Generic|Weapon Specialization Sword, Short (+2 Dam)
+Generic|Weapon Specialization Sword, Two-Bladed (+2 Dam)
+Generic|Weapon Specialization Trident (+2 Dam)
+Generic|Weapon Specialization Unarmed Strike (+2 Dam)
+Generic|Weapon Specialization Urgosh, Dwarven (+2 Dam)
+Generic|Weapon Specialization Waraxe, Dwarven (+2 Dam)
+Generic|Weapon Specialization Warhammer (+2 Dam)
+Generic|Weapon Specialization Whip (+2 Dam)
+Generic|Weapon Specialization Heavy Weapons-Ballista (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Bombard (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Catapult (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Dual Ballista (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Greek Fire Projector (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Jettison (+2Dam)
+Generic|Weapon Specialization Heavy Weapons-Sweeper (+2Dam)
 Generic|Weapon Specialization 
+Generic|Weapon Supremacy Axe, Orc Double (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Axe, Throwing (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Battleaxe (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Blowgun (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Bolas (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Club (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Composite Longbow (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Composite Shortbow (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Crossbow, Hand (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Crossbow, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Crossbow, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Crossbow, Repeating Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Crossbow, Repeating Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Curve Blade, Elven (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Dagger (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Dagger, Punching (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Dart (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Dire Flail (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Falchion (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Flail (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Flail, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Gauntlet (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Gauntlet, Spiked (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Glaive (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Gnome Battle Pick (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Gnome Hooked Hammer (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Greataxe (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Greatclub (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Guisarme (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Halberd (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Hammer, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Handaxe (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Javelin (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Kama (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Kukri (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Lance (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Longbow (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Longspear (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Mace, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Mace, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Morningstar (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Natural Attack (T) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Natural Attack/Bio-weapon (T) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Natural Attack/Bite (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Natural Attack/Rending Claws (T) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Natural Attack/Scything Talons (T) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Net (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Nunchaku (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Pick, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Pick, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Quarterstaff (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Ranseur (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Rapier (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sai (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sap (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Scimitar (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Scimitar, 2-Handed (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Scythe (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Shield, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Shield, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Shortbow (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Shortspear (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Shuriken (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Siangham (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sickle (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sling (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sling Staff, Halfling (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Spear (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Spiked Armor (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Spiked Chain (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Spiked Shield, Heavy (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Spiked Shield, Light (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Starknife (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sword, Bastard (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sword, Great (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sword, Long (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sword, Short (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Sword, Two-Bladed (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Trident (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Unarmed Strike (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Urgosh, Dwarven (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Waraxe, Dwarven (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Warhammer (PH2) (+4 Dis, +1AC, Grapl Atk)
+Generic|Weapon Supremacy Whip (PH2) (+4 Dis, +1AC, Grapl Atk)
 Generic|Weapon Supremacy 
 Generic|Well Read
 Generic|Well Traveled
@@ -1812,3 +2392,11 @@ Generic|Zagyg’s Favor
 Generic|Zen Archery 
 Generic|Zen Fortitude 
 Generic|Zone of Animation (epic)
+InitModifier|Improved Initiative (Epic)|4
+InitModifier|Improved Initiative|4
+InitModifier|Quick Reconnoiter (Epic)|2
+InitModifier|Quick Reconnoiter|2
+
+## Class Features
+Evasion|Evasion|false
+Evasion|Improved Evasion|true
