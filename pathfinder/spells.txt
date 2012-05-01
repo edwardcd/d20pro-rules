@@ -20,8 +20,8 @@ Age Resistance, Lesser
 Agonize
 Aid
 Air Bubble
-Air Walk
-Air Walk, Communal
+Airwalk
+Airwalk, Communal
 Alarm
 Alchemical Allocation
 Align Weapon
@@ -35,6 +35,7 @@ Ancestral Communion
 Ancestral Gift
 Ancestral Memory
 Animal Aspect
+Animal Aspect, Greater
 Animal Growth
 Animal Messenger
 Animal Shapes
@@ -49,6 +50,7 @@ Ant Haul, Communal
 Anthropomorphic Animal
 Anticipate Peril
 Antilife Shell
+Antilife Shield
 Antimagic Field
 Antipathy
 Antiplant Shell
@@ -102,6 +104,7 @@ Beast Shape II
 Beast Shape III
 Beast Shape IV
 Beguiling Gift
+Besstow Grace of the Champion 
 Bestow Curse
 Bestow Grace
 Bestow Grace of the Champion
@@ -124,6 +127,7 @@ Blessing of the Mole
 Blessing of the Salamander
 Blessing of the Watch
 Blight
+Blindness
 Blindness/Deafness
 Blink
 Blistering Invective
@@ -148,10 +152,12 @@ Borrow Skill
 Bow Spirit
 Bowstaff
 Brand
+Brand, Greater
 Break
 Break Enchantment
 Breath of Life
 Brilliant Inspiration
+Brilliant Inspiration 
 Bristle
 Brow Gasher
 Bullet Shield
@@ -183,6 +189,8 @@ Cape of Wasps
 Cast Out
 Castigate
 Castigate, Mass
+Cat’s Grace
+Cat’s Grace, Mass
 Cat's Grace
 Cat's Grace, Mass
 Cause Fear
@@ -237,6 +245,7 @@ Conjure Black Pudding
 Consecrate
 Contact Other Plane
 Contagion
+Contagion, Greater 
 Contagious Flame
 Contingency
 Continual Flame
@@ -260,10 +269,12 @@ Create Demiplane
 Create Demiplane, Greater
 Create Demiplane, Lesser
 Create Food and Water
+Create Greater Undead 
 Create Pit
 Create Soul Gem
 Create Treasure Map
 Create Undead
+Create Undead, Greater
 Create Water
 Creeping Doom
 Crown of Glory
@@ -283,6 +294,7 @@ Curse of Magic Negation
 Curse Water
 Curse, Major
 Cursed Earth
+Cushining Bands
 Cushioning Bands
 Daemon Ward
 Damp Powder
@@ -293,16 +305,19 @@ Dancing Lights
 Darkness
 Darkvision
 Darkvision, Communal
+Darkvision, Greater
 Daybreak Arrow
 Daylight
 Daze
 Daze Monster
+Daze, Mass 
 Dazzling Blade
 Deadeye's Arrow
 Deadeye's Lore
 Deadly Finale
 Deadly Juggernaut
 Deafening Song Bolt
+Deafness
 Death Knell
 Death Knell Aura
 Death Ward
@@ -326,11 +341,12 @@ Delusional Pride
 Demand
 Denounce
 Desecrate
-Destablize Powder
+Destabilize Powder
 Destruction
 Detect Aberration
 Detect Animals or Plants
 Detect Chaos
+Detect Chaos/Evil/Good/Law 
 Detect Charm
 Detect Evil
 Detect Good
@@ -357,6 +373,7 @@ Discern Lies
 Discern Location
 Discordant Blast
 Discovery Torch
+Discovery Touch
 Disfiguring Touch
 Disguise Other
 Disguise Self
@@ -385,6 +402,7 @@ Dominate Monster
 Dominate Person
 Doom
 Draconic Reservoir
+Dragon’s Breath
 Dragon's Breath
 Dread Bolt
 Dream
@@ -397,6 +415,7 @@ Dweomer Retaliation
 Eagle Aerie
 Eagle Eye
 Eagle's Splendor
+Eagle's Splendor, Mass 
 Early Judgment
 Ear-Piercing Scream
 Earthquake
@@ -409,12 +428,14 @@ Elemental Body I
 Elemental Body II
 Elemental Body III
 Elemental Body IV
+Elemental Body IV
 Elemental Speech
 Elemental Swarm
 Elemental Touch
 Elude Time
 Emergency Force Sphere
 Endure Elements
+Endure Elements, Communal
 Enemy Hammer
 Enemy's Heart
 Energy Drain
@@ -424,6 +445,7 @@ Enervation
 Enhance Water
 Enhanced Diplomacy
 Enlarge Person
+Enlarge Person, Mass
 Entangle
 Enter Image
 Enthrall
@@ -431,7 +453,7 @@ Entropic Shield
 Envious Urge
 Epidemic
 Erase
-Eruptive Postules
+Eruptive Pustules
 Ethereal Jaunt
 Etherealness
 Euphoric Cloud
@@ -451,6 +473,7 @@ Fabricate Bullets
 Face of the Devourer
 Faerie Fire
 Fairness
+Fall
 Fallback Strategy
 False Life
 False Life, Greater
@@ -473,6 +496,7 @@ Find Traps
 Finger of Death
 Fire Breath
 Fire of Entanglement
+Fire of Judgement
 Fire of Judgment
 Fire of Vengeance
 Fire Seeds
@@ -512,6 +536,7 @@ Forced Quiet
 Forced Repentance
 Forceful Hand
 Foresight
+Forest Fall
 Forest Friend
 Form of the Dragon I
 Form of the Dragon II
@@ -531,7 +556,9 @@ Fungle Infestation
 Gallant Inspiration
 Gaseous Form
 Gate
-Geas-Quest
+Geas
+Geas, Lesser 
+Geas/Quest 
 Genesis
 Genius Avaricious
 Gentle Repose
@@ -545,17 +572,20 @@ Ghostly Disguise
 Ghoul Hunger
 Ghoul Touch
 Giant Form I
+Giant Form II
 Giant Vermin
 Glibness
 Glide
 Glitterdust
 Globe of Invulnerability
 Globe of Invulnerability, Greater
+Globe of Invulnerability, Lesser
 Glyph of Warding
 Glyph of Warding, Greater
 Good Hope
 Goodberry
 Gorum's Armor
+Gorum's Armor, Infernal Healing
 Gozreh's Trident
 Grace
 Grasping Hand
@@ -592,7 +622,9 @@ Heroic Finale
 Heroic Fortune
 Heroic Invocation
 Heroism
+Heroism, Greater 
 Hero's Defiance
+Hero's Feast
 Hex Ward
 Hidden Knowledge
 Hidden Speech
@@ -632,11 +664,13 @@ Ice Body
 Ice Crystal Teleport
 Ice Storm
 Icicle Dagger
+Icicle Dagger
 Icy Prison
 Icy Prison, Mass
 Identify
 Ill Omen
 Illusion of Calm
+Illusonry Script
 Illusory Poison
 Illusory Script
 Illusory Wall
@@ -647,6 +681,7 @@ Implosion
 Imprisonment
 Incendiary Cloud
 Infernal Healing
+Infernal Healing, Greater 
 Inflict Critical Wounds
 Inflict Critical Wounds, Mass
 Inflict Light Wounds
@@ -659,6 +694,7 @@ Inheritor's Smite
 Innocence
 Insanity
 Insect Plague
+Instanity
 Instant Armor
 Instant Enemy
 Instant Suffocation
@@ -667,8 +703,10 @@ Instrument of Agony
 Interplanetary Teleport
 Interposing Hand
 Interrogation
+Interrogation, Greater
 Invigorate
 Invigorate, Mass
+Invigorate, Mass, Jester's Jaunt 
 Invigorating Repose
 Invisibility
 Invisibility Purge
@@ -681,6 +719,7 @@ Irresistible Dance
 Irrisen Mirror Sight
 Jester's Jaunt
 Jolting Portent
+Joyfful Rapture 
 Joyful Rapture
 Judgment Light
 Jump
@@ -701,6 +740,7 @@ Lash of the Astradaemon
 Lead Blades
 Leashed Shackles
 Legend Lore
+Lend Greater Judgment
 Lend Judgment
 Levitate
 Liberating Command
@@ -775,10 +815,12 @@ Malediction (Book of the Damned)
 Malfunction
 Malicious Spite
 Marionette Possession
+Marionette Possession
 Mark of Justice
 Marks of Forbiddance
 Mask Dweomer
 Mask Dweomer, Communal
+Mass Invisibility
 Masterwork Transformation
 Maze
 Meld into Stone
@@ -804,6 +846,7 @@ Modify Memory
 Moment of Greatness
 Moment of Prescience
 Monstrous Extremities
+Monstrous Physic II
 Monstrous Physique I
 Monstrous Physique II
 Monstrous Physique III
@@ -818,6 +861,7 @@ Named Bullet
 Named Bullet, Greater
 Nap Stack
 Natural Rhythm
+Nature's Ally IX
 Nature's Exile
 Negate Aroma
 Negative Reaction
@@ -825,6 +869,7 @@ Neutralize Poison
 Night Blindness
 Night of Blades
 Nightmare
+Nondection, Communal 
 Nondetection
 Nondetection, Communal
 Oath of Justice
@@ -879,14 +924,17 @@ Plague Carrier
 Plague Storm
 Planar Adaptation
 Planar Adaptation, Mass
+Planar Adaption
+Planar Adaption, Mass
 Planar Ally
 Planar Ally, Greater
 Planar Ally, Lesser
 Planar Binding
 Planar Binding, Greater
-Planara Binding, Lesser
+Planar Binding, Lesser
 Plane Shift
 Planned Assault
+Planner Binding, Lesser
 Plant Growth
 Plant Shape I
 Plant Shape II
@@ -901,6 +949,7 @@ Polymorph Any Object
 Polymorph, Greater
 Polypurpose Panacea
 Possess Object
+Possessed Object
 Power Word Blind
 Power Word Kill
 Power Word Stun
@@ -913,12 +962,14 @@ Prismatic Sphere
 Prismatic Spray
 Prismatic Wall
 Produce Flame
+Proection from Good 
 Programmed Image
 Project Image
 Protection from Arrows
 Protection from Arrows, Communal
 Protection from Chaos
 Protection from Chaos, Communal
+Protection from Chaos/Evil/Good/Law
 Protection from Energy
 Protection from Energy, Communal
 Protection from Evil
@@ -940,6 +991,7 @@ Putrefy Food and Drink
 Pyrotechnics
 Qualm
 Quench
+Quest
 Questing Stone
 Rage
 Raiment of Command
@@ -962,6 +1014,7 @@ Recoil Fire
 Recorporeal Incarnation
 Reduce Animal
 Reduce Person
+Reduce Person, Mass
 Refuge
 Regenerate
 Reincarnate
@@ -971,6 +1024,7 @@ Rejuvenate Eidolon
 Rejuvenate Eidolon, Greater
 Rejuvenate Eidolon, Lesser
 Reloading Hands
+Reloading Hnads
 Remove Blindness/Deafness
 Remove Curse
 Remove Disease
@@ -997,12 +1051,14 @@ Restoration, Greater
 Restoration, Lesser
 Restore Corpse
 Restore Eidolon
+Restore Eidolon, Lesser
 Resurgent Transformation
 Resurrection
 Retribution
 Retrieve Item
 Returning Weapon
 Returning Weapon, Communal
+Reuplsion
 Reveal True Shape
 Revelation
 Reverse Gravity
@@ -1031,6 +1087,7 @@ Sands of Time
 Saving Finale
 Scare
 Scent Trail
+Scintillating Patter
 Scintillating Pattern
 Scorching Ray
 Scourge of the Horsemen
@@ -1201,6 +1258,7 @@ Summon Instrument
 Summon Meladaemon
 Summon Minor Ally
 Summon Minor Monster
+Summon Monster 
 Summon Monster I
 Summon Monster II
 Summon Monster III
@@ -1231,6 +1289,7 @@ Swallow Your Fear
 Swarm Skin
 Swipe
 Symbol of Death
+Symbol of Fear
 Symbol of Fear
 Symbol of Healing
 Symbol of Insanity
@@ -1264,6 +1323,7 @@ Telepathic Bond
 Teleport
 Teleport Object
 Teleport Trap
+Teleport, Greater
 Teleportation Circle
 Temporal Stasis
 Temporary Resurrection
@@ -1273,6 +1333,7 @@ Thorn Body
 Threefold Aspect
 Thunder Fire
 Thundering Drums
+Thunderous Drums 
 Time Stop
 Timely Inspiration
 Tiny Hut
@@ -1324,6 +1385,7 @@ Undead Anatomy I
 Undead Anatomy II
 Undead Anatomy III
 Undead Anatomy IV
+Undead to Death
 Undeath to Death
 Undeath Ward
 Undetectable Alignment
