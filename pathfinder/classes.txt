@@ -1,4 +1,4 @@
-// Updated 1 May 2012
+// Updated 8 May 2012
 
 ## CLASS: NINJA
 CreatureClass=Ninja
