@@ -42,10 +42,10 @@ Generic|Armor Proficiency (Light)
 Generic|Armor Proficiency (Medium)
 Generic|Armor Proficiency (Medium)
 Generic|Aspect of the Beast (Claws of the Beast)
-Generic|Aspect of the Beast (Night Senses - Darkvision +30&apos;)
-Generic|Aspect of the Beast (Night Senses - Darkvision 30&apos;)
+Generic|Aspect of the Beast (Night Senses - Darkvision +30')
+Generic|Aspect of the Beast (Night Senses - Darkvision 30')
 Generic|Aspect of the Beast (Night Senses - Low-Light Vision)
-Generic|Aspect of the Beast (Predator&apos;s Leap)
+Generic|Aspect of the Beast (Predator's Leap)
 Generic|Aspect of the Beast (Wild Instinct)
 Generic|Athletic
 Generic|Augment Summoning
@@ -53,7 +53,7 @@ Generic|Awesome Blow
 Generic|Babble-Peddler
 Generic|Back to Back
 Generic|Bashing Finish
-Generic|Belier&apos;s Bite
+Generic|Belier's Bite
 Generic|Betrayer
 Generic|Bewildering Koan
 Generic|Big Game Hunter
@@ -137,7 +137,7 @@ Generic|Cosmopolitan
 Generic|Country Born
 Generic|Covering Defense
 Generic|Craft Construct
-Generic|Craft Magic Arms &amp; Armor
+Generic|Craft Magic Arms & Armor
 Generic|Craft Rod
 Generic|Craft Staff
 Generic|Craft Wand
@@ -166,7 +166,7 @@ Generic|Deadly Stroke
 Generic|Deafening Critical
 Generic|Death from Above
 Generic|Death or Glory
-Generic|Death’s Suitor
+Generic|DeathÂ’s Suitor
 Generic|Deathless Initiate
 Generic|Deathless Master
 Generic|Deathless Zealot
@@ -187,10 +187,10 @@ Generic|Derro Magister
 Generic|Dervish Dance
 Generic|Desert Dweller
 Generic|Desperate Battler
-Generic|Destroyer’s Blessing 
+Generic|DestroyerÂ’s Blessing 
 Generic|Destructive Dispel
 Generic|Devastating Strike
-Generic|Devil&apos;s Foe 
+Generic|Devil's Foe 
 Generic|Diehard 
 Generic|Dilettante 
 Generic|Dimensional Agility
@@ -217,7 +217,7 @@ Generic|Distance Thrower
 Generic|Distant Jinx 
 Generic|Distant Jinx 
 Generic|Divine Deception 
-Generic|Diviner&apos;s Delving 
+Generic|Diviner's Delving 
 Generic|Djinni Spin
 Generic|Djinni Spirit
 Generic|Djinni Style
@@ -257,7 +257,7 @@ Generic|Elven Accuracy
 Generic|Empower Spell 
 Generic|Empower Spell-Like Ability
 Generic|Endurance 
-Generic|Endure Pain (Zon-Kuthon’s Kiss) 
+Generic|Endure Pain (Zon-KuthonÂ’s Kiss) 
 Generic|Enfilading Fire
 Generic|Enforcer 
 Generic|Enlarge Spell 
@@ -311,7 +311,7 @@ Generic|Fight On
 Generic|Final Embrace
 Generic|Final Embrace Horror
 Generic|Final Embrace Master
-Generic|Fire God’s Blessing 
+Generic|Fire GodÂ’s Blessing 
 Generic|Flagbearer 
 Generic|Flame-Tested Survivor 
 Generic|Flanking Foil
@@ -328,8 +328,8 @@ Generic|Free Spirit
 Generic|Friendly Switch 
 Generic|Furious Finish
 Generic|Furious Focus 
-Generic|Fury’s Fall 
-Generic|Fury’s Snare 
+Generic|FuryÂ’s Fall 
+Generic|FuryÂ’s Snare 
 Generic|Galley Slave 
 Generic|Gang Up 
 Generic|Gift of Sight 
@@ -339,7 +339,7 @@ Generic|Go Unnoticed
 Generic|Godless Healing 
 Generic|Godless Healing 
 Generic|Gore Fiend 
-Generic|Gorgon&apos;s Fist 
+Generic|Gorgon's Fist 
 Generic|Gory Finish
 Generic|Grand Master Performer 
 Generic|Graverisen 
@@ -387,15 +387,15 @@ Generic|Harrowed
 Generic|Haunted Gnome
 Generic|Haunted Gnome Assault
 Generic|Haunted Gnome Shroud
-Generic|Healer&apos;s Touch 
+Generic|Healer's Touch 
 Generic|Heighten Spell 
 Generic|Heightened Trap Sense 
 Generic|Hellcat Pounce 
 Generic|Hellcat Stealth 
 Generic|Helpless Prisoner 
 Generic|Hermean Blood 
-Generic|Hero&apos;s Fortune 
-Generic|Hero’s Display
+Generic|Hero's Fortune 
+Generic|HeroÂ’s Display
 Generic|Heroic Defiance  
 Generic|Heroic Recovery  
 Generic|Hex Strike
@@ -448,7 +448,7 @@ Generic|Improved Unarmed Strike
 Generic|Improved Vital Strike 
 Generic|Improved Whip Mastery
 Generic|Improvised Weapon Mastery 
-Generic|In Harm&apos;s Way 
+Generic|In Harm's Way 
 Generic|Indigestible 
 Generic|Indomitable Mount 
 Generic|Inscribe Rune 
@@ -484,7 +484,7 @@ Generic|Kirin Path
 Generic|Kirin Strike
 Generic|Kirin Style
 Generic|Knockout Artist
-Generic|Lamashtu&apos;s Mark
+Generic|Lamashtu's Mark
 Generic|Landing Roll
 Generic|Large Target 
 Generic|Leadership  
@@ -527,12 +527,12 @@ Generic|Master Siege Engineer
 Generic|Masterful Display
 Generic|Maximize Spell 
 Generic|Maximized Spellstrike
-Generic|Medusa&apos;s Wrath 
+Generic|Medusa's Wrath 
 Generic|Menacing Bane
 Generic|Merciful Bane
 Generic|Merciful Spell 
 Generic|Minor Spell Expertise 
-Generic|Minotaur&apos;s Charge 
+Generic|Minotaur's Charge 
 Generic|Missile Shield 
 Generic|Mobility 
 Generic|Mocking Dance
@@ -553,7 +553,7 @@ Generic|Mounted Shield
 Generic|Mounted Skirmisher 
 Generic|Multiattack 
 Generic|Multiweapon Fighting 
-Generic|Murderer’s Circle
+Generic|MurdererÂ’s Circle
 Generic|Nameless Servitor 
 Generic|Natural Spell 
 Generic|Neckbreaker
@@ -723,7 +723,7 @@ Generic|Silent Spell
 Generic|Simple Weapon Proficiency - All 
 Generic|Skill Focus: -Choose- 
 Generic|Skilled Driver
-Generic|Slayer’s Knack
+Generic|SlayerÂ’s Knack
 Generic|Sliding Axe Throw 
 Generic|Sling Flail
 Generic|Sluggish Jinx 
@@ -784,7 +784,7 @@ Generic|Stunning Critical
 Generic|Stunning Fist  
 Generic|Stunning Pin
 Generic|Suffocating Strangulation 
-Generic|Summoner&apos;s Call: 
+Generic|Summoner's Call: 
 Generic|Sundering Strike 
 Generic|Sure Grasp
 Generic|Survivor 
@@ -797,7 +797,7 @@ Generic|Taldan Conscript
 Generic|Taldan Duelist 
 Generic|Taldan Knight 
 Generic|Taldan Squire 
-Generic|Talmandor&apos;s Lifting 
+Generic|Talmandor's Lifting 
 Generic|Tandem Trip
 Generic|Tantrum 
 Generic|Target of Opportunity
@@ -831,7 +831,7 @@ Generic|Touvette Defender
 Generic|Tower Shield Proficiency 
 Generic|Tower Shield Proficiency 
 Generic|Trample 
-Generic|Trapper’s Setup
+Generic|TrapperÂ’s Setup
 Generic|Trick Riding 
 Generic|Tripping Strike 
 Generic|Turn Undead
@@ -856,7 +856,7 @@ Generic|Vicious Stomp
 Generic|Vital Strike 
 Generic|Wand Dancer 
 Generic|War Singer 
-Generic|Warleader’s Rage 
+Generic|WarleaderÂ’s Rage 
 Generic|Warren Digger 
 Generic|Warren Digger 
 Generic|Wave Strike
@@ -877,6 +877,4 @@ Generic|Wind Stance
 Generic|Wingover 
 Generic|Witty Feint 
 Generic|Worst Case Jinxer 
-InitModifier|Improved Initiative 
-
-
+InitModifier|Improved Initiative
