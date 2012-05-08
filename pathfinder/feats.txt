@@ -19,7 +19,6 @@ Generic|All Gnolls Must Die
 Generic|Allied Spellcaster
 Generic|Altitude Affinity
 Generic|Amateur Gunslinger
-Generic|Amateur Gunslinger
 Generic|Ammo Drop
 Generic|Amplified Rage
 Generic|Andoren Falconry
@@ -36,10 +35,7 @@ Generic|Arcane Talent
 Generic|Arcane Vendetta
 Generic|Area Jinx
 Generic|Armor Proficiency (Heavy)
-Generic|Armor Proficiency (Heavy)
 Generic|Armor Proficiency (Light)
-Generic|Armor Proficiency (Light)
-Generic|Armor Proficiency (Medium)
 Generic|Armor Proficiency (Medium)
 Generic|Aspect of the Beast (Claws of the Beast)
 Generic|Aspect of the Beast (Night Senses - Darkvision +30')
@@ -77,7 +73,7 @@ Generic|Bodyguard
 Generic|Bolster Jinx
 Generic|Bolstered Resilience
 Generic|Bonebreaker
-Generic|Boon Companion: -Choose-
+Generic|Boon Companion
 Generic|Bouncing Spell
 Generic|Bounding Hammer
 Generic|Brain Eater
@@ -166,7 +162,7 @@ Generic|Deadly Stroke
 Generic|Deafening Critical
 Generic|Death from Above
 Generic|Death or Glory
-Generic|Deaths Suitor
+Generic|Death's Suitor
 Generic|Deathless Initiate
 Generic|Deathless Master
 Generic|Deathless Zealot
@@ -187,7 +183,7 @@ Generic|Derro Magister
 Generic|Dervish Dance
 Generic|Desert Dweller
 Generic|Desperate Battler
-Generic|Destroyers Blessing 
+Generic|Destroyer's Blessing 
 Generic|Destructive Dispel
 Generic|Devastating Strike
 Generic|Devil's Foe 
@@ -214,8 +210,7 @@ Generic|Disruptive
 Generic|Disruptive Recall
 Generic|Disruptive Spell 
 Generic|Distance Thrower
-Generic|Distant Jinx 
-Generic|Distant Jinx 
+Generic|Distant Jinx
 Generic|Divine Deception 
 Generic|Diviner's Delving 
 Generic|Djinni Spin
@@ -257,7 +252,7 @@ Generic|Elven Accuracy
 Generic|Empower Spell 
 Generic|Empower Spell-Like Ability
 Generic|Endurance 
-Generic|Endure Pain (Zon-Kuthons Kiss) 
+Generic|Endure Pain (Zon-Kuthon's Kiss) 
 Generic|Enfilading Fire
 Generic|Enforcer 
 Generic|Enlarge Spell 
@@ -267,8 +262,7 @@ Generic|Equipment Trick (shield)
 Generic|Escape Route
 Generic|Eschew Materials 
 Generic|Exhausting Critical 
-Generic|Exotic Weapon Proficiency 
-Generic|Exotic Weapon Proficiency (Firearms) 
+Generic|Exotic Weapon Proficiency
 Generic|Expanded Arcana 
 Generic|Experienced Vagabond 
 Generic|Expert Driver
@@ -311,7 +305,7 @@ Generic|Fight On
 Generic|Final Embrace
 Generic|Final Embrace Horror
 Generic|Final Embrace Master
-Generic|Fire Gods Blessing 
+Generic|Fire God's Blessing 
 Generic|Flagbearer 
 Generic|Flame-Tested Survivor 
 Generic|Flanking Foil
@@ -328,8 +322,8 @@ Generic|Free Spirit
 Generic|Friendly Switch 
 Generic|Furious Finish
 Generic|Furious Focus 
-Generic|Furys Fall 
-Generic|Furys Snare 
+Generic|Fury's Fall 
+Generic|Fury's Snare 
 Generic|Galley Slave 
 Generic|Gang Up 
 Generic|Gift of Sight 
@@ -361,7 +355,7 @@ Generic|Greater Reposition
 Generic|Greater Shield Focus 
 Generic|Greater Shield Specialization
 Generic|Greater Snap Shot
-Generic|Greater Spell Focus: -Choose- 
+Generic|Greater Spell Focus
 Generic|Greater Spell Penetration 
 Generic|Greater Steal 
 Generic|Greater Sunder 
@@ -375,7 +369,6 @@ Generic|Green Faith Acolyte
 Generic|Groundling 
 Generic|Guided Hand
 Generic|Gunsmithing
-Generic|Gunsmithing 
 Generic|Halfling Slinger 
 Generic|Hamatula Grasp 
 Generic|Hamatula Strike 
@@ -395,7 +388,7 @@ Generic|Hellcat Stealth
 Generic|Helpless Prisoner 
 Generic|Hermean Blood 
 Generic|Hero's Fortune 
-Generic|Heros Display
+Generic|Hero's Display
 Generic|Heroic Defiance  
 Generic|Heroic Recovery  
 Generic|Hex Strike
@@ -553,7 +546,7 @@ Generic|Mounted Shield
 Generic|Mounted Skirmisher 
 Generic|Multiattack 
 Generic|Multiweapon Fighting 
-Generic|Murderers Circle
+Generic|Murderer's Circle
 Generic|Nameless Servitor 
 Generic|Natural Spell 
 Generic|Neckbreaker
@@ -568,7 +561,6 @@ Generic|Nightmare Striker
 Generic|Nightmare Weaver
 Generic|Nimble Moves 
 Generic|No Name
-Generic|No Name 
 Generic|Noble Scion of Lore 
 Generic|Noble Scion of Magic 
 Generic|Noble Scion of Peace 
@@ -615,7 +607,6 @@ Generic|Possess Location
 Generic|Possess Object
 Generic|Power Attack 
 Generic|Practiced Tactician 
-Generic|Practiced Tactician 
 Generic|Precise Shot 
 Generic|Precise Strike 
 Generic|Preferred Spell 
@@ -632,7 +623,7 @@ Generic|Quick Reposition
 Generic|Quick Steal
 Generic|Quicken Spell 
 Generic|Quicken Spell-Like Ability 
-Generic|Racial Heritage:
+Generic|Racial Heritage
 Generic|Raging Brutality
 Generic|Raging Deathblow
 Generic|Raging Hurler
@@ -640,11 +631,10 @@ Generic|Raging Throw
 Generic|Raging Vitality 
 Generic|Rapid Grappler
 Generic|Rapid Reload
-Generic|Rapid Reload
-Generic|Rapid Shot 
-Generic|Ray Shield 
-Generic|Razortusk 
-Generic|Reach Spell 
+Generic|Rapid Shot
+Generic|Ray Shield
+Generic|Razortusk
+Generic|Reach Spell
 Generic|Rebounding Leap
 Generic|Rebuffing Reduction
 Generic|Relentless Butcher 
@@ -657,7 +647,6 @@ Generic|Revelation Strike
 Generic|Rhetorical Flourish
 Generic|Rhino Charge 
 Generic|Ricochet Shot Deed
-Generic|Ricochet Shot Deed 
 Generic|Ride-by Attack 
 Generic|Righteous Healing
 Generic|Rugged Northerner 
@@ -678,7 +667,6 @@ Generic|Sea Legs
 Generic|Second Chance 
 Generic|Secret Signs 
 Generic|Secret Stash Deed
-Generic|Secret Stash Deed 
 Generic|Seize the Moment
 Generic|Selective Channeling 
 Generic|Selective Spell 
@@ -716,14 +704,13 @@ Generic|Siege Commander
 Generic|Siege Engineer
 Generic|Siege Gunner
 Generic|Signature Deed
-Generic|Signature Deed 
 Generic|Silent as Stone 
 Generic|Silent Performer 
 Generic|Silent Spell 
-Generic|Simple Weapon Proficiency - All 
-Generic|Skill Focus: -Choose- 
+Generic|Simple Weapon Proficiency
+Generic|Skill Focus
 Generic|Skilled Driver
-Generic|Slayers Knack
+Generic|Slayer's Knack
 Generic|Sliding Axe Throw 
 Generic|Sling Flail
 Generic|Sluggish Jinx 
@@ -784,7 +771,7 @@ Generic|Stunning Critical
 Generic|Stunning Fist  
 Generic|Stunning Pin
 Generic|Suffocating Strangulation 
-Generic|Summoner's Call: 
+Generic|Summoner's Call
 Generic|Sundering Strike 
 Generic|Sure Grasp
 Generic|Survivor 
@@ -828,10 +815,9 @@ Generic|Touch of Serenity
 Generic|Touched by Sacred Fire 
 Generic|Toughness 
 Generic|Touvette Defender
-Generic|Tower Shield Proficiency 
-Generic|Tower Shield Proficiency 
-Generic|Trample 
-Generic|Trappers Setup
+Generic|Tower Shield Proficiency
+Generic|Trample
+Generic|Trapper's Setup
 Generic|Trick Riding 
 Generic|Tripping Strike 
 Generic|Turn Undead
@@ -839,10 +825,10 @@ Generic|Twin Thunders
 Generic|Twin Thunders Flurry
 Generic|Twin Thunders Master
 Generic|Two-Handed Thrower
-Generic|Two-weapon Defense 
+Generic|Two-Weapon Defense 
 Generic|Two-Weapon Feint
-Generic|Two-weapon Fighting 
-Generic|Two-weapon Rend 
+Generic|Two-Weapon Fighting 
+Generic|Two-Weapon Rend 
 Generic|Umbral Scion 
 Generic|Under and Over 
 Generic|Underfoot 
@@ -856,9 +842,8 @@ Generic|Vicious Stomp
 Generic|Vital Strike 
 Generic|Wand Dancer 
 Generic|War Singer 
-Generic|Warleaders Rage 
-Generic|Warren Digger 
-Generic|Warren Digger 
+Generic|Warleader's Rage 
+Generic|Warren Digger
 Generic|Wave Strike
 Generic|Weapon Finesse 
 Generic|Weapon Focus
