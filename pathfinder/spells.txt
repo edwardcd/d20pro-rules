@@ -346,7 +346,6 @@ Destruction
 Detect Aberration
 Detect Animals or Plants
 Detect Chaos
-Detect Chaos/Evil/Good/Law 
 Detect Charm
 Detect Evil
 Detect Good
