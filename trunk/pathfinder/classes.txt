@@ -849,7 +849,7 @@ Known18=9|5|5|4|4|4|3|3|2|1
 Known19=9|5|5|4|4|4|3|3|3|2
 Known20=9|5|5|4|4|4|3|3|3|3
 
-## CLASS: SORCERER, Empyreall bloodline, based on Wis
+## CLASS: SORCERER, Empyreal bloodline, based on Wis
 CreatureClass=Sorcerer, Wis
 AttackRate=.5
 GoodSaves=Will
