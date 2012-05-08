@@ -50,7 +50,6 @@ Ant Haul, Communal
 Anthropomorphic Animal
 Anticipate Peril
 Antilife Shell
-Antilife Shield
 Antimagic Field
 Antipathy
 Antiplant Shell
@@ -104,7 +103,6 @@ Beast Shape II
 Beast Shape III
 Beast Shape IV
 Beguiling Gift
-Besstow Grace of the Champion 
 Bestow Curse
 Bestow Grace
 Bestow Grace of the Champion
@@ -189,8 +187,6 @@ Cape of Wasps
 Cast Out
 Castigate
 Castigate, Mass
-Cat’s Grace
-Cat’s Grace, Mass
 Cat's Grace
 Cat's Grace, Mass
 Cause Fear
@@ -294,7 +290,6 @@ Curse of Magic Negation
 Curse Water
 Curse, Major
 Cursed Earth
-Cushining Bands
 Cushioning Bands
 Daemon Ward
 Damp Powder
@@ -401,7 +396,6 @@ Dominate Monster
 Dominate Person
 Doom
 Draconic Reservoir
-Dragon’s Breath
 Dragon's Breath
 Dread Bolt
 Dream
@@ -472,7 +466,6 @@ Fabricate Bullets
 Face of the Devourer
 Faerie Fire
 Fairness
-Fall
 Fallback Strategy
 False Life
 False Life, Greater
@@ -535,7 +528,6 @@ Forced Quiet
 Forced Repentance
 Forceful Hand
 Foresight
-Forest Fall
 Forest Friend
 Form of the Dragon I
 Form of the Dragon II
@@ -551,7 +543,7 @@ Frost Fall
 Frostbite
 Frozen Note
 Fumbletongue
-Fungle Infestation
+Fungal Infestation
 Gallant Inspiration
 Gaseous Form
 Gate
@@ -621,7 +613,6 @@ Heroic Invocation
 Heroism
 Heroism, Greater 
 Hero's Defiance
-Hero's Feast
 Hex Ward
 Hidden Knowledge
 Hidden Speech
@@ -667,7 +658,6 @@ Icy Prison, Mass
 Identify
 Ill Omen
 Illusion of Calm
-Illusonry Script
 Illusory Poison
 Illusory Script
 Illusory Wall
@@ -691,7 +681,6 @@ Inheritor's Smite
 Innocence
 Insanity
 Insect Plague
-Instanity
 Instant Armor
 Instant Enemy
 Instant Suffocation
@@ -737,8 +726,8 @@ Lash of the Astradaemon
 Lead Blades
 Leashed Shackles
 Legend Lore
-Lend Greater Judgment
 Lend Judgment
+Lend Judgment, Greater
 Levitate
 Liberating Command
 Life Bubble
@@ -842,7 +831,6 @@ Modify Memory
 Moment of Greatness
 Moment of Prescience
 Monstrous Extremities
-Monstrous Physic II
 Monstrous Physique I
 Monstrous Physique II
 Monstrous Physique III
@@ -919,8 +907,6 @@ Plague Carrier
 Plague Storm
 Planar Adaptation
 Planar Adaptation, Mass
-Planar Adaption
-Planar Adaption, Mass
 Planar Ally
 Planar Ally, Greater
 Planar Ally, Lesser
@@ -1019,7 +1005,6 @@ Rejuvenate Eidolon
 Rejuvenate Eidolon, Greater
 Rejuvenate Eidolon, Lesser
 Reloading Hands
-Reloading Hnads
 Remove Blindness/Deafness
 Remove Curse
 Remove Disease
@@ -1053,7 +1038,6 @@ Retribution
 Retrieve Item
 Returning Weapon
 Returning Weapon, Communal
-Reuplsion
 Reveal True Shape
 Revelation
 Reverse Gravity
@@ -1082,7 +1066,6 @@ Sands of Time
 Saving Finale
 Scare
 Scent Trail
-Scintillating Patter
 Scintillating Pattern
 Scorching Ray
 Scourge of the Horsemen
@@ -1253,7 +1236,6 @@ Summon Instrument
 Summon Meladaemon
 Summon Minor Ally
 Summon Minor Monster
-Summon Monster 
 Summon Monster I
 Summon Monster II
 Summon Monster III
@@ -1328,7 +1310,6 @@ Thorn Body
 Threefold Aspect
 Thunder Fire
 Thundering Drums
-Thunderous Drums 
 Time Stop
 Timely Inspiration
 Tiny Hut
@@ -1380,7 +1361,6 @@ Undead Anatomy I
 Undead Anatomy II
 Undead Anatomy III
 Undead Anatomy IV
-Undead to Death
 Undeath to Death
 Undeath Ward
 Undetectable Alignment
