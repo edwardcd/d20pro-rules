@@ -1,0 +1,372 @@
+Generic|A Few Maneuvers
+Generic|Accelerated Strike
+Generic|Acrobatic Ally 
+Generic|Acrobatic Dodge 
+Generic|Acrobatic Strike
+Generic|Adaptable Talent 
+Generic|Advantageous Attack
+Generic|Advantageous Cover
+Generic|Aiming Accuracy
+Generic|Angled Throw
+Generic|Anointed Hunter
+Generic|Armor Proficiency (Heavy)
+Generic|Armor Proficiency (Light)
+Generic|Armor Proficiency (Medium)
+Generic|Artillery Shot
+Generic|Assault
+Generic|Assured Attack
+Generic|Attack Combo (Fire and Strike)
+Generic|Attack Combo (Melee)
+Generic|Attack Combo (Ranged)
+Generic|Autofire Assault
+Generic|Autofire Sweep
+Generic|Bad Feeling
+Generic|Bantha Herder
+Generic|Bantha Rush
+Generic|Battering Attack
+Generic|Biotech Specialist
+Generic|Biotech Surgery
+Generic|Blaster Barrage
+Generic|Bone Crusher 
+Generic|Brilliant Defense 
+Generic|Brink of Death
+Generic|Burst Fire
+Generic|Burst of Speed
+Generic|Careful Shot
+Generic|Channel Rage 
+Generic|Charging Fire
+Generic|Cleave
+Generic|Close Combat Escape
+Generic|Collateral Damage
+Generic|Combat Reflexes
+Generic|Combat Trickery 
+Generic|Conditioning
+Generic|Controlled Rage
+Generic|Coordinated Attack
+Generic|Coordinated Barrage
+Generic|Cornered
+Generic|Critical Strike
+Generic|Crossfire
+Generic|Crush
+Generic|Cunning Attack
+Generic|Cut the Red Tape 
+Generic|Cybernetic Surgery
+Generic|Damage Conversion
+Generic|Deadeye
+Generic|Deadly Sniper
+Generic|Deceptive Drop
+Generic|Deft Charge
+Generic|Demoralizing Strike 
+Generic|Desperate Gambit
+Generic|Destructive Force
+Generic|Disabler
+Generic|Distracting Droid
+Generic|Disturbing Presence 
+Generic|Dive for Cover
+Generic|Dodge
+Generic|Double Attack
+Generic|Dreadful Countenance
+Generic|Dreadful Rage
+Generic|Droid Focus
+Generic|Droid Hunter
+Generic|Droid Shield Mastery
+Generic|Droidcraft
+Generic|Dual Weapon Mastery I
+Generic|Dual Weapon Mastery II
+Generic|Dual Weapon Mastery III
+Generic|Duck and Cover
+Generic|Echani Training
+Generic|Elder's Knowledge 
+Generic|Erratic Target
+Generic|Exotic Weapon Proficiency
+Generic|Experienced Medic
+Generic|Expert Briber 
+Generic|Expert Droid Repair
+Generic|Extra Rage
+Generic|Extra Second Wind
+Generic|Far Shot
+Generic|Fast Surge
+Generic|Fatal Hit
+Generic|Feat of Strength
+Generic|Fight Through Pain
+Generic|Flash and Clear
+Generic|Fleche 
+Generic|Fleet-Footed
+Generic|Flood of Fire
+Generic|Flurry
+Generic|Focused Rage
+Generic|Follow Through
+Generic|Force Boon
+Generic|Force of Personality
+Generic|Force Readiness
+Generic|Force Regimen Mastery
+Generic|Force Sensitivity
+Generic|Force Training
+Generic|Forceful Blast
+Generic|Forceful Recovery 
+Generic|Fortifying Recovery
+Generic|Friends in Low Places
+Generic|Frightening Cleave 
+Generic|Galactic Alliance Military Training 
+Generic|Gearhead
+Generic|Grab Back 
+Generic|Grand Army of the Republic Training
+Generic|Grapple Resistance
+Generic|Grazing Shot 
+Generic|Great Cleave
+Generic|Gunnery Specialist
+Generic|Halt 
+Generic|Hasty Modification
+Generic|Heavy Hitter 
+Generic|Hidious Visage
+Generic|Hobbling Strike 
+Generic|Hold Together 
+Generic|Hyperblazer 
+Generic|Imperial Military Training
+Generic|Impersonate
+Generic|Impetuous Move
+Generic|Implant Training
+Generic|Improved Bantha Rush
+Generic|Improved Charge
+Generic|Improved Damage Threshold
+Generic|Improved Defenses
+Generic|Improved Disarm
+Generic|Improved Opportunistic Trickery
+Generic|Improved Rapid Strike
+Generic|Improved Sleight of Hand 
+Generic|Improvised Weapon Mastery 
+Generic|Impulsive Flight
+Generic|Increased Agility
+Generic|Informer
+Generic|Instinctive Attack 
+Generic|Instinctive Defense 
+Generic|Intimidator 
+Generic|Indomitable Personality 
+Generic|Ion Shielding
+Generic|Jedi Familiarity
+Generic|Knife Trick
+Generic|Knock Heads
+Generic|Leader of Droids
+Generic|Lightning Draw
+Generic|Linguist
+Generic|Logic Upgrade: Self-Defense
+Generic|Logic Upgrade: Skill Swap
+Generic|Logic Upgrade: Tactician
+Generic|Long Haft Strike
+Generic|Mandalorian Training
+Generic|Maniacal Charge 
+Generic|Martial Arts I
+Generic|Martial Arts II
+Generic|Martial Arts III
+Generic|Master of Disguise 
+Generic|Meat Shield 
+Generic|Mechanical Martial Arts
+Generic|Melee Defense
+Generic|Metamorph
+Generic|Mighty Swing
+Generic|Mighty Throw
+Generic|Mission Specialist (Acrobatics)
+Generic|Mission Specialist (Climb)
+Generic|Mission Specialist (Deception)
+Generic|Mission Specialist (Endurance)
+Generic|Mission Specialist (Gather Information)
+Generic|Mission Specialist (Initiative)
+Generic|Mission Specialist (Jump)
+Generic|Mission Specialist (Knowledge (Bureaucracy))
+Generic|Mission Specialist (Knowledge (Galactic Lore))
+Generic|Mission Specialist (Knowledge (Life Sciences))
+Generic|Mission Specialist (Knowledge (Physical Sciences))
+Generic|Mission Specialist (Knowledge (Social Sciences))
+Generic|Mission Specialist (Knowledge (Tactics))
+Generic|Mission Specialist (Knowledge (Technology))
+Generic|Mission Specialist (Mechanics)
+Generic|Mission Specialist (Perception)
+Generic|Mission Specialist (Persuasion)
+Generic|Mission Specialist (Pilot)
+Generic|Mission Specialist (Ride)
+Generic|Mission Specialist (Stealth)
+Generic|Mission Specialist (Survival)
+Generic|Mission Specialist (Swim)
+Generic|Mission Specialist (Treat Injury)
+Generic|Mission Specialist (Use Computer)
+Generic|Mission Specialist (Use the Force)
+Generic|Mobility
+Generic|Momentum Strike
+Generic|Mounted Combat 
+Generic|Mounted Defense
+Generic|Moving Target
+Generic|Multi-Grab
+Generic|Multi-Targeting
+Generic|Natural Leader
+Generic|Never Surrender
+Generic|Nikto Survival 
+Generic|Officer Candidacy Training
+Generic|Opportunistic Retreat
+Generic|Opportunistic Shooter
+Generic|Opportunistic Trickery 
+Generic|Overwhelming Attack
+Generic|Pall of the Dark Side
+Generic|Pin
+Generic|Pincer
+Generic|Pinpoint Accuracy
+Generic|Pistoleer
+Generic|Point Blank Shot
+Generic|Poison Resistance
+Generic|Power Attack
+Generic|Power Blast
+Generic|Powerful Charge
+Generic|Powerful Rage
+Generic|Precise Shot
+Generic|Predictive Defense
+Generic|Prime Shot
+Generic|Quick Draw
+Generic|Quick Skill
+Generic|Rancor Crush
+Generic|Resilient Strength
+Generic|Return Fire
+Generic|Returning Bug
+Generic|Rapid Reaction
+Generic|Rapid Shot
+Generic|Rapid Strike
+Generic|Rapport
+Generic|Rebel Military Training
+Generic|Recall
+Generic|Recovering Surge
+Generic|Recurring Success 
+Generic|Relentless Attack
+Generic|Republic Military Training
+Generic|Resolute Stance 
+Generic|Resurgance
+Generic|Riflemaster
+Generic|Risk Taker
+Generic|Running Attack
+Generic|Sadistic Strike 
+Generic|Savage Attack
+Generic|Scavenger
+Generic|Sensor Link
+Generic|Separatist Military Training
+Generic|Shake it Off
+Generic|Shield Surge
+Generic|Signature Device
+Generic|Silver Tongue 
+Generic|Sith Military Training
+Generic|Skill Challenge: Catastrophic Avoidance
+Generic|Skill Challenge: Last Resort
+Generic|Skill Challenge: Recovery
+Generic|Skill Focus (Acrobatics)
+Generic|Skill Focus (Climb)
+Generic|Skill Focus (Deception)
+Generic|Skill Focus (Endurance)
+Generic|Skill Focus (Gather Information)
+Generic|Skill Focus (Initiative)
+Generic|Skill Focus (Jump)
+Generic|Skill Focus (Knowledge: Bureaucracy)
+Generic|Skill Focus (Knowledge: Galactic Lore)
+Generic|Skill Focus (Knowledge: Life Sciences)
+Generic|Skill Focus (Knowledge: Physical Sciences)
+Generic|Skill Focus (Knowledge: Social Sciences)
+Generic|Skill Focus (Knowledge: Tactics)
+Generic|Skill Focus (Knowledge: Technology)
+Generic|Skill Focus (Mechanics)
+Generic|Skill Focus (Perception)
+Generic|Skill Focus (Persuasion)
+Generic|Skill Focus (Pilot)
+Generic|Skill Focus (Ride)
+Generic|Skill Focus (Stealth)
+Generic|Skill Focus (Survival)
+Generic|Skill Focus (Swim)
+Generic|Skill Focus (Treat Injury)
+Generic|Skill Focus (Use Computer)
+Generic|Skill Focus (Use the Force)
+Generic|Skill Training (Acrobatics)
+Generic|Skill Training (Climb)
+Generic|Skill Training (Deception)
+Generic|Skill Training (Endurance)
+Generic|Skill Training (Gather Information)
+Generic|Skill Training (Initiative)
+Generic|Skill Training (Jump)
+Generic|Skill Training (Knowledge: Bureaucracy)
+Generic|Skill Training (Knowledge: Galactic Lore)
+Generic|Skill Training (Knowledge: Life Sciences)
+Generic|Skill Training (Knowledge: Physical Sciences)
+Generic|Skill Training (Knowledge: Social Sciences)
+Generic|Skill Training (Knowledge: Tactics)
+Generic|Skill Training (Knowledge: Technology)
+Generic|Skill Training (Mechanics)
+Generic|Skill Training (Perception)
+Generic|Skill Training (Persuasion)
+Generic|Skill Training (Pilot)
+Generic|Skill Training (Ride)
+Generic|Skill Training (Stealth)
+Generic|Skill Training (Survival)
+Generic|Skill Training (Swim)
+Generic|Skill Training (Treat Injury)
+Generic|Skill Training (Use Computer)
+Generic|Skill Training (Use the Force)
+Generic|Slammer
+Generic|Slippery Maneuver
+Generic|Sport Hunter
+Generic|Spray Shot
+Generic|Sniper
+Generic|Sniper Shot
+Generic|Staggering Attack
+Generic|Staggering Attack (GAW)
+Generic|Stand Tall 
+Generic|Starship Designer
+Generic|Starship Tactics
+Generic|Stay Up
+Generic|Steadying Position
+Generic|Strafe
+Generic|Strong in the Force
+Generic|Superior Tech
+Generic|Suppression Fire
+Generic|Surgical Expertise
+Generic|Swarm
+Generic|Tactical Advantage
+Generic|Tactical Genius
+Generic|Targeted Area 
+Generic|Tech Specialist
+Generic|Throw
+Generic|Tool Frenzy
+Generic|Toughness
+Generic|Trample 
+Generic|Trench Warrior
+Generic|Trip
+Generic|Triple Attack
+Generic|Triple Critical
+Generic|Tumble Defense
+Generic|Turn and Burn
+Generic|Unassigned
+Generic|Unleashed
+Generic|Unstoppable Combatant
+Generic|Unstoppable Force
+Generic|Unswerving Resolve
+Generic|Unwavering Resolve
+Generic|Vechicle Systems Expertise
+Generic|Vehicular Combat
+Generic|Vehicular Surge
+Generic|Vitality Surge
+Generic|Wary Defender
+Generic|Weapon Finesse
+Generic|Weapon Focus (Advanced Melee)
+Generic|Weapon Focus (Exotic)
+Generic|Weapon Focus (Heavy)
+Generic|Weapon Focus (Lightsabers)
+Generic|Weapon Focus (Pistols)
+Generic|Weapon Focus (Rifles)
+Generic|Weapon Focus (Simple)
+Generic|Weapon Focus (Slugthrowers)
+Generic|Weapon Proficiency (Advanced Melee)
+Generic|Weapon Proficiency (Exotic)
+Generic|Weapon Proficiency (Heavy)
+Generic|Weapon Proficiency (Lightsabers)
+Generic|Weapon Proficiency (Pistols)
+Generic|Weapon Proficiency (Rifles)
+Generic|Weapon Proficiency (Simple)
+Generic|Weapon Proficiency (Slugthrowers)
+Generic|Whirlwind Attack
+Generic|Wicked Strike
+Generic|Wilderness First Aid 
+Generic|Withdrawal Strike
+Generic|Wookiee Grip 
+Generic|Zero Range
