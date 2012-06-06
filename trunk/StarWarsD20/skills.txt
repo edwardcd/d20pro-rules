@@ -1,0 +1,25 @@
+Acrobatics|DEX|Action
+Climb|STR|Action
+Deception|CHA|Social
+Endurance|CON|Other
+Gather Information|CHA|Social
+Initiative|DEX|Other
+Jump|STR|Action
+Knowledge: Bureaucracy|INT|Knowledge
+Knowledge: Galactic Lore|INT|Knowledge
+Knowledge: Life Sciences|INT|Knowledge
+Knowledge: Physical Sciences|INT|Knowledge
+Knowledge: Social Sciences|INT|Knowledge
+Knowledge: Tactics|INT|Knowledge
+Knowledge: Technology|INT|Knowledge
+Mechanics|INT|Action
+Perception|WIS|Action
+Persuasion|CHA|Social
+Pilot|DEX|Action
+Ride|DEX|Action
+Stealth|DEX|Action
+Survival|WIS|Other
+Swim|STR|Action
+Treat Injury|WIS|Other
+Use Computer|INT|Action
+Use the Force|CHA|Action
