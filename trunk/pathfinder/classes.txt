@@ -1139,6 +1139,11 @@ CreatureClass=Pathfinder Chronicler
 AttackRate=1
 GoodSaves=Ref, Will
 
+## CLASS: DAIVRAT
+CreatureClass=Daivrat
+AttackRate=0
+GoodSaves=Will
+
 ## CLASS: ADEPT
 CreatureClass=Adept
 AttackRate=.5
