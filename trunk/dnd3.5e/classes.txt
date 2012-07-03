@@ -389,8 +389,8 @@ AttackRate=.75
 GoodSaves=Ref
 SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|INT
 #SPELLS AVAILABLE
-Spells1=Disguise Self|Detect Poison|Feather Fall|Ghost Sound|Jump|Obscuring Mist|sleep|True Strike
-Spells2=Alter Self|Cat’s Grace|Darkness|Fox’s Cunning|Illusory Script|Invisibility|Pass Without Trace|Spider Climb|Undetectable Alignment
+Spells1=Disguise Self|Detect Poison|Feather Fall|Ghost Sound|Jump|Obscuring Mist|Sleep|True Strike
+Spells2=Alter Self|Cat's Grace|Darkness|Fox's Cunning|Illusory Script|Invisibility|Pass Without Trace|Spider Climb|Undetectable Alignment
 Spells3=Deep Slumber|Seeper Darkness|False Life|Magic Circle against Good|Misdirection|Nondetection
 Spells4=Clairaudience/Clairvoyance|Dimension Door|Freedom of Movement|Glibness|Greater Invisibility|Locate Creature|Modify Memory|Poison
 #SPELLS PER DAY
@@ -423,7 +423,7 @@ GoodSaves=Fort
 SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Druid|WIS
 #SPELLS AVAILABLE
 Spells1=Cause Fear|Corrupt Weapon|Cure Light Wounds|Doom|Inflict Light Wounds|Magic Weapon|Summon Monster I
-Spells2=Bull’s Strength|Cure Moderate Wounds|Darkness|Death Knell|Eagle’s Splendor|Inflict Moderate Wounds|Shatter|Summon Monster II
+Spells2=Bull's Strength|Cure Moderate Wounds|Darkness|Death Knell|Eagle's Splendor|Inflict Moderate Wounds|Shatter|Summon Monster II
 Spells3=Contagion|Cure Serious Wounds|Deeper Darkness|Inflict Serious Wounds|Protection from Energy|Summon monster III
 Spells4=Cure Critical Wounds|Freedom of Movement|Inflict Critical Wounds|Poison|Summon Monster IV
 #SPELLS PER DAY
@@ -509,7 +509,7 @@ Spells1=Bless|Burning Hands|Cause Fear|Command|Comprehend Languages|Cure Light W
 Spells2=Aid|Animal Trance|Bear's Endurance|Bull's Strength|Cat's Grace|Cure Moderate Wounds|Darkness|Delay Poison|Invisibility|Mirror Image|Resist Energy|Scorching Ray|See Invisibility|Web
 Spells3=Animate Dead|Bestow Curse|Contagion|Continual Flame|Cure Serious Wounds|Daylight|Deeper Darkness|Lightning Bolt|Neutralize Poison|Remove Curse|Remove Disease|Tongues
 Spells4=Cure Critical Wounds|Minor Creation|Polymorph|Restoration|Stoneskin|Wall of Fire
-Spells5=Baleful polymorph|Break Enchantment|Commune|Heal|Major Creation|Raise Dead|True Seeing|Wall of Stone
+Spells5=Baleful Polymorph|Break Enchantment|Commune|Heal|Major Creation|Raise Dead|True Seeing|Wall of Stone
 #SPELLS PER DAY
 PerDay1=3|1
 PerDay2=3|1
@@ -641,45 +641,3 @@ GoodSaves=Will
 CreatureClass=Vermin
 AttackRate=.75
 GoodSaves=Fort
-
-## CLASS: WARMAGE
-
-CreatureClass=Warmage
-AttackRate=.5
-GoodSaves=Will
-SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|CHA
-#SPELLS AVAILABLE
-
-Spells0=Acid Splash|Disrupt Undead|Light|Ray of Frost
-Spells1=Accuracy|Burning Hands|Chill Touch|Fist of Stone|Hail of Stone|Magic Missile|Orb of Acid, Lesser|Orb of Cold, Lesser|Orb of Electricity, Lesser|Orb of Fire, Lesser|Orb of Sound, Lesser|Shocking Grasp|True Strike
-Spells2=Blades of Fire|Continual Flame|Fire Trap|Fireburst|Flaming Sphere|Ice Knife|Acid Arrow|Pyrtotechnics|Scorching Ray|Shatter|Whirling Blade
-Spells3=Fire Shield|Fireball|Flame Arrow|Gust of Wind|Ice Storm|Lightening Bolt|Poison|Ring of Blades|Sleet Storm|Stinking Cloud
-Spells4=Blast of Flame|Contagion|Black Tentacles|Orb of Acid|Orb of Cold|Orb of Electricity|Orb of Fire|Orb of Force|Orb of Sound|Phantasmal Killer|Shout|Wall of Fire
-Spells5=Arc of Lightening|Cloudkill|Cone of Cold|Fire Shield, Mass|Fireburst, Greater|Flame Strike|Prismatic Ray
-Spells6=Acid Fog|Blade Barrier|Chain Lightening|Circle of Death|Disintegrate|Fire Seeds|Freezing Sphere|Transformation
-Spells7=
-Delayed Blast Fireball|Earthquake|Finger of Death|Fire Storm|Mage's Sword|Prismatic Spray|Sunbeam|Waves of Exhaustion
-Spells8=Horrid Wilting|Incendiary Cloud|Polar Ray|Prismatic Wall|Scintillating Pattern|Shout, Greater|Sunburst
-Spells9=Elemental Swarm|Implosion|Meteor Swarm|Prismatic Sphere|Wail of the Banshee|Weird
-#SPELLS PER DAY
-PerDay1=5|3
-PerDay2=6|4
-PerDay3=6|5
-PerDay4=6|6|3
-PerDay5=6|6|4
-PerDay6=6|6|5|3
-PerDay7=6|6|6|4
-PerDay8=6|6|6|5|3
-PerDay9=6|6|6|6|4
-PerDay10=6|6|6|6|5|3
-PerDay11=6|6|6|6|6|4
-PerDay12=6|6|6|6|6|5|3
-PerDay13=6|6|6|6|6|6|4
-PerDay14=6|6|6|6|6|6|5|3
-PerDay15=6|6|6|6|6|6|6|4
-PerDay16=6|6|6|6|6|6|6|5|3
-
-PerDay17=6|6|6|6|6|6|6|6|4
-PerDay18=6|6|6|6|6|6|6|6|5|3
-PerDay19=6|6|6|6|6|6|6|6|6|4
-PerDay20=6|6|6|6|6|6|6|6|6|5
