@@ -943,7 +943,6 @@ Prismatic Sphere
 Prismatic Spray
 Prismatic Wall
 Produce Flame
-Proection from Good 
 Programmed Image
 Project Image
 Protection from Arrows
