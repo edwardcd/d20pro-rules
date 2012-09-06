@@ -33,6 +33,7 @@ Amplify Elixir
 Analyze Dweomer
 Ancestral Communion
 Ancestral Gift
+Ancestral Guardians
 Ancestral Memory
 Animal Aspect
 Animal Aspect, Greater
@@ -700,6 +701,7 @@ Invisibility Sphere
 Invisibility, Greater
 Invisibility, Mass
 Iron Body
+Iron Beard
 Ironwood
 Irresistible Dance
 Irrisen Mirror Sight
