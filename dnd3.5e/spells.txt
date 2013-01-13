@@ -1,434 +1,1851 @@
-Accuracy
-Acid Arrow
+Abolish Shadows
+Absorb Weapon
+Absorption
+Abyssal Army
+Accelerated Movement
+Acid Breath
+Acid Breath
 Acid Fog
+Acid Sheath
+Acid Sheath
 Acid Splash
-Affliction
+Acid Splash
+Acid Storm
+Acid Storm
+Acid Storm
+Adamantine Wings
+Aerial Summoning Dance
+Aganazzar's Scorcher
 Aid
+Aid
+Aid, Mass
+Aid, Mass
+Aiming at the Target
+Air Breathing
+Air Breathing
+Air Walk
 Air Walk
 Alarm
+Alarm, Greater
+Algid Enhancement
+Align Fang
+Align Fang, Mass
 Align Weapon
+Align Weapon
+Align Weapon, Mass
+Align Weapon, Mass
+Aligned Aura
+Allegro
+Allied Footsteps
+Alter Fortune
+Alter Fortune
 Alter Self
+Alter Self
+Amaneunsis
+Amanuensis
+Amanuensis
+Amorphous Form
+Amorphous Form
+Amplify
+Amplify
 Analyze Dweomer
+Analyze Dweomer
+Analyze Portal
+Analyze Portal
+Anarchic Storm
+Anarchic Storm
+Anarchic Water
+Anarchic Water
+Angelskin
+Anger of the Noonday Sun
+Anger of the Noonday Sun
 Animal Growth
 Animal Messenger
 Animal Shapes
 Animal Trance
 Animalistic Power
+Animalistic Power
+Animalistic Power, Mass
+Animate Breath
 Animate Dead
+Animate Dead
+Animate Dead
+Animate Dread Warrior
+Animate Fire
+Animate Objects
 Animate Objects
 Animate Plants
 Animate Rope
+Animate Snow
+Animate Water
+Animate Weapon
+Animate Wood
+Anticipate Teleportation
+Anticipate Teleportation, Greater
+Anticold Sphere
+Antidragon Aura
+Antidragon Aura
 Antilife Shell
+Antilife Shell
+Antimagic Aura
 Antimagic Field
+Antimagic Field
+Antimagic Ray
 Antipathy
 Antiplant Shell
+Anyspell
+Anyspell
+Anyspell, Greater
+Anyspell, Greater
+Appraising Touch
+Arboreal Transformation
 Arc of Lightning
 Arcane Eye
+Arcane Fusion
+Arcane Fusion, Greater
 Arcane Lock
 Arcane Mark
 Arcane Sight
 Arcane Sight, Greater
+Arcane Turmoil
 Armor of Darkness
+Armor of Darkness
+Arrow Mind
+Arrow of Bone
+Arrow Storm
+As the Frost
+Aspect of the Earth Hunter
+Aspect of the Icy Hunter
+Aspect of the Wolf
+Assay Resistance
+Assay Spell Resistance
+Assay Spell Resistance
+Astral Hospice
+Astral Hospice
 Astral Projection
 Atonement
+Atonement
+Attentive Alarm
+Attune Form
+Attune Form
+Augment Familiar
 Augury
+Augury
+Aura against Flame
+Aura Against Flame
+Aura Against Flame
+Aura of Cold, Lesser
+Aura of Evasion
+Aura of Evasion
+Aura of Glory
+Aura of Glory
+Aura of Terror
+Aura of Vitality
+Aura of Vitality
+Avascular Mass
+Avasculate
+Avoid Planar Effects
+Avoid Planar Effects
 Awaken
+Awaken Construct
+Awaken Sin
+Awaken Sin
+Awaken Undead
+Awaken, Mass
+Awaken, Mass
+Axiomatic Storm
+Axiomatic Storm
+Axiomatic Water
+Axiomatic Water
+Babau Slime
+Backbiter
+Backlash
+Backlash
+Balancing Lorecall
+Baleful Blink
 Baleful Polymorph
+Baleful Polymorph
+Baleful Transposition
+Ball Lightning
+Ball Lightning
+Ball Lightning
+Ball Lightning
+Balor Nimbus
+Balor Nimbus
+Bands of Steel
 Bane
+Bane
+Bane Bow
 Banishment
+Banishment
+Barghest's Feast
+Barghest's Feast
 Barkskin
+Barkskin
+Barrier of Deflection
+Battering Ram
+Battering Ram
+Battle Hymn
+Battlecry
+Battletide
+Battletide
+Battletide
+Bear's Endurance
 Bear's Endurance
 Bear's Endurance, Mass
+Bear's Endurance, Mass
+Beast Claws
+Beast Claws
+Beastland Ferocity
+Beget Bogun
+Beget Bogun
+Belker Claws
+Benediction
+Benign Transposition
 Bestow Curse
+Bestow Curse
+Bestow Curse, Greater
+Bestow Curse, Greater
+Bewildering Mischance
+Bewildering Substitution
+Bewildering Visions
 Bigby's Clenched Fist
 Bigby's Crushing Hand
+Bigby's Disrupting Hand
 Bigby's Forceful Hand
 Bigby's Grasping Hand
+Bigby's Helpful Hand
 Bigby's Interposing Hand
 Bigby's Striking Fist
 Bigby's Tripping Hand
+Bigby's Warding Hand
 Binding
-Black Tentacles
+Binding Snow
+Binding Winds
+Binding Winds
+Binding Winds
+Bite of the King
+Bite of the Werebear
+Bite of the Wereboar
+Bite of the Wererat
+Bite of the Weretiger
+Bite of the Werewolf
+Black Blade of Disaster
+Black Blade of Disaster
+Black Karma Curse
+Black Karma Curse
+Black Talon
+Blackfire
 Blacklight
+Blacklight
+Blackrot
+Blackstaff
 Blade Barrier
+Blade Barrier
+Blade Brothers
+Blade Brothers
+Blade of Blood
+Blade of Blood
+Blade of Pain and Fear
+Blade of Pain and Fear
+Blade Storm
+Blade Thirst
+Blade Thirst
+Bladebane
 Blades of Fire
+Bladeweave
 Blasphemy
 Blast of Flame
+Blast of Force
+Blast of Force
+Bleakness
+Bleed
+Bless
 Bless
 Bless Water
+Bless Water
 Bless Weapon
+Bless Weapon, Swift
+Blessed Aim
+Blessed Aim
+Blessed Aim
+Blessing of Bahamut
+Blessing of Bahamut
+Blessing of the Righteous
+Blessing of the Righteous
 Blight
+Blinding Breath
 Blinding Color Surge
+Blinding Spittle
+Blinding Spittle
+Blinding Spittle
 Blindness/Deafness
+Blindness/Deafness
+Blindsight
+Blindsight
+Blindsight
+Blindsight
+Blindsight
+Blindsight, Greater
+Blindsight, Greater
 Blink
+Blink, Greater
+Blink, Greater
+Blink, Improved
+Blistering Radiance
+Blistering Radiance
+Blood Creepers
+Blood Frenzy
+Blood Frenzy
+Blood Sirocco
+Blood Snow
+Blood to Water
+Blood Wind
+Blood Wind
+Bloodhound
+Bloodletting
+Bloodstar
 Blur
+bodak's Glare
+Body Blades
+Body Blades
+Body Blades
+Body Harmonic
+Body of the Sun
+Body of the Sun
+Body of War
+Body Ward
+Boiling Blood
+Bolster Aura
+Bolt of Glory
+Bolt of Glory
+Bolt of Glory
+Bolts of Bedevilment
+Bolts of Bedevilment
+Bombardment
+Bombardment
+Bombardment
+Bonefiddle
+Bones of the Earth
+Boreal Wind
+Bothersome Babble
+Bottle of Smoke
+Bottle of Smoke
+Brain Spider
+Brain Spider
+Brambles
+Brambles
+Brambles
+Branch to Branch
+Branch to Branch
 Break Enchantment
+Break Enchantment
+Breath Flare
+Breath of the Jungle
+Breath Weapon Admixture
+Breath Weapon Substitution
+Briar Web
+Briar Web
+Briartangle
+Bright Worms
+Brilliant Aura
+Brilliant Aura
+Brilliant Aura
+Brilliant Blade
+Bristle
+Brumal Stiffening
+Bull's Strength
 Bull's Strength
 Bull's Strength, Mass
-Bull's Strength
+Bull's Strength, Mass
+Buoyant Lifting
+Burning Blood
 Burning Hands
+Burning Hands
+Burning Rage
+Burning Sword
+Burrow
+Burrow
+Burrow
+Burrow, Mass
+Burrow, Mass
+Buzzing Bee
+Cacophic Shield
+Cacophonic Burst
+Cacophonic Shield
+Cacophonous Alarm
+Caligarde's Claw
+Call Kolyarut
+Call Lightning
 Call Lightning
 Call Lightning Storm
+Call Lightning Storm
+Call Marut
+Call of Stone
+Call Zelekhut
+Call Zelekhut
+Calm Animals
 Calm Animals
 Calm Emotions
+Calm Emotions
+Caltrops
+Camoflage
+Camoflage, Mass
+Camouflage
+Camouflage
+Camouflage
+Camouflage, Mass
+Capricious Zephyr
+Cast in Stone
+Cast in Stone
+Castigate
+Castigate
+Castigate
+Caterwaul
 Cat's Grace
 Cat's Grace, Mass
-Cat's Grace
+Catsfeet
 Cause Fear
-Celestial Armor
-Celestial Armor, Lesser
+Cause Fear
+Caustic Mire
+Caustic Smoke
+Celebration
+Celebration
+Celerity
+Celerity, Greater
+Celerity, Lesser
+Chain Dispel
 Chain Lightning
+Chain Lightning
+Chain Missile
+Chain of Eyes
+Chain of Eyes
+Chain of Eyes
 Changestaff
+Changestones
+Channeled Divine Health
+Channeled Divine Health
+Channeled Divine Shield
+Channeled Divine Shield
+Channeled Lifetheft
 Channeled Pyroburst
+Channeled Sound Blast
 Chaos Hammer
+Chaos Hammer
+Charge of the Triceratops
 Charm Animal
 Charm Monster
 Charm Monster, Mass
 Charm Person
+Chaser's Glowing OrbObedient Avalanche
+Chasing Perfection
+Chasing Perfection
+Cheat
+Checkmate's Light
+Checkmate's Light
 Chill Metal
+Chill of the Grave
 Chill Touch
+Chitinskin
+Choking Cobwebs
+Circle Dance
+Circle Dance
+Circle Dance
 Circle of Death
 Clairaudience/Clairvoyance
-Clenched Fist
+Clairaudience/Clairvoyance
+Clarity of Mind
+Clarity of Mind
+Claws of Darkness
+Claws of Darkness
+Claws of the Bear
+Claws of the Bear
+Claws of the Beast
+Clear Mind
+Climb Walls
+Climbing Tree
+Cloak of Bravery
+Cloak of Bravery
+Cloak of Bravery, Greater
 Cloak of Chaos
-Cloak of the Dark Power
+Cloak of Dark Power
+Cloak of Dark Power
+Cloak of the Sea
+Cloak Pool
 Clone
+Close Wounds
+Close Wounds
+Cloud Burst
+Cloud of Bewilderment
+Cloud of Bewilderment
+Cloud of Bewilderment
+Cloud of Knives
+Cloud of Knives
+Cloud Wings
+Cloudburst
+Cloudburst
 Cloudkill
+Cloudwalkers
+Cloud-Walkers
+Clutch of Orcus
+Clutch of Orcus
+Coat of Arms
+Cocoon
+Cocoon
+Cold Fire
+Cold Fire
+Cold Snap
+Cold Snap
 Color Spray
+Combined Talent
+Combust
+Combust
+Combust
+Cometfall
+Cometfall
+Cometfall
 Command
+Command
+Command Plants
 Command Plants
 Command Undead
 Command, Greater
+Command, Greater
 Commune
+Commune
+Commune with Earth
 Commune with Nature
 Comprehend Languages
+Comprehend Languages
+Comune with Nature
+Condemnation
+Condemnation
+Conduit of Life
 Cone of Cold
+Cone of Dimness
+Confound
+Confusion
 Confusion
 Confusion, Lesser
+Confusion, Lesser
+Conjure Ice Beast I
+Conjure Ice Beast II
+Conjure Ice Beast III
+Conjure Ice Beast IV
+Conjure Ice Beast V
 Consecrate
+Consecrate
+Consumptive Field
+Consumptive Field
+Consumptive Field, Greater
 Contact Other Plane
 Contagion
+Contagion
+Contagion, Mass
+Contagion, Mass
+Contagion, Mass
+Contagious Fog
+Contagious Fog
+Contagious Touch
+Contagious Touch
 Contingency
+Contingent Energy Resistance
+Contingent Energy Resistance
+Continual Flame
 Continual Flame
 Control Plants
+Control Snow and Ice
 Control Undead
+Control Water
 Control Water
 Control Weather
 Control Winds
-Corrupt Weapon
+Control Winds
+Conviction
+Conviction
+Conviction, Mass
+Conviction, Mass
+Corona of Cold
+Corona of Cold
+Corporeal Instability
+Corpse Candle
+Corrosive Grasp
+Corrosive Grasp
+Countermoon
+Crabwalk
+Crawling Darkness
+Crawling Darkness
+Crawling Darkness
+Creaking Cacophony
+Create Crossroads and Backroad
+Create Food And Water
 Create Food and Water
 Create Greater Undead
+Create Magic Tatoo
+Create Magic Tattoo
+Create Magic Tattoo
 Create Undead
 Create Water
+Create Water
+Creeping Cold
+Creeping Cold
+Creeping Cold, Greater
+Creeping Cold, Greater
 Creeping Doom
+Critical Strike
+Critical Strike
+Crown of Clarity
+Crown of Glory
+Crown of Glory
+Crown of Might
 Crown of Might
 Crown of Protection
+Crown of Protection
+Crown of Smiting
+Crown of Smiting
+Crown of the Grave
+Crown of the Grave
 Crown of Veils
+Crumble
+Crumble
+Crumble
 Crushing Despair
-Crushing Hand
+Crushing Grip
+Cryptwarden's Grasp
+Crystalline Memories
+Cure Critical Wounds
 Cure Critical Wounds
 Cure Critical Wounds, Mass
 Cure Light Wounds
+Cure Light Wounds
+Cure Light Wounds, Mass
 Cure Light Wounds, Mass
 Cure Minor Wounds
+Cure Minor Wounds
+Cure Moderate Wounds
 Cure Moderate Wounds
 Cure Moderate Wounds, Mass
 Cure Serious Wounds
+Cure Serious Wounds
 Cure Serious Wounds, Mass
+Curse of Arrow Attraction
+Curse of Arrow Attraction
+Curse of Ill Fortune
+Curse of Ill Fortune
+Curse of Ill Fortune
+Curse of Ill Fortune
+Curse of ill Fortune, Mass
+Curse of Ill Fortune, Mass
+Curse of Impending Blades
+Curse of Impending Blades, Mass
+Curse of Lycanthropy
+Curse of Lycanthropy
 Curse Water
+Curse Water
+Cursed Blade
+Cutting Hand
+Cutting Hand
+Cyclonic Blast
+Daggerspell Stance
+Dampen Magic
+Dance of the Unicorn
+Dance of the Unicorn
+Dancing Blade
 Dancing Lights
+Dark Way
+Dark way
+Dark Way
 Darkbolt
+Darkbolt
+Darkfire
+Darkfire
+Darkfire
+Darkfire
+Darkness
 Darkness
 Darkvision
+Darkvision, Mass
+Darkvision, Mass
+Darts of Life
+Dawn
+Dawnburst
+Daylight
 Daylight
 Daze
 Daze Monster
+Dead End
+Deadfall
+Deadly Lahar
+Deadly Sunstroke
+Deafening Blast
+Deafening Clang
+Deafening Clang
+Death Armor
+Death Armor
+Death Dragon
+Death Dragon
 Death Knell
+Death Knell
+Death Pact
+Death Pact
+Death Pact
+Death Throes
+Death Throes
 Death Ward
+Death Ward
+Death Ward, Mass
+Death's Call
+Deathsight
 Deathwatch
+Deathwatch
+Decastave
+Deceptive Facade
+Decomposition
+Decomposition
+Decoy Image
+Decoy Image
+Deep Breath
 Deep Slumber
 Deeper Darkness
+Deeper Darkness
+Deeper Darkvision
+Deeper Darkvision
+Defenestrating Sphere
+Defile Snow and Ice
 Deflect
 Deflect, Lesser
+Dehydrate
+Dehydrate
+Deific Bastion
+Deific Vengeance
+Deific Vengeance
+Deific Vengeance
+Delay Death
+Delay Death
+Delay Disease
+Delay Disease
+Delay Poison
 Delay Poison
 Delayed Blast Fireball
+Delusions of Grandeur
 Demand
+Demon Dirge
+Demon Dirge
+Demonhide
 Desecrate
+Desecrate
+Desiccating Bubble
 Destruction
 Detect Animals or Plants
 Detect Chaos
+Detect Chaos
+Detect Crossroads
+Detect Dragon
 Detect Evil
+Detect Evil
+Detect Favored Enemy
+Detect Favored Enemy
+Detect Fire
+Detect Good
 Detect Good
 Detect Law
+Detect Law
 Detect Magic
+Detect Magic
+Detect Metal and Minerals
+Detect Poison
 Detect Poison
 Detect Scrying
+Detect Scrying
+Detect Secret Doors
 Detect Secret Doors
 Detect Snares and Pits
 Detect Thoughts
+Detect Thoughts
 Detect Undead
+Detect Undead
+Detonate
+Devil Blight
+Devil Blightt
+Diamondsteel
 Dictum
 Dimension Door
+Dimension Door
+Dimension Door, Greater
+Dimension Door, Greater
+Dimension Hop
+Dimension Jumper
+Dimension Jumper, Greater
+Dimension Shuffle
+Dimension Step
+Dimensional Anchor
 Dimensional Anchor
 Dimensional Lock
+Dimensional Lock
 Diminish Plants
+Dinosaur Stampede
+Dire Hunger
+Dirge
+Dirge
+Dirge of Discord
+Discern Lies
 Discern Lies
 Discern Location
+Discern Shapechanger
+Discolor Pool
+Discordant Malediction
 Disguise Self
+Disguise Self
+Disguise Undead
+Disguise Undead
 Disintegrate
 Dismissal
+Dismissal
 Dispel Chaos
+Dispel Chaos
+Dispel Cold
 Dispel Evil
+Dispel Evil
+Dispel Fire
+Dispel Good
 Dispel Good
 Dispel Law
+Dispel Law
+Dispel Magic
 Dispel Magic
 Dispel Magic, Greater
+Dispel Ward
+Dispel Ward
+Dispelling Breath
+Dispelling Screen
+Dispelling Screen, Greater
 Dispelling Touch
 Displacement
+Displacer Form
+Disquietude
+Disquietude
 Disrupt Undead
+Disrupt Undead, Greater
 Disrupting Weapon
+Disrupting Weapon
+Dissonant Chant
+Dissonant Chord
+Distor Speech
+Distort Speech
+distract
+Distract Assailant
+Distracting Ray
 Divination
+Divination
+Divine Agility
+Divine Agility
+Divine Agility
 Divine Favor
+Divine Favor
+Divine Insight
+Divine Insight
+Divine Interdiction
+Divine Interdiction
 Divine Power
+Divine Power
+Divine Presence
+Divine Protection
+Divine Protection
+Divine Retaliation
+Divine Retaliation
+Divine Retribution
+Divine Sacrifice
+Divine Sacrifice
+Dolorous Blow
+Dominate Animal
 Dominate Animal
 Dominate Monster
 Dominate Person
 Doom
+Doom
 Doom Scarabs
+Doomtide
+Doomtide
+Doomtide
+Doomtide
+Door of Decay
+Doublspeak
+Downdraft
+Downdraft
+Draconic Might
+Dragon Ally
+Dragon Ally, Greater
+Dragon Ally, Lesser
+Dragon Breath
+Dragon Breath
+Dragon Breath
+Dragonbane
+Dragon's Blood
+Dragonshape
+Dragonsight
+Dragonskin
+Dragonwise
 Drawmij's Instant Summons
+Dread Blast
+Dreaded Form of the Eye Tyrant
 Dream
+Dream Casting
+Dream Feast
+Dream Sight
+Dream Sight
+Drifts of the Shalm
+Drown
+Drown
+Drown
+Drown, Mass
+Drown, Mass
+Duelward
+Dust to Dust
+Dweomer of Transference
+Eagle's Splendor
+Eagle's Splendor 
 Eagle's Splendor
 Eagle's Splendor, Mass
-Eagle's Splendor
+Earth Hammer
+Earth Lock
+Earth Reaver
+Earth Reaver
+Earthbind
+Earthen Grace
+Earthen Grasp
+Earthen Shield
+Earthfast
+Earthfast
 Earthquake
+Ease of Breath
+Easy Climb
+Easy Climb
+Easy Trail
+Easy Trail
+Ebon Eyes
+Ebon Eyes
+Echo Skull
+Echo Skull
+Ectoplasmic Armor
+Ectoplasmic Feedback
+Effulgent Epuration
+Effulgent Epuration
+Electric Jolt
+Electric Jolt
+Electric Loop
+Electric Loop
+Electric Vengeance
+Electric Vengeance, Greater
+Elemental Blade
+Elemental Body
+Elemental Eye
 Elemental Swarm
+Elminster's Effulgent Epuration
+Elminster's Evasion
+Embrace The Wild
+Emerald Flame Fist
+Endless Slumber
 Endure Elements
+Endure Elements
+Enduring Scrutiny
+Energized Shield
+Energized Shield
+Energized Shield, Lesser
+Energized Shield, Lesser
+Energy Absorption
+Energy Aegis
 Energy Aegis
 Energy Drain
+Energy Ebb
+Energy Immunity
+Energy Spheres
+Energy Spheres
 Energy Surge
+Energy Surge, Greater
+Energy Surge, Lesser
+Energy Transformation Field
+Energy Transformation Field
+Energy Vortex
+Energy Vortex
+Energy Vortex
+Energy Vulnerability
+Energy Vulnerability
+Enervating Breath
 Enervation
+Enhance Familiar
+Enhance Wild Shape
 Enlarge Person
+Enlarge Person
+Enlarge Person, Greater
 Enlarge Person, Mass
+Enrage Animal
 Entangle
+Entangle
+Entangling Staff
 Enthrall
+Enthrall
+Entice Gift
 Entropic Shield
+Entropic Shield
+Enveloping Cocoon
+Enveloping Cocoon
+Eradicate Earth
+Eradicate Earth
 Erase
+Erase
+Escalating Enfeeblement
+Essence of the Raptor
+Ethereal Breath
+ethereal Chamber
 Ethereal Jaunt
+Ethereal Mount
 Etherealness
 Etherealness, Swift
+Etherealness, Swift
 Evard's Black Tentacles
+Evard's Menacing Tentacles
+Evil Glare
+Exacting Shot
+Excavate
+Excavate
+Execration
 Expeditious Retreat
 Expeditious Retreat, Swift
+Explosive Cascade
+Explosive Cascade
+Explosive Rune Field
 Explosive Runes
+Extend Tentacles
+Extend Tentacles
+Extract Water Elemental
+Eye of Power
+Eye of Power
+Eye of the Hurricane
 Eyebite
+Eyes of the King
 Fabricate
 Faerie Fire
+Faith Healing
+Faith Healing
+Faith Healing
+False Gravity
+False Lie
 False Life
 False Vision
+False Vision
+Familiar Pocket
+Familiar Refuge
+Fangs of the Vampire King
+Fantastic Machine 
+Fantastic Machine
+Fantastic Machine, Greater
+Fantastic Machine, Greater
+Favor of Ilmater
+Favor of the Martyr
+Favor of the Martyr
+favorable Sacrifice
+Favorable Sacrifice
 Fear
+Fear
+Fearsome Grapple
 Feather Fall
 Feeblemind
-Fiendish Armor
-Fiendish Armor, Lesser
+Fell the Greatest Foe
+Fell the Greatest Foe
+Fever Dream
+Field of Ghouls
+Field of Icy Razors
+Field of Resistance
+Fiendform
+Fiendform
+Fiendform
+Fiendform
+Fierce Pride of the Beastlands
+Final Rebuke
+Final Rebuke
+Find Temple
+Find the Gap
 Find the Path
 Find Traps
+Find Traps
+Finger of Agony
 Finger of Death
+Fins to feet
+Fire and Brimstone
 Fire Seeds
 Fire Shield
+Fire Shield
+Fire Shield
 Fire Shield, Mass
+Fire Shuriken
+Fire Spiders
+Fire Spiders
 Fire Storm
+Fire Stride
+Fire Stride
 Fire Trap
+Fire Wings
+Fire Wings
 Fireball
+Firebrand
+Firebrand
 Fireburst
 Fireburst, Greater
+Fires of Purity
+Fires of Purity
+Fireward
+Fireward
 Fist of Stone
 Flame Arrow
 Flame Blade
+Flame Dagger
+Flame Dagger
+Flame of Faith
+Flame of Faith
+Flame of Faith
 Flame Strike
+Flame Strike
+Flame Whips
 Flaming Sphere
 Flare
-Flash of Light
+Flashburst
+Flashburst
+Flaying Tendrils
+Flensing
+Flensing
 Flesh to Stone
-Floating Disk
+Fleshshiver
+Fleshshiver
+Flight of the Dragon
+Floating Disk, Greater
+Fly
 Fly
 Fly, Mass
 Fly, Swift
+Focusing Chant
+Foebane
+Foe's Burning Blood
 Fog Cloud
+Fog Cloud
+Footsteps of the Divine
 Forbiddance
+Force Chest
+Force Claw
+Force Ladder
+Force Ladder
+Force Missiles
 Forcecage
-Forceful Hand
+Forceward
+Forceward
+Forceward
+Forcewave
+Forcewave
 Foresight
+Forestfold
+Forestfold
+Form of the Threefold Beast
+Fortify Cold Creatures
+Fortify Familiar
+Fortunate Fate
+Fortunate Fate
+Foundation of Stone
+Foundation of Stone
+Fox's Cunning
 Fox's Cunning
 Fox's Cunning, Mass
-Fox's Cunning
 Freedom
 Freedom of Movement
-Freezing Sphere
+Freedom of Movement
+Freeze
+Freeze Armor
+Freezing Fog
 Friend to Foe
+Frost Breath
+Frost Breath
+Frost Weapon
+Frostbite
+Frostburn
+Frostburn, Lesser
+Fugue
+Fuse Arms
+Fuse Arms
+Gaseous Form
 Gaseous Form
 Gate
+Gate Seal
 Geas, Lesser
 Geas/Quest
+Gedlee's Electric Loop
+G'elsewhere Chant
+G'Elsewhere chant
+Gembomb
+Gembomb
+Gemjump
+Gemjump
+General of Undeath
+General of Undeath
+General of Undeath
+Genious Loci
 Gentle Repose
+Gentle Repose
+Ghorus Toth's Magnetism
+Ghost Lantern
 Ghost Sound
+Ghost TOuch Armor
+Ghost Touch Armor
+Ghost Touch Weapon
+Ghost Touch Weapon
+Ghost Trap
+Ghostform
+Ghostharp
+Ghostharp
+Ghoul Gauntlet
+Ghoul Gesture
+Ghoul Glyph
+Ghoul Light
 Ghoul Touch
 Giant Vermin
+Giant Vermin
+Giant's Wrath
+Girallon's Blessing
+Girallon's Blessing
+Glacial Globe of Invulnerability
+Glass Strike
+Glass Strike
+Glibness
 Glibness
 Glitterdust
 Globe of Invulnerability
 Globe of Invulnerability, Lesser
+Glory of the Martyr
+Glory of the Martyr
+Glowing Orb
+Glowing Orb
+Glyph of Warding
 Glyph of Warding
 Glyph of Warding, Greater
+Golden Barding
+Golden Barding
+Golem Strike
 Good Hope
 Goodberry
-Grasping Hand
+Grace
+Grace
+Grave Strike
+Grave Strike
+Graymantle
 Grease
-Greater Invisibility
+Great Thunderclap
+Great Thunderclap
+Great Worm of the Earth
+Greenfire
+Grimwald's Graymantle
 Guards and Wards
 Guidance
+Guidance
+Guided Path
+Guided Shot
+Guiding Light 
+Guiding Light
 Gust of Wind
+Gust of Wind
+Gutsnake
+Gutsnake
 Hail of Stone
+Hail of Stone
+Hailstones
+Hallow
 Hallow
 Hallucinatory Terrain
 Halt
 Halt Undead
+Halt Undead
+Hamatula Barbs
+Hamatula Barbs
+Hand of Divinity
+Hand of Divinity
+Hand of Divinity
+Hand of the Faithful
+Hand of the Faithful
+Hand of the Faithful
+Handfang
+Handfang
+Handfire
+Handfire
+Hardening
+Hardening
 Harm
+Harmonic Chorus
+Harmony
 Haste
+Haste, Swift
+Haunting Tune
+Haunting tune
+Hawkeye
+Hawkeye
 Heal
+Heal Animal Companion
 Heal Mount
 Heal, Mass
-Healing Burst
+Healing Circle
+Healing Hand
+Healing Lorecall
+Healing Spirit
+Healing Spirit
+Healing Sting
+Healing Sting
+Healing Touch
+Healing Touch
+Healthful Rest
+Healthful Rest
+Heart of Air
+Heart of Earth
+Heart of Fire
+Heart of Stone
+Heart of Water
+Heart Ripper
+Heartfire
+Heat Drain
 Heat Metal
+Heat Metal
+Heatstroke
+Heavenly Host
+Hellish Horde
 Helping Hand
+Helping Hand
+Herald's Call
+Herald's Call
 Heroes' Feast
+Heroics
 Heroism
 Heroism, Greater
 Hesitate
-Hide from Animals
+Hesitate
+Hibernate
+Hidden Lodge
+Hide From Animals
+Hide From Dragons
+Hide From Undead
 Hide from Undead
-Hideous Laughter
+Hide the Path
+Hind Sight
+Hiss of Sleep
+Hold Animal
 Hold Animal
 Hold Monster
 Hold Monster, Mass
 Hold Person
+Hold Person
+Hold Person
 Hold Person, Mass
 Hold Portal
 Holy Aura
+Holy Mount
 Holy Smite
+Holy Smite
+Holy Spurs
+Holy Star
+Holy Star
+Holy Star
+Holy Storm
+Holy Storm
 Holy Sword
+Holy Transformation
+Holy Transformation, Lesser
+Holy Transformation, Lesser
 Holy Word
+Hood of the Cobra
+Horizikaul's Boom
+Horrible Taste
+Horrid Sickness
 Horrid Wilting
+Howling Chain
+Howling Chain
+Hungry Gizzard
+Hunter's Eye
+Hunter's Mercy
+Hunter's Mercy
+Hunters of Hades
+Hurl
+Hymn of Praise
 Hypnotic Pattern
 Hypnotism
+Hypothermia
+Hypothermia
+Ice Axe
+Ice Axe
+Ice Claw
+Ice Claw Prison
+Ice Dagger
+Ice Dagger
+Ice Flowers
+Ice Gauntlet
+Ice Gauntlet
 Ice Knife
+Ice Shape
+Ice Slick
 Ice Storm
+Ice Storm
+Icelance
+Icelance
 Identify
+Identify
+Illusory Feast
+Illusory Pit
+Illusory Script
 Illusory Script
 Illusory Wall
+Ilyykur's Mantle
+Imbue Familiar with Spell Ability
+Imbue With Spell Ability
 Imbue with Spell Ability
+Immediate Assistance
+Impede
+Imperious Glare
+Implacable Pursuer
+Implacable Pursuer
 Implosion
 Imprisonment
+Improvisation
 Incendiary Cloud
+Incendiary Slime
+Incendiary Surge
+Incite
+Incite
 Incite Riot
+Incorporeal Enhancement
+Incorporeal Nova
+Incorporeal Nova
+Increase Virulence
+Indomitability
+Inevitable Defeat
+Infernal Threnody
+Infernal Transformation
+Infernal Transformation, Lesser
+Infernal Transformation, Lesser
+Infernal Wound
+Infernal Wound
+Inferno
+Inferno
+Inferno
+Infestation of Maggots
+Infestation of Maggots
+Infestation of Maggots
+Inflict Critical Wounds
 Inflict Critical Wounds
 Inflict Critical Wounds, Mass
 Inflict Light Wounds
+Inflict Light Wounds
+Inflict Light Wounds, Mass
 Inflict Light Wounds, Mass
 Inflict Minor Wounds
+Inflict Minor Wounds
+Inflict Moderate Wounds
 Inflict Moderate Wounds
 Inflict Moderate Wounds, Mass
 Inflict Serious Wounds
+Inflict serious Wounds
 Inflict Serious Wounds, Mass
+Inhibit
+Inhibit
+Inky Cloud
+Inky Cloud
 Insanity
 Insect Plague
-Instant Summons
-Interposing Hand
+Insect Plague
+Insidious Rhythm
+Insight of Good Fortune
+Insight of Good Fortune
+Insightful Feint
+Inspirational Boost
+Inspirational Boost
+Instant Locksmith
+Instant Refuge
+Instant Search
+Interfaith Blessing
+Interminable Echo
+Interplanar Message
+Interplanar Message
+Interplanar Telepathic Bond
+Inveset Light Protection
+Invest Heavy Protection
+Invest Heavy Protection
+Invest Light Protection
+Invest Moderate Protection
+Invest Moderate Protection
 Invisibility
+Invisibility
+Invisibility Purge
 Invisibility Purge
 Invisibility Sphere
 Invisibility, Greater
 Invisibility, Mass
+Invisibility, Superior
 Invisibility, Swift
 Iron Body
+Iron Bones
+Iron Bones
+Iron Silence
+Iron Silence
+Ironguard
+Ironguard
+Ironguard, Lesser
+Ironguard, Lesser
+Ironguts
+Ironguts
+Ironguts
+Ironthunder Horn
+Ironthunder Horn
 Ironwood
+Jagged Tooth
+Jaws of the Wolf
+Jaws of the Wolf
+Jet of Steam
+Joyful Noise
 Jump
+Junglerazer
+Jungle's Rapture
+Karmic Aura
+Karmic Backlash
+Karmic Retribution
+Keen Edge
 Keen Edge
 Kelgore's Fire Bolt
+Kelgore's Grave Mist
+Kelpstrand
+Kiss of the Vampire
+Kiss of the Vampire
+Knights Move
+Knight's Move
 Knock
 Know Direction
+Know Greatest Enemy
+Know Greatest Enemy
+Know Opponent
+Know Opponent
+Know Protections
+Know Vulnerabilities
+Know Vulnerabilities
+Know Vulnerabilities
+Land Womb
+Land Womb
+Languor
+Languor
+Lash of Force
+Last Breath
+Last Breath
+Launch Bolt
+Launch Bolt
+Launch Item
+Launch Item
+Lawful Sword
+Lawful Sword
+Lawful Sword
+Lay of the Land
 Legend Lore
+Legion of Sentinels
 Leomund's Secret Chest
 Leomund's Secure Shelter
 Leomund's Tiny Hut
 Leomund's Trap
 Levitate
+Life Bolt
+Life Bolt
+Life Ward
+Life Ward
+Life's Grace
+Life's Grace
+Lifesight
 Light
+Light
+Light of Faith
+Light of Lunia
+Light of Lunia
+Light of Mercuria
+Light of Mercuria
+Light of Purity
+Light of Venya
+Light of Venya
+Light of Wisdom
+Lightfoot
 Lightning Bolt
+Lightning Leap
+Lightning Ring
+Lightning Ring
 Limited Wish
+Lingering Chorus
+Lingering Flames
+Linked Perception
+Lionheart
+Lion's Charge
+Lion's Roar
+Listening Coin
+Listening Lorecall
+Lively Step
+Lively Step
 Liveoak
+Living Prints
+Living Prints
+Living Undeath
+Living Undeath
 Locate Creature
+Locate Node
+Locate Object
+Locate Object
 Locate Object
 Longstrider
+Longstrider
+Longstrider, Mass
+Lore of the Gods
+Love's Lamennt
+Low-Light Vision
+Low-Light Vision
+Low-Light Vision
+Loyal Vassal
+Loyal Vassal
+Lucent Lance
 Lullaby
+Luminous Assassin
+Luminous Assassin, Greater
+Luminous Swarm
+Luminouse Assassin, Lesser
+Luminousu Gaze
+Mace of Odo
+Mace of Odo
+Maddening Scream
+Maddening Scream
+Maddening Whispers
+Maelstrom
+Maelstrom
+Maelstrom
 Mage Armor
+Mage Armor, Greater
+Mage Armor, Greater
+Mage Armor, Mass
 Mage Hand
-Mage's Disjunction
-Mage's Faithful Hound
-Mage's Lucubration
-Mage's Magnificent Mansion
-Mage's Private Sanctum
-Mage's Sword
-Magic Aura
+Mage Hand, Greater
+Mage Hand, Greater
+Magic Circle against Chaos
 Magic Circle against Chaos
 Magic Circle against Evil
 Magic Circle against Good
+Magic Circle against Good
 Magic Circle against Law
+Magic Circle against Law
+Magic Convalescence
 Magic Fang
 Magic Fang, Greater
+Magic fang, Superior
 Magic Jar
+Magic Jar
+Magic Miasma
 Magic Missile
 Magic Mouth
+Magic Savant
+Magic Stone
 Magic Stone
 Magic Vestment
+Magic Vestment
+Magic Weapon
 Magic Weapon
 Magic Weapon, Greater
+Magic Weapon, Greater
+Magice Convalescence
 Major Creation
 Major Image
+Make Manifest
+Make Manifest
+Make Manifest, Mass
 Make Whole
+Make Whole
+Malevolent Miasma
+Malevolent Miasma
+Mana Flux
+Mana Flux
+Mantle of Chaos
+Mantle of Chaos
+Mantle of Evil
+Mantle of Evil
+Mantle of Good
+Mantle of Good
+Mantle of Law
+Mantle of Law
+Mantle of the Icy Soul
+Mantle of the Icy Soul
+Manyjaws
+Manyjaws
+Mark of Doom
+Mark of Doom
+Mark of Judgement
+Mark of Judgment
 Mark of Justice
+Mark of Justice
+Mark of Sin
+Mark of the Hunter
+Mark of the Hunter
+Mark of the Outcast
+Mark of the Outcast
+Mark of the Outcast
+Marked Object
+Mask of the Ideal
+Mass Camouflage
+Mass Teleport
+Master Air
+Master Air
+Master Cavalier
+Master Earth
+Master Earth
+Master's Touch
+Master's Touch
+Master's Touch
+Maw of Chaos
+Maw of Chaos
+Maw of Stone
+Maw of Stone
 Maze
+Mechanus Mind
+Meld into Ice
+Meld Into Stone
 Meld into Stone
 Melf's Acid Arrow
+Melf's Slumber Arrows
+Melf's Unicorn Arrow
+Memory Rot
+Memory Rot
 Mending
+Mending
+Mesmerizing Glare
 Message
+Message
+Metal Melt
+Metal Melt
 Meteor Swarm
+Meteoric Strike
+Meteoric Strike
+Miasma
+Miasma
+Miasma of Entropy
 Mind Blank
 Mind Fog
+Mind Poison
+Mindless rage
+Mineralize Warrior
 Minor Creation
+Minor Creation
+Minor Disguise
+Minor Disguise
 Minor Image
 Miracle
 Mirage Arcana
 Mirror Image
 Mirror Image, Greater
 Misdirection
+Miser's Envy
 Mislead
-Mnemonic Enhancer
 Modify Memory
+Mold Touch
+Moment of Clarity
 Moment of Prescience
+Monstrous Regeneration
+Monstrous Thrall
+Monstrous Thrall
+Moon Blade
+Moon Blade
+Moon Bolt
+Moon Bolt
+Moon Lust
+Moon Lust
+Moon Path
+Moon Path
+Moonbeam
+Moonbeam
+Moonbow
+Moonfire
+Moonfire
+Moonweb
+Moral Facade
 Mordenkainen's Disjunction
 Mordenkainen's Faithful Hound
 Mordenkainen's Lucubration
 Mordenkainen's Magnificent Mansion
 Mordenkainen's Private Sanctum
 Mordenkainen's Sword
+Mordenkainen's Trusted Bloodhound
 Mount
+Mountain Stance
 Move Earth
+Murderous Mist
+Murderous Mist
+Murderous Mist
+Mysterious Redirection
+Mystic Aegis
+Mystic Aegis
+Mystic Lash
+Mystic Lash
+Mystic Lash
+Mystic Surge
+Mystra's Miasma
+Nature's Avatar
+Nature's Avatar
+Nature's Balance
+Nature's Balance
+Nature's Balance
+Nature's Favor
+Nature's Favor
+Nature's Rampart
+Naturewatch
+Naturewatch
+Naturewatch
+Nauseating Breath
+Nauseating Breath
+Near Horizon
+Necrotic Curse
+Negative Energy Aura
+Negative Energy Aura
+Nerveskitter
+Nerveskitter
+Net of Shadows
+Net of Shadows
+Neutralize Poison
 Neutralize Poison
 Nightmare
+Nightmare Lullaby
+Nightmare Lullaby
+Nightmare Terrain
+Night's Caress
+Nightshield
+Nightshield
+Nightstalker's Transformation
+Nimbus of Light
+Nimbus of Light
+Nimbus of Light
+Nixie's Grace
+Node Door
+Node Genesis
+Node Lock
 Nondetection
+Nondetection
+Nybor's Gentle Reminder
+Nybor's Mild Admonishment
+Nybor's Stern Reproof
 Nystul's Magic Aura
+Obedient Avalanche
+Obedient Avalanche
+Obscure Object
 Obscure Object
 Obscuring Mist
+Obscuring Mist
+Obscuring Snow
+Omen of Peril
+Omen of Peril
+Omen of Peril
+One Mind
+One Mind, Greater
+One Mind, Lesser
+One with the Land
+One With the Land
+Ooze Puppet
+Opalescent Glare
 Open/Close
 Orb of Acid
 Orb of Acid, Lesser
@@ -439,196 +1856,758 @@ Orb of Electricity, Lesser
 Orb of Fire
 Orb of Fire, Lesser
 Orb of Force
-Orb of Force, Lesser
+Orb of Force
 Orb of Sound
 Orb of Sound, Lesser
 Order's Wrath
+Order's Wrath
 Otiluke's Freezing Sphere
 Otiluke's Resilient Sphere
+Otiluke's Suppressing Field
 Otiluke's Telekinetic Sphere
+Otto's Imperative Ambulation
 Otto's Irresistible Dance
+Otyugh Swarm
+Otyugh Swarm
 Overland Flight
 Overwhelm
+Owl's Insight
+Owl's Insight
+Owl's Wisdom
 Owl's Wisdom
 Owl's Wisdom, Mass
+Pact of Martyrdom
+Painful echoes
+Pall of Twilight
+Panacea
+Panancea
+Pass through Ice
 Pass Without Trace
-Pass without Trace
 Passwall
+Pavilion of Grandeur
+Pavilion of Grandeur
+Perinarch
+Perinarch, Planar
 Permanency
 Permanent Image
+Persistent Blade
+Persistent Blade
 Persistent Image
+Phantasmal Assailants
+Phantasmal decoy
+Phantasmal Decoy
+Phantasmal Disorientation
+Phantasmal Disorientation
 Phantasmal Killer
+Phantasmal Strangler
+Phantasmal Thief
 Phantom Battle
+Phantom Bear
+Phantom Bear
+Phantom Foe
+Phantom Stag
+Phantom Stag
 Phantom Steed
+Phantom Threat
+Phantom Wolf
+Phantom Wolf
 Phase Door
+Plague
+Plague Carrier
+Plague of Rats
+Plague of Rats
+Plague of Rats
+Plague of Undead
 Planar Ally
 Planar Ally, Greater
+Planar Ally, Lesser
 Planar Ally, Lesser
 Planar Binding
 Planar Binding, Greater
 Planar Binding, Lesser
+Planar Bubble
+Planar Exchange
+Planar Exchange, Greater
+Planar Exchange, Lesser
+Planar Exchange, Lesser
+Planar Tolerance
+Planar Tolerance
 Plane Shift
+Plane Shift
+Plane Shift, Greater
+Plant Body
 Plant Growth
+Plant Growth 
 Poison
+Poison
+Poison Thorns
+Poison Thorns
+Poison Vines
+Poison Vines
+Poison Vines
 Polar Ray
 Polymorph
+Polymorph
 Polymorph Any Object
+Portal Alarm
+Portal Alarm, Improved
+Portal Barricade
+Portal Beacon
+Portal Beacon
+Portal Reformat
+Portal Stabilization
+Portal View
+Portal-to-Portal Redirect
+Positive Energy Aura
+Positive Energy Aura
+Possess Animal
 Power Word Blind
 Power Word Kill
 Power Word Stun
 Prayer
+Prayer
+Presper's Moonbow
 Prestidigitation
+Prickling Torment
+Primal Form
+Prismatic Aura
+Prismatic Bow
+Prismatic Deluge
+Prismatic Eye
+Prismatic Eye
+Prismatic Eye
+Prismatic Mist
 Prismatic Ray
 Prismatic Sphere
 Prismatic Spray
 Prismatic Wall
+Probe Thoughts
+Probe Thoughts
 Produce Flame
+Produce Flame
+Profane Item
+Programmed Amnesia
 Programmed Image
 Project Image
 Protection from Arrows
 Protection from Chaos
+Protection from Chaos
+Protection from Energy
 Protection from Energy
 Protection from Evil
+Protection from Evil
+Protection from Good
 Protection from Good
 Protection from Law
+Protection from Law
+Protection From Negative Energy
+Protection from Negative Energy
+Protection From Positive Energy
+Protection from Positive Energy
 Protection from Spells
+Protege
 Prying Eyes
 Prying Eyes, Greater
+Psychic Turmoil
+Pulse of Hate
+Puppeteer
+Puppeteer
+Purify Food and Drink
 Purify Food and Drink
 Pyrotechnics
 Quench
+Quick March
+Quick March
+Quick Potion
+Quick Potion
+Quill Blast
+Quill Blast
+Quillfire
+Quillfire
+Radiance
+Radiance
+Radiant Assault
 Rage
+Rage
+Raging Flame
+Rain of Spines
+Rainbow Beam
+Rainbow Blast
 Rainbow Pattern
 Raise Dead
+Raise Dead
+Raise from the Deep
+Ram's Might
+Ram's Might
+Rapid Burrowing
+Rary's Arcane Conversion
+Rary's Mnemonic Enhancer
+Rary's Telepathic Bond
+Rary's Telepathic Bond
+Ray of Clumsiness
+Ray of Deanimation
+Ray of Deflection
+Ray of Dizziness
 Ray of Enfeeblement
+Ray of Entropy
 Ray of Exhaustion
+Ray of Flame
 Ray of Frost
+Ray of Ice
+Ray of Light
+Ray of Sickness
+Ray of Stupidity
+Ray of the Python
+Ray of Weakness
+Razorfangs
 Read Magic
+Read Magic
+Reality Maelstrom
+Reaving Aura
+Reaving Dispel
+Rebirth of Iron
+Rebuke
+Rebuke
+Rebuke
+Rebuke Breath
+Rebuke, Final
+Rebuke, Greater
+Rebuke, Greater
+Reciprocal Gyre
+Recitation
+Recitation
+Recitation
+Recitation
+Red Tide
 Reduce Animal
 Reduce Person
+Reduce Person, Greater
 Reduce Person, Mass
+Reflective Disguise
+Reflective Disguise
+Reflective Disguise, Mass
+Reflective Disguise, Mass
 Refuge
+Refusal
+Regal Procession
 Regenerate
 Regroup
 Reincarnate
+Rejection
+Rejuvenation Cocoon
+Rejuvenative Corpse
+Rejuvenative Corpse
+Rejvenation Cocoon
+Remove Blindness/Deafness
 Remove Blindness/Deafness
 Remove Curse
+Remove Curse
+Remove Disease
 Remove Disease
 Remove Fear
+Remove Fear
 Remove Paralysis
-Renew
+Remove Paralysis
+Remove Scent
+Renewal Pact
+Renewal Pact
+Renewed Vigor
+Repair Critical Damage
+Repair Light damage
+Repair Minor Damage
+Repair Moderate Damage
+Repair Serious Damage
 Repel Metal or Stone
 Repel Vermin
+Repel Vermin
 Repel Wood
+Repelling Shield
+Replicate Casting
+Replicate Casting
 Repulsion
-Resilient Sphere
+Resinous Tar
 Resist Energy
+Resist Energy
+Resist Energy
+Resist Energy, Mass
+Resist Energy, Mass
+Resist Planar Alignment
+Resist Planar Alignment
 Resistance
+Resistance
+Resistance, Greater
+Resistance, Greater
+Resistance, Superior
+Resonating Agony
+Resonating Bolt
+Resounding Thunder
+Restoration
 Restoration
 Restoration, Greater
 Restoration, Lesser
+Restoration, Lesser
+Restoration, Mass
+Resurgence
+Resurgence
+Resurgence
+Resurgence, Mass
+Resurgence, Mass
+Resurgence, Mass
 Resurrection
+Retributive Enervation
+Retributive Image
+Reveille
+reveille
+Revenance
+Revenance
+Revenance
+Revenance
+Reverse Arrows
+Reverse Arrows
 Reverse Gravity
+Revive Outsider
+Revive Undead
+Revivify
+Revivify
+Rhino's Rush
+Righteous Aura
+Righteous Burst
+Righteous Fury
+Righteous Fury
 Righteous Might
+Righteous Might
+Righteous Wrath
+Righteous Wrath of the Faithful
+Righteous Wrath of the Faithful
+Ring of Blades
 Ring of Blades
 Rope Trick
+Rosemantle
+Rosemantle
+Rotting Grasp
 Rouse
+Ruby Ray of Reversal
+Ruby Ray of Reversal
+Ruin Delver's Fortune
+Rushing Waters
+Rushing Waters
+Rust Ray
+Rusted Blade
 Rusting Grasp
+Sacred Haven
+Sacred Haven
+Sacred Item
+Safe Clearing
+Safe Clearing
+Safety
+Safety
+Saltray
 Sanctuary
+Sanctuary
+Sanctuary, Mass
+Sanctuary, Mass
+Sanctuary, Mass
+Sandblast
+Sandblast
+Sarcophagus of Stone
+Scale Weakening
 Scare
+Scattering Trap
+Scatterspray
+Scatterspray
+Scent
+Scent
+Scent
 Scintillating Pattern
+Scintillating Scales
+Scintillating Sphere
+Scintillating Sphere
+Scorch
 Scorching Ray
+Scourge
+Scourge
+Scramble Portal
 Screen
 Scrying
+Scrying 
 Scrying, Greater
 Sculpt Sound
+Seal Portal
 Searing Light
-Secret Chest
+Searing Light
+Second Wind
 Secret Page
-Secure Shelter
+Secret Page
 See Invisibility
+Seed of Life
+Seed of Undeath
+Seed of Undeath, Greater
+Seek Eternal Rest
+Seek Eternal Rest
 Seeking Ray
 Seeming
-Seeper Darkness
 Sending
+Sending
+Sense Heretic
+Sensory Deprivation 
 Sepia Snake Sigil
 Sequester
+Serene Visage
+Servant Horde
 Shades
-Shadow Bolt
-Shadow Bolt, Lesser
+Shadow Binding
+Shadow Cache
+Shadow Canopy
 Shadow Conjuration
 Shadow Conjuration, Greater
 Shadow Evocation
 Shadow Evocation, Greater
+Shadow Form
+Shadow Hand
+Shadow Hand
+Shadow Landscape
+Shadow Landscape
+Shadow Mask
+Shadow Mask
+Shadow Phase
+Shadow Radiance
+Shadow Spray
+Shadow Spray
 Shadow Walk
+Shadow Well
+Shadow Well
+Shadowblast
+Shadowblast
+Shadowfade
+Shadowy Grappler
 Shambler
+Shape Metal
+Shape of the Hellspawned Stalker
 Shapechange
+Shard Storm
+Share Animal's Mind
+Share Husk
+Share Husk
+Share Talents
+Share Talents
+Sharptooth
 Shatter
+Shatter
+Shatterfloor
+Shatterfloor
+Sheltered Vitality
+Sheltered Vitality
 Shield
 Shield of Faith
+Shield of Faith
+Shield of Faith, Mass
+Shield of Faith, Mass
+Shield of Lathander
+Shield of Lathander, Greater
 Shield of Law
+Shield of Warding
+Shield of Warding
 Shield Other
+Shield Other
+Shieldbearer
+Shifting Paths
 Shillelagh
+Shivering Touch, Lesser
+Shock and Awe
 Shocking Grasp
 Shout
 Shout, Greater
+Shout, Greater
 Shrink Item
+Shroud of Flame
+Shroud of Flames
+Shroud of Undeath
+Shroud of Undeath
+Shroud of Undeath
+Sign
+Sign
+Sign of Sealing
+Sign of Sealing, Greater
+Silence
 Silence
 Silent Image
+Silent Portal
+Silent Portal
+Silverbeard
+Silverbeard
+Simbul's Skeletal Deliquescence
+Simbul's Spell Matrix
+Simbul's Spell Sequencer
+Simbul's Spell Trigger
 Simulacrum
-Siphon Minor Wounds
+Sink
+Sink
+Sinsabur's Baleful Bolt
+Sirine's Grace
+Skeletal Guard
+Skeletal Guard
+Skull Eyes
+Skull of Secrets
+Skull of secrets
+Skull of Secrets
+Skull Watch
+Skull Watch
+Skull Watch
+Slapping Hand
+Slashing Darkness
+Slashing Darkness
 Slashing Dispel
+Slay Living
 Slay Living
 Sleep
 Sleet Storm
+Sleet Storm
+Slide
+Slide, Greater
+Slime Wave
+Slime Wave
 Slow
-Smite
+Slow Burn
+Smell of Fear
+Smell of Fear
+Smokey Confinement
+Snakebite
+Snakebite
+Snake's Swiftness
+Snake's Swiftness, Mass
 Snare
+Snilloc's Snowball Swarm
+Sniloc's Snowball
+Sniper's Eye
+Sniper's Shot
+Snowball Swarm
+Snowshoes
+Snowshoes
+Snowshoes, Mass
+Snowshoes, Mass
+Soften Earth And Stone
 Soften Earth and Stone
 Solid Fog
+Solipsism
 Song of Discord
+Songbird
+Songbird
+Sonic Blast
+Sonic Rumble
+Sonic Rumble
 Sonic Shield
+Sonic Snap
+Sonic Snap
+Sonic Weapon
+Sonic Whip
+Sonorous Hum
+Sonorous Hum
 Soul Bind
+Soul Scour
+Soul Ward
 Sound Burst
-Speak with Animals
+Sound Burst
+Sound Lance
+Sound Lance
+Spark of Life
+Spark of Life
+Spark Shield
+Spawn Screen
+Spawn Screen
+Speak to Allies
+Speak With Animals
+Speak With Dead
 Speak with Dead
-Speak with Plants
+Speak With Plants
 Spectral Hand
+Spectral Stag
+Spectral Stag
+Spectral Touch
+Spectral Weapon
+Speechlink
+Speechlink
+Speed Swim
+Spell Engine
+Spell Engine
+Spell Enhancer
+Spell Enhancer
+Spell Enhancer
+Spell Flower
+Spell Flower
+Spell Immunity
 Spell Immunity
 Spell Immunity, Greater
+Spell Immunity, Lesser
+Spell Immunity, Lesser
+Spell Matrix
+Spell Matrix
+Spell Matrix, Greater
+Spell Matrix, Greater
+Spell Matrix, Lesser
+Spell Matrix, Lesser
+Spell Phylactery
+Spell Phylactery
 Spell Resistance
+Spell Resistance
+Spell Resistance, Mass
+Spell Resistance, Mass
+Spell Resistance, Mass
+Spell Shield
+Spell Shield
 Spell Turning
+Spell Vulnerability
+Spell Vulnerability
+Spellcaster's Bane
+Spellmantle
+Spellmantle
 Spellstaff
+Sphere of Ultimate Destruction
+Sphere of Ultimate Destruction
 Spider Climb
 Spider Curse
+Spider Curse
+Spider Plague
+Spider Poison
+Spider Poison
+Spider Shapes
 Spider Shapes
 Spiderform
+Spiderform
+Spiderskin
+Spiderskin
 Spike Growth
 Spike Stones
-Spirit Steal
+Spike Stones
+Spikes
+Spikes
+Spikes
+Spirit Worm
+Spirit Worm
+Spiritjaws
+Spiritual Adviser
+Spiritual Chariot
+Spiritual Chariot
 Spiritual Weapon
+Spiritual Weapon
+Spiritwall
+Splinterbolt
+Spontaneous Search
+Spore Cloak
 Stabilize
+Stabilize
+Stalking Brand
+Stalking Brand
+Stalwart Pact
+Stalwart Pact
+Stalwart Pact
 Stand
+Standing Wave
+Standing Wave
+Starvation
 Statue
 Status
+Status
+Status
 Stay the Hand
+Stay the Hand
+Steal Summoning
+Steeldance
+Steeldance
+Stick
+Stick
+Sticky Fingers
+Sticky Saddle
+Stifle Spell
+Stifle Spell
+Sting ray
 Stinking Cloud
+Stolen Breath
+Stone Body
+Stone Body
+Stone Body
+Stone Bones
+Stone bones
+Stone Bones
+Stone Fist
+Stone Metamorphosis
+Stone Metamorphosis, Greater
 Stone Shape
+Stone Shape
+Stone Shape, Greater
+Stone Shape, Greater
+Stone Shape, Greater
+Stone Shatter
+Stone Shatter
+Stone Sphere
+Stone Sphere
+Stone Spiders
 Stone Spiders
 Stone Tell
+Stone Tentacles
 Stone to Flesh
+Stone Walk
+Stone Walk
+Stone Walk
+Stonehold
+Stonehold
 Stoneskin
+Stony Grasp
+Storm of Elemental Fury
+Storm of Elemental Fury
+Storm of Fire and Ice
+Storm of Needles
 Storm of Vengeance
+Storm Tower
+Storm Tower
+Storm Tower
+Stormrage
+Stormrage
+Stormrage
+Strategic Charge
+Strategic Charge
+Strength of Stone
+Strength of Stone
+Strength of the Beast
 Stretch Weapon
+Stretch Weapon
+Stun Ray
+Stunning Breath
+Stunning Breath, Greater
+Subdue Aura
+Submerge Ship
+Substitute Domain
+Subvert Planar Essence
+Subvert Planar Essence
+Subvert Planar Essence
+Sudden Stalagmite
 Suggestion
 Suggestion, Mass
+Sugre of Fortune
+Summon Babau Demon
+Summon Bearded Devil
+Summon Bearded Devil
+Summon Bralani Eladrin
+Summon Bralani Eladrin
+Summon Component
+Summon Elemental Mnolith
+Summon Elementite Swarm
+Summon Elysian Thrus
+Summon Golem
+Summon Greater Elemental
+Summon Holy Symbol
+Summon Hound Archon
+Summon Hound Archon
 Summon Instrument
 Summon Monster I
+Summon Monster I
 Summon Monster II
-Summon monster III
+Summon Monster II
+Summon Monster III
 Summon Monster III
 Summon Monster IV
+Summon Monster IV
 Summon Monster IX
+Summon Monster V
 Summon Monster V
 Summon Monster VI
 Summon Monster VII
@@ -637,96 +2616,408 @@ Summon Nature's Ally I
 Summon Nature's Ally II
 Summon Nature's Ally III
 Summon Nature's Ally IV
+Summon Nature's Ally IV
 Summon Nature's Ally IX
 Summon Nature's Ally V
 Summon Nature's Ally VI
 Summon Nature's Ally VII
 Summon Nature's Ally VIII
+Summon Slysian Thrush
 Summon Swarm
+Summon Undead I
+Summon Undead I
+Summon Undead I
+Summon Undead I
+Summon Undead II
+Summon Undead II
+Summon Undead II
+Summon Undead II
+Summon Undead III
+Summon Undead III
+Summon Undead III
+Summon Undead III
+Summon Undead IV
+Summon Undead IV
+Summon Undead IV
+Summon Undead IV
+Summon Undead V
+Summon Undead V
+Summon Undead V
+Summon Undead V
+Summon Weapon
 Sunbeam
 Sunburst
+Sunrise
+Superior Darkvision
+Suppress Breath Weapon
+Suppress Glyph
+Suppress Glyph
+Suppress Glyph
 Sure Strike
+Surefoot
+Surefoot
+Surefooted Stride
+Surefooted Stride, Mass
+Surelife
+Suspended Silence
+Suspended Silence
+Swamp Lung
+Swamp Stride
+Swim
+Swim, Mass
+Sword and Hammer
+Sword and Hammer, Greater
+Sword of Darkness
+Sword of Deception
 Symbol of Death
 Symbol of Fear
 Symbol of Insanity
 Symbol of Pain
+Symbol of Pain
 Symbol of Persuasion
 Symbol of Sleep
+Symbol of Sleep
+Symbol of Spell Loss
+Symbol of Spell Loss
 Symbol of Stunning
 Symbol of Weakness
 Sympathetic Vibration
 Sympathy
-Syphon Critical Wounds
-Syphon Critical Wounds, Mass
-Syphon Light Wounds
-Syphon Light Wounds, Mass
-Syphon Moderate Wounds
-Syphon Moderate Wounds, Mass
-Syphon Serious Wounds
-Syphon Serious Wounds, Mass
+Symphonic Nightmare
+Synostodweomer
+Synostodweomer
+Tactical Precision
+Tactical Teleportation
+Talons
+Targeting Ray
+Tasha's Hideous Laughter
 Tasha's Hideous Laughter
 Telekinesis
-Telekinetic Sphere
-Telepathic Bond
+Telepathic Aura
+Telepathic Bond, Lesser
+Telepathic Bond, Lesser
+Teleport
 Teleport
 Teleport Object
 Teleport, Greater
 Teleportation Circle
 Temporal Stasis
+Tenacious Dispelling
 Tenser's Floating Disk
 Tenser's Transformation
+Thin Air
+Thorn Spray
+Thornskin
+Thunder Field
+Thunderhead
+Thunderlance
+Thunderlance
+Thunderous Roar
+Tidal Surge
+Tidal Surge
+Tiger's Tooth
 Time Stop
-Tiny Hut
 Tongues
+Tongues
+Tongues
+Torrent of Tears
+Tortoise Shell
+Tortoise Shell
+Tortoise Shell
+Touch of Agony
 Touch of Fatigue
 Touch of Idiocy
+Touch of Madness
+Touch of Madness
+Touch of the Graveborn
+Touch of Vecna
+Touch of Weakness
+Touch of Years
+Towering Oak
+Towering Oak
+Towering Thunderhead
 Toxic Weapon
-Transformation
+Toxing Tongue
+Train Animal
+Traitor's Death
+Transcend Mortality
+Transcribe Symbol
+Transcribe Symbol
+Transcribe Symbol
+Transfix
+Translocation Trick
+Translocation Trick
 Transmute Metal to Wood
 Transmute Mud to Rock
+Transmute rock to Lava
 Transmute Rock to Mud
 Transport via Plants
-Trap
 Trap the Soul
+Traveler's Mount
+Traveler's Mount
+Traveling Dream
+Treasure Scent
+Tree Healing
 Tree Shape
 Tree Stride
+Tremor
+Tremor
+Tremorsense
+Tremorsense
+Triadspell
+Triadspell
+Triadspell
+Triple Mask
+Trollshape
+True Casting
+True Creation
+True Creation
+True Domination
+True Domination
 True Resurrection
 True Seeing
+True Seeing
 True Strike
+True Strike
+Tsunami
+Tunnel Swallow
+Tunnel Swallow
+Turn Anathema
+Unbinding
+Undead Bane Weapon
+Undead Bane Weapon
+Undead Bane Weapon
+Undead Bane Weapon
+Undead Lieutenant
+Undead Lieutenant
+Undead Torch
+Undead Torch
+Undeath after Death
+Undeath after Death
 Undeath to Death
+Undeath to Death
+Undeath's Eternal Foe
+Undeath's Eternal Foe
+Undeath's Eternal Foe
+Undermaster
+Undermaster
+Undersong
+Understand Device
+Understand Device
 Undetectable Alignment
+Undetectable Alignment
+Undetectable Alignment
+Undinbing
+Unhallow
 Unhallow
 Unholy Aura
 Unholy Blight
+Unholy Blight
+Unholy Storm
+Unholy Storm
+Unicorn Blood
+Unicorn Heart
+Unicorn Horn
+Unluck
 Unseen Servant
+Unseen Servant
+Unseen Strike
+Unyielding Form of Inevitable death
+Unyielding Roots
+Unyielding Roots
+Updraft
+Updraft
+Valiant Fury
 Vampiric Touch
+Vecna's Malevolent Whisper
 Veil
+Veil of Shadow
+Veil of Shadow
+Veil of Undeath
 Ventriloquism
-Vicious Feedback
+Verraketh's Shadow Crown
+Vertigo
+Vertigo Field
+Vigilant Slumber
+Vigor
+Vigor
+Vigor
+Vigor
+Vigor, Greater
+Vigor, Greater
+Vigor, Greater
+Vigor, Lesser
+Vigor, Lesser
+Vigor, Lesser
+Vigor, Mass Lesser
+Vigor, Mass Lesser
+Vigor, Mass Lesser
+Vigorous Circle
+Vigorous Circle
+Vile Death
+Vine Mine
+Vine Mine
+Vine Strike
+Vipergout
+Vipergout
+Vipergout
 Virtue
+Virtue
+Visage of the Deity
+Visage of the Deity
+Visage of the Deity, Greater
+Visage of the Deity, Greater
+Visage of the Deity, Lesser
+Visage of the Deity, Lesser
+Visage of the Deity, Lesser
+Viscid Glob
+Viscid Glob
 Vision
+Vision of Glory
+Vision of Glory
+Vision of Glory
+Visions of the Future
+Vital Strike
+Vitriolic Sphere
+Voice of the Dragon
+Vortex Teeth
+Vulnerability
+Vulnerability
+Wail of Doom
 Wail of the Banshee
+Wall of Chaos
+Wall of Chaos
+Wall of Chaos
+Wall of Dispel Magic
+Wall of Dispel Magic
+Wall of Dispell Magic
+Wall of Evil
+Wall of Evil
+Wall of Evil
+Wall of Fire
 Wall of Fire
 Wall of Force
+Wall of Gears
+Wall of Gloom
+Wall of Good
+Wall of Good
+Wall of Good
+Wall of Greater Dispel Magic
 Wall of Ice
 Wall of Iron
+Wall of Iron
+Wall of Law
+Wall of Law
+Wall of Light
+Wall of Light
+Wall of Limbs
+Wall of Moonlight
+Wall of Sand
+Wall of Sand
+Wall of Sand
+Wall of Smoke
+Wall of Stone
 Wall of Stone
 Wall of Thorns
+Wall of Thorns
+Wall of Water
+War Cry
+War Cry
+Warning
+Warning Shout
+Warning Shout
 Warp Wood
+Watchware
+Water Breathing
 Water Breathing
 Water Walk
+Water Walk
+Waterspout
+Waterspout
+Waterspout
+Wave of Grief
+Wave of Grief
+Wave of Grief
 Waves of Exhaustion
 Waves of Fatigue
+Weapon of energy
+Weapon of Energy
+Weapon of Impact
+Weapon of Impact
+Weapon of Impact
+Weapon of the Deity
+Weapon of the Deity
+Weapon of the Deity
+Weapon of the Deity
+Weapon Shift
+Weather Eye
+Weather Eye
 Web
+Weighed in the Balance
+Weighed in the Balance
 Weird
+Whelm
+Whelm, Mass
+Whelming Blast
 Whirling Blade
 Whirlwind
+Whirlwind, Greater
+Whirlwind, Greater
 Whispering Wind
+Wieldskill
+Wieldskill
+Wild Runner
+Wind at Back
+Wind at Back
+Wind Tunnel
+Wind Tunnel
 Wind Walk
 Wind Wall
+Wind Wall
+Wind Wall
+Wingbind
+Winged Mount
+Winged Mount
+Wings of Air
+Wings of Air, Greater
+Wings of the Sea
+Wings of the Sea
+Winter Chill
+Winter's Embrace
+Winter's Embrace
 Wish
+Witherh Limb
+Withering Palm
+Wood Rot
 Wood Shape
+Wood Wose
+Wood Wose
+Word of Balance
+Word of Balance
+Word of Binding
 Word of Chaos
 Word of Recall
+Wounding Whispers
+Wounding Whispers
+Wrack
+Wrack
+Wrack
+Wrack Earth
+Wracking Touch
+Wraithstrike
+Wrathful Castigation
+Wrathful Castigation
+Xorn Movement
+Zajimarn's Avalanche
+Zajimarn's Field of Icy Razors
+Zeal
+Zeal
+Zealot Pact
+Zealot Pact
+Zone of Respite
+Zone of Respite
+Zone of Revelation
+Zone of Revelation
 Zone of Silence
+Zone of Truth
 Zone of Truth
