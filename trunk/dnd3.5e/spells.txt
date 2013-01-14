@@ -1,3 +1,1034 @@
+ Abyssal Army
+ Accelerated Movement
+ Acid Breath
+ Acid Fog
+ Acid Sheath
+ Acid Splash
+ Acid Storm
+ Adamantine Wings
+ Aerial Alacrity
+ Aiming at the Target
+ Air Breathing
+ Alarm
+ Allied Footsteps
+ Alter Fortune
+ Alter Self
+ Amaneunsis
+ Amorphous Form
+ Analyze Dweomer
+ Analyze Portal
+ Animal Growth
+ Animalistic Power
+ Animate Breath
+ Animate Dead
+ Animate Rope
+ Anticipate Teleport
+ Anticold Sphere
+ Antidragon Aura
+ Antimagic Field
+ Antimagic Ray
+ Antipathy
+ Antiplant Shell
+ Appraising Touch
+ Arboreal Transformation
+ Arc of Lightning
+ Arcane Eye
+ Arcane Lock
+ Arcane Mark
+ Arcane Sight
+ Arcane Staff
+ Arcane Turmoil
+ Arctic Haze
+ Arrow Mind
+ Arrow of Bone
+ As the Frost
+ Aspect of the Icy Hunter
+ Assay Resistance
+ Assay Spell Resistance
+ Astral Projection
+ Attentive Alarm
+ Attune Form
+ Augment Familiar
+ Aura of Evasion
+ Aura of Terror
+ Avascular Mass
+ Avasculate
+ Avoid Planar Effects
+ Awaken (plants only)
+ Awaken Construct
+ Awaken the Mind
+ Awaken Undead
+ Babau Slime
+ Backbiter
+ Backlash
+ Balancing Lorecall
+ Baleful Blink
+ Baleful Polymorph
+ Baleful Transposition
+ Ball Lightning
+ Balor Nimbus
+ Bands of Steel
+ Banishment
+ Barghest's Feast
+ Barrier of Deflection
+ Battering Ram
+ Battle Hymn
+ Bear's Endurance
+ Belker Claws
+ Benign Transposition
+ Bestow Curse
+ Bestow Greater Curse
+ Bigby's Clenched Fist
+ Bigby's Crushing Hand
+ Bigby's Disrupting Hand
+ Bigby's Forceful Hand
+ Bigby's Grasping Hand
+ Bigby's Helpful Hand
+ Bigby's Interposing Hand
+ Bigby's Striking Fist
+ Bigby's Tripping Hand
+ Bigby's Warding Hand
+ Billum's Bifrost Bridge
+ Binding
+ Bite of the Werebear
+ Bite of the Wereboar
+ Bite of the Wererat
+ Bite of the Weretiger
+ Bite of the Werewolf
+ Black Blade of Disaster
+ Black Karma Curse
+ Blackfire
+ Blacklight
+ Blade of Blood
+ Blade of Pain and Fear
+ Blades of Fire
+ Bladeweave
+ Blast of Flame
+ Blast of Force
+ Bleakness
+ Blight
+ Blind
+ Blinding Breath
+ Blinding Color Surge
+ Blindness/Deafness
+ Blink
+ Blistering Radiance
+ Blood Money
+ Blood Snow
+ Blood Wind
+ Bloodstar
+ Blur
+ Body of the Sun
+ Body of War
+ Boiling Blood
+ Bone Chill
+ Bonefiddle
+ Boreal Wind
+ Bothersome Babble
+ Break Enchantment
+ Breath Flare
+ Breath Weapon Admixture
+ Breath Weapon Substitution
+ Bright Worms
+ Brilliant Aura
+ Brilliant Blade
+ Bristle
+ Brumal Stiffening
+ Bull's Strength
+ Burning Blood
+ Burning Hands
+ Burning Rage
+ Burning Sword
+ Buzzing Bee
+ Cacophonic Burst
+ Cacophonic Shield
+ Call Kolyarut
+ Call Marut
+ Call of Stone
+ Call Zelekhut
+ Caltrops
+ Capricious Zephyr
+ Cat's Grace
+ Cause Fear
+ Caustic Mire
+ Celerity
+ Chain Dispel
+ Chain Lightning
+ Chain Missile
+ Chain of Eyes
+ Channeled Pyroburst
+ Charm Monster
+ Charm Person
+ Chasing Perfection
+ Cheat
+ Chill Touch
+ Chitinskin
+ Circle Dance
+ Circle of Death
+ Clairaudience/Clairvoyance
+ Claws of Darkness
+ Cleaning
+ Cloak of the Sea
+ Cloak Pool
+ Clone
+ Cloud of Bewilderment
+ Cloud of Knives
+ Cloudkill
+ Codespeak
+ Color Spray
+ Column of Ice
+ Combust
+ Command Undead
+ Comprehend Languages
+ Condemnation
+ Cone of Cold
+ Cone of Dimness
+ Confusion
+ Consensus
+ Contact Other Plane
+ Contagion
+ Contagious Fog
+ Contingency
+ Contingent Energy Resistance
+ Continual Flame
+ Control Temperature
+ Control Undead
+ Control Water
+ Control Weather
+ Corporeal Instability
+ Corpse Candle
+ Corrosive Grasp
+ Covetous Aura
+ Crack Ice
+ Crackling Sphere
+ Create Greater Undead
+ Create Magic Tatoo
+ Create Undead
+ Critical Strike
+ Crown of Clarity
+ Crown of Might
+ Crown of Protection
+ Crown of the Grave
+ Crown of Veils
+ Crushing Despair
+ Crushing Grip
+ Cryptwarden's Grasp
+ Curse of Arrow Attraction
+ Curse of Impending Blades
+ Curse of the Magi
+ Cutting Hand
+ Cyclonic Blast
+ Daggerspell Stance
+ Dalamar's Lightning Lance
+ Dancing Blade
+ Dancing Lights
+ Dark Way
+ Darkness
+ Darkvision
+ Daylight
+ Daze
+ Daze Monster
+ Dead End
+ Death Armor
+ Death Throes
+ Death's Call
+ Deathwine
+ Deep Breath
+ Deep Freeze
+ Deep Slumber
+ Deeper Darkvision
+ Defenestrating Sphere
+ Deflect
+ Delayed Blast Fireball
+ Delusions of Grandeur
+ Demand
+ Demon Dirge
+ Dessicating Bubble
+ Detect Dragon
+ Detect Familiar
+ Detect Magic
+ Detect Poison
+ Detect Scrying
+ Detect Secret Doors
+ Detect Thoughts
+ Detect Undead
+ Detonate
+ Devil Blight
+ Diamond Spray
+ Diamondsteel
+ Dimension Door
+ Dimension Hop
+ Dimension Shuffle
+ Dimension Step
+ Dimensional Anchor
+ Dimensional Lock
+ Disarm
+ Discern Location
+ Discern Shapechanger
+ Discolor Pool
+ Disguise Self
+ Disguise Undead
+ Disintegrate
+ Disjoin
+ Dismissal
+ Dispel Magic
+ Dispel Ward
+ Dispelling Breath
+ Dispelling Screen
+ Dispelling Touch
+ Displace Memory
+ Displacement
+ Displacer Form
+ Disrupt Undead
+ Dissonant Chant
+ Distract
+ Distract Assailant
+ Distracting Ray
+ Dolorous Blow
+ Dominate Monster
+ Dominate Person
+ Doom Scarabs
+ Draconic Might
+ Dragon Ally
+ Dragon Breath
+ Dragonbane
+ Dragon's Blood
+ Dragonshape
+ Dragonsight
+ Dragonskin
+ Dragonwise
+ Drawmij's Instant Summons
+ Dream
+ Dream Casting
+ Drown
+ Duelward
+ Dweomer of Transference
+ Eagle's Splendor
+ Earth Glide
+ Earth Lock
+ Earth Reaver
+ Earthbind
+ Earthen Grace
+ Earthen Grasp
+ Earthen Shield
+ Ebon Eyes
+ Ectoplasmic Armor
+ Ectoplasmic Feedback
+ Efflugent Epuration
+ Electric Jolt
+ Electric Loop
+ Electric Vengeance
+ Electrical Storm
+ Elemental Blade
+ Elemental Body
+ Elemental Dart
+ Emerald Flame Fist
+ Endless Slumber
+ Endure Elements
+ Enduring Flight
+ Energy Aegis
+ Energy Drain
+ Energy Ebb
+ Energy Immunity
+ Energy Spheres
+ Energy Surge
+ Energy Transformation Field
+ Energy Vulnerability
+ Enervating Breath
+ Enervation
+ Enhance Familiar
+ Enlarge Person
+ Entangling Staff
+ Entice Gift
+ Entomb
+ Eradicate Earth
+ Erase
+ Ethereal Breath
+ Ethereal Chamber
+ Ethereal Jaunt
+ Ethereal Mount
+ Etherealness
+ Evard's Black Tentacles
+ Evard's Menacing Tentacles
+ Evil Glare
+ Excavate
+ Expeditious Retreat
+ Explosive Cascade
+ Explosive Rune Field
+ Explosive Runes
+ Extend Tentacles
+ Extract Water Elemental
+ Eye of Power
+ Eye of Stone
+ Eyebite
+ Fabricate
+ Face of the Devourer
+ Falling Feathers
+ False Gravity
+ False Life
+ False Vision
+ Familiar Pocket
+ Fear
+ Fearsome Grapple
+ Feather Fall
+ Feeblemind
+ Feign Life
+ Field of Icy Razors
+ Field of Resistance
+ Fiendform
+ Fierce Pride of the Beastlands
+ Fimbulwinter
+ Final
+ Finger of Death
+ Fins to Feet
+ Fire Shield
+ Fire Spiders
+ Fire Stride
+ Fire Trap
+ Fireball
+ Firebrand
+ Fireburst
+ Fires of Purity
+ Fist of Stone
+ Fistandantilus's Portal
+ Flame Arrow
+ Flame Dagger
+ Flame Whips
+ Flamewave
+ Flaming Sphere
+ Flare
+ Flashburst
+ Flensing
+ Flesh to Ice
+ Flesh to Stone
+ Fleshshiver
+ Flight of the Dragon
+ Float
+ Floating Disk
+ Fly
+ Fog Cloud
+ Force Chest
+ Force Claw
+ Force Ladder
+ Force Missiles
+ Forcecage
+ Forceward
+ Forcewave
+ Foresight
+ Fortify Familiar
+ Fox's Cunning
+ Freedom
+ Freezing Fog
+ Freezing Glance
+ Friend to Foe
+ Frost Breath
+ Frost Weapon
+ Frostfell
+ Fuse Arms
+ Gaseous Form
+ Gate
+ Geas
+ Geas/Quest
+ Gelid Blood
+ Gemjump
+ Gentle Repose
+ Ghost Sound
+ Ghost Touch Armor
+ Ghost Trap
+ Ghostform
+ Ghoul Gauntlet
+ Ghoul Glyph
+ Ghoul Touch
+ Giant's Guise
+ Giant's Wrath
+ Girallon's Blessing
+ Glacial Globe of Invulnerability
+ Glacial Ward
+ Glass Strike
+ Glaze Lock
+ Glitterdust
+ Globe of Invulnerability
+ Globular Hoard
+ Glowing Orb
+ Golem Strike
+ Graymantle
+ Grease
+ Great Thunderclap
+ Greater
+ Guards and Wards
+ Guided Shot
+ Guiding Light
+ Gust of Wind
+ Gutsnake
+ Hail of Stone
+ Hailstones
+ Hallucinatory Terrain
+ Halt
+ Halt Undead
+ Hamatula Barbs
+ Hardening
+ Hardening (SC)
+ Haste
+ Healing Touch
+ Heart of Stone
+ Heartfreeze
+ Heat Leech
+ Heavenly Host
+ Hellish Horde
+ Heroics
+ Heroism
+ Hesitate
+ Hidden Knowledge
+ Hidden Lodge
+ Hide from Dragons
+ Hindsight
+ Hiss of Sleep
+ Hold Monster
+ Hold Person
+ Hold Portal
+ Horrible Taste
+ Horrid Wilting
+ Howling Chain
+ Hurl
+ Hurricane Blast
+ Hypnotic Pattern
+ Hypnotism
+ Ice Assassin
+ Ice Castle
+ Ice Claw
+ Ice Dagger
+ Ice Darts
+ Ice Knife
+ Ice Rift
+ Ice Shape
+ Ice Shield
+ Ice Ship
+ Ice Storm
+ Ice to Flesh
+ Ice Web
+ Iceburg
+ Icelance
+ Icicle
+ Identify
+ Illusory Feast
+ Illusory Pit
+ Illusory Script
+ Illusory Wall
+ Imbue Familiar with Spell Ability
+ Impede Speech
+ Imperious Glare
+ Imprisonment
+ Improved
+ Incendiary Cloud
+ Incendiary Slime
+ Incite
+ Incite Riot
+ Incorporeal Enhancement
+ Incorporeal Nova
+ Increase Virulence
+ Indomitability
+ Inevitable Defeat
+ Infernal Wound
+ Inhibit
+ Inky Cloud
+ Insanity
+ Insight of Good Fortune
+ Insightful Feint
+ Instant Locksmith
+ Instant Refuge
+ Instant Search
+ Interplanar Telepathic Bond
+ Interplanetary
+ Invisibility
+ Invisibility Sphere
+ Iron Body
+ Iron Bones
+ Ironguard
+ Ironguts
+ Ironthunder Horn
+ Jump
+ Junglerazer
+ Keen Edge
+ Kelgore's Fire Bolt
+ Kelgore's Grave Mist
+ Kill
+ Kiss of Night's Guardian
+ Kiss of the Vampire
+ Knock
+ Know Vulnerabilities
+ Launch Bolt
+ Launch Item
+ Legend Lore
+ Legion of Sentinels
+ Leomund's Hidden Lodge
+ Leomund's Secret Chest
+ Leomund's Secure Shelter
+ Leomund's Tiny Hut
+ Leomund's Tiny Igloo
+ Leomund's Trap
+ Lesser
+ Levitate
+ Life Bolt
+ Life Transfer
+ Light
+ Light of Lunia
+ Light of Mercuria
+ Light of Venya
+ Lightning Bolt
+ Lightning Ring
+ Limited Wish
+ Lively Step
+ Locate Creature
+ Locate Object (PHB)
+ Lover's Vengeance
+ Low-light Vision
+ Lucent Lance
+ Luminous Assassin
+ Luminous Gaze
+ Maddening Scream
+ Maddening Whispers
+ Mage Armor
+ Mage Hand
+ Magic Circle against Chaos
+ Magic Circle against Evil
+ Magic Circle against Good
+ Magic Circle against Law
+ Magic Jar
+ Magic Miasma
+ Magic Missile
+ Magic Mouth
+ Magic Weapon
+ Magius's Light of Truth
+ Major Creation
+ Major Image
+ Make Manifest
+ Malevolent Miasma
+ Mana Flux
+ Manyjaws
+ Marked Object
+ Mass
+ Master's Touch
+ Maw of Chaos
+ Maze
+ Mechanus Mind
+ Melf's Acid Arrow
+ Melf's Unicorn Arrow
+ Mending
+ Mental Pinnacle
+ Mesmerizing Glare
+ Message
+ Metal Melt
+ Meteor Swarm
+ Miasma of Entropy
+ Mind Blank
+ Mind Fog
+ Mind Poison
+ Mindfrost
+ Mindless Rage
+ Mindspin
+ Minor Creation
+ Minor Image
+ Mirage Arcana
+ Mirror Image
+ Misdirection
+ Miser's Envy
+ Mislead
+ Moment of Prescience
+ Moonbow
+ Mordenkainen's Disjunction
+ Mordenkainen's Faithful Hound
+ Mordenkainen's Lucubration
+ Mordenkainen's Magnificent Mansion
+ Mordenkainen's Private Sanctum
+ Mordenkainen's Sword
+ Mount
+ Mountain Stance
+ Move Earth
+ Move Snow and Ice
+ Mystic Surge
+ Nauseating Breath
+ Nerveskitter
+ Net of Shadows
+ Nightmare
+ Night's Caress
+ Nightshield
+ Nightstalker's Transformation
+ Nondetection
+ Numbing Sphere
+ Nystul's Magic Aura
+ Obedient Avalanche
+ Obscure Object
+ Obscuring Mist
+ Obscuring Snow
+ Ooze Puppet
+ Opalescent Glare
+ Open/Close
+ Orb of Acid
+ Orb of Cold
+ Orb of Electricity
+ Orb of Fire
+ Orb of Force
+ Orb of Sound
+ Otiluke's Dispelling Screen
+ Otiluke's Freezing Sphere
+ Otiluke's Resilient Sphere
+ Otiluke's Suppressing Field
+ Otiluke's Telekinetic Sphere
+ Otto's Irresistible Dance
+ Overland Flight
+ Overwhelm
+ Owl's Wisdom
+ Palin's Pyre
+ Pall of Twilight
+ Passwall
+ Pattern Recognition
+ Perinarch
+ Permanency
+ Permanent Image
+ Persistent Blade
+ Persistent Image
+ Phantasmal Assailants
+ Phantasmal Killer
+ Phantasmal Thief
+ Phantom Battle
+ Phantom Foe
+ Phantom Steed
+ Phase Door
+ Plague
+ Plague of Undead
+ Planar
+ Planar Binding
+ Planar Bubble
+ Planar Tolerance
+ Plane Shift
+ Plant Growth
+ Polar Ray
+ Polymorph
+ Polymorph Any Object
+ Portal Alarm
+ Portal Beacon
+ Power Word
+ Prestidigitation
+ Primal Form
+ Prismatic Eye
+ Prismatic Mist
+ Prismatic Ray
+ Prismatic Sphere
+ Prismatic Spray
+ Prismatic Wall
+ Probe Thoughts
+ Programmed Amnesia
+ Programmed Image
+ Project Image
+ Protection from Arrows
+ Protection from Chaos
+ Protection from Energy
+ Protection from Evil
+ Protection from Good
+ Protection from Law
+ Protection from Spells
+ Prying Eyes
+ Psychic Turmoil
+ Pulse of Hate
+ Pyrotechnics
+ Quick Potion
+ Radiance
+ Radiant Assault
+ Radiant Dart
+ Rage
+ Raging Flame
+ Raiment of Command
+ Rainbow Beam
+ Rainbow Blast
+ Rainbow Pattern
+ Raise from the Deep
+ Raistlin's Wheel of Flame
+ Rary's Mnemonic Enhancer
+ Rary's Telepathic Bond
+ Ray Deflection
+ Ray of Clumsiness
+ Ray of Deanimation
+ Ray of Dizziness
+ Ray of Enfeeblement
+ Ray of Entropy
+ Ray of Exhaustion
+ Ray of Flame
+ Ray of Frost
+ Ray of Ice
+ Ray of Light
+ Ray of Sickness
+ Ray of Stupidity
+ Ray of the Python
+ Ray of Weakness
+ Razorfangs
+ Read Magic
+ Reality Maelstrom
+ Reaving Dispel
+ Rebuke
+ Rebuking Breath
+ Reciprocal Gyre
+ Recorporeal Incarnation
+ Reduce Person
+ Reflective Disguise
+ Refuge
+ Refusal
+ Regal Procession
+ Regroup
+ Remove Curse
+ Remove Scent
+ Repair Critical Damage
+ Repair Light Damage
+ Repair Minor Damage
+ Repair Moderate Damage
+ Repair Serious Damage
+ Replicate Casting
+ Repulsion
+ Resinous Tar
+ Resist Energy
+ Resist Planar Alignment
+ Resistance
+ Resonating Bolt
+ Returning Weapon
+ Reveal True Shape
+ Reverse Arrows
+ Reverse Death
+ Reverse Gravity
+ Revive Undead
+ Rope Trick
+ Rotting Grasp
+ Rouse
+ Rovagug's Fury
+ Ruby Ray of Reversal
+ Ruin Delver's Fortune
+ Rust Ray
+ Scale Weakening
+ Scare
+ Scattering Trap
+ Scatterspray
+ Scintillating Pattern
+ Scintillating Scales
+ Scintillating Sphere
+ Scorch
+ Scorching Ray
+ Scramble Portal
+ Screen
+ Scrying
+ Seal Portal
+ Secret Page
+ Secret Speech
+ See Invisibility
+ Seeking Ray
+ Seeming
+ Sending
+ Sensory Deprivation
+ Sepia Snake Sigil
+ Sequester
+ Serene Visage
+ Servant Horde
+ Shades
+ Shadow Binding
+ Shadow Cache
+ Shadow Conjuration
+ Shadow Evocation
+ Shadow Form
+ Shadow Hand
+ Shadow Mask
+ Shadow Phase
+ Shadow Radiance
+ Shadow Spray
+ Shadow Walk
+ Shadow Well
+ Shadowfade
+ Shadowy Grappler
+ Shape of the Beasts
+ Shapechange
+ Shard Storm
+ Share Sight
+ Share Talents
+ Sharptooth
+ Shatter
+ Shatterfloor
+ Shield
+ Shieldbearer
+ Shifting Paths
+ Shillelagh
+ Shivering Touch
+ Shock and Awe
+ Shocking Grasp
+ Shocking Spark
+ Shout
+ Shrink Item
+ Shroud from Sight
+ Shroud of Flame
+ Shroud of Undeath
+ Sign of Sealing
+ Sign of Wrath
+ Silent Image
+ Silent Portal
+ Simulacrum
+ Skeletal Guard
+ Skull Watch
+ Slapping Hand
+ Slashing Dispel
+ Sleep
+ Sleet Storm
+ Slide
+ Slow
+ Slow Burn
+ Snake's Swiftness
+ Sniper's Shot
+ Snowball Swarm
+ Snowdrift
+ Solid Fog
+ Solipsism
+ Song of Day's Clarity
+ Sonic Blast
+ Sonic Rumble
+ Sonic Shield
+ Sonic Snap
+ Sonic Weapon
+ Sonorous Hum
+ Soul Bind
+ Sound Lance
+ Spark Shield
+ Spawn Screen
+ Speak to Allies
+ Spectral Hand
+ Spectral Touch
+ Spectral Weapon
+ Spell Engine
+ Spell Enhancer
+ Spell Flower
+ Spell Matrix
+ Spell Turning
+ Spell Vulnerability
+ Sphere of Ultimate Destruction
+ Spider Climb
+ Spider Poison
+ Spiderskin
+ Spirit Walk
+ Spirit Worm
+ Spiritwall
+ Spontaneous Search
+ Stand
+ Statue
+ Stay the Hand
+ Steeldance
+ Stick
+ Stifle Spell
+ Sting Ray
+ Stinking Cloud
+ Stolen Breath
+ Stone Body
+ Stone Bones
+ Stone Guardian
+ Stone Shape
+ Stone Shards
+ Stone Sphere
+ Stone Tentacles
+ Stone to Flesh
+ Stoneskin
+ Stony Grasp
+ Storm Wall
+ Stretch Weapon
+ Stun
+ Stun Ray
+ Stunning Breath
+ Submerge Ship
+ Subvert Planar Essence
+ Suggestion
+ Summon Elemental Monolith
+ Summon Golem
+ Summon Monster I
+ Summon Monster II
+ Summon Monster III
+ Summon Monster IV
+ Summon Monster IX
+ Summon Monster V
+ Summon Monster VI
+ Summon Monster VII
+ Summon Monster VIII
+ Summon Swarm
+ Summon Undead I
+ Summon Undead II
+ Summon Undead III
+ Summon Undead IV
+ Summon Undead V
+ Sunburst
+ Superior
+ Superior Invisibility
+ Suppress Breath Weapon
+ Suppress Flame
+ Suppress Magic
+ Sure Strike
+ Surefooted Stride
+ Suspended Silence
+ Swift
+ Swim
+ Swipe
+ Sword of Darkness
+ Sword of Deception
+ Symbol of Death
+ Symbol of Fear
+ Symbol of Insanity
+ Symbol of Pain
+ Symbol of Persuasion
+ Symbol of Sleep
+ Symbol of Spell Loss
+ Symbol of Stunning
+ Symbol of Weakness
+ Sympathy
+ Symphonic Nightmare
+ Synostodweomer
+ Targeting Ray
+ Tasha's Hideous Laughter
+ Telekinesis
+ Telepathic Bond
+ Teleport
+ Teleport Object
+ Teleportation Circle
+ Temporal Stasis
+ Tenser's Floating Disk
+ Tenser's Transformation
+ Thin Air
+ Thunder Field
+ Thunderhead
+ Thunderlance
+ Time Stop
+ Timeheal
+ Timereaver
+ Tongues
+ Touch of Agony
+ Touch of Fatigue
+ Touch of Guiding Light
+ Touch of Idiocy
+ Touch of Vecna
+ Touch of Weakness
+ Toxic Weapon
+ Traitor's Death
+ Transcribe Symbol
+ Transfer Essence
+ Transfix
+ Translocation Trick
+ Transmute Mud to Rock
+ Transmute Rock to Lava
+ Transmute Rock to Mud
+ Trap the Soul
+ Travel the Paths of the Mind
+ Treasure Scent
+ Tree Stride
+ Tremorsense
+ Trollshape
+ True Seeing
+ True Strike
+ Truth Testing
+ Tunnel Swallow
+ Unbinding
+ Unconscious Agenda
+ Undead Lieutenant
+ Undead Torch
+ Undeath to Death
+ Undermaster
 Abolish Shadows
 Absorb Weapon
 Absorption
@@ -317,6 +1348,7 @@ Clarity of Mind
 Claws of Darkness
 Claws of the Bear
 Claws of the Beast
+Cleaning
 Clear Mind
 Climb Walls
 Climbing Tree
@@ -473,6 +1505,7 @@ Deceptive Facade
 Decomposition
 Decoy Image
 Deep Breath
+Deep Call
 Deep Slumber
 Deeper Darkness
 Deeper Darkvision
@@ -499,6 +1532,7 @@ Detect Chaos
 Detect Crossroads
 Detect Dragon
 Detect Evil
+Detect Familiar
 Detect Favored Enemy
 Detect Fire
 Detect Good
@@ -530,6 +1564,7 @@ Dinosaur Stampede
 Dire Hunger
 Dirge
 Dirge of Discord
+Disarm
 Discern Lies
 Discern Location
 Discern Shapechanger
@@ -555,6 +1590,7 @@ Dispelling Touch
 Displacement
 Displacer Form
 Disquietude
+Disquise Self
 Disrupt Undead
 Disrupt Undead, Greater
 Disrupting Weapon
@@ -710,8 +1746,8 @@ False Vision
 Familiar Pocket
 Familiar Refuge
 Fangs of the Vampire King
-Fantastic Machine 
 Fantastic Machine
+Fantastic Machine 
 Fantastic Machine, Greater
 Favor of Ilmater
 Favor of the Martyr
@@ -859,8 +1895,8 @@ Guards and Wards
 Guidance
 Guided Path
 Guided Shot
-Guiding Light 
 Guiding Light
+Guiding Light 
 Gust of Wind
 Gutsnake
 Hail of Stone
@@ -2085,73 +3121,3 @@ Zone of Respite
 Zone of Revelation
 Zone of Silence
 Zone of Truth
-Acid Splash
-Amaneunsis
-Arcane Mark
-Caltrops
-Cleaning
-Dancing Lights
-Daze
-Detect Magic
-Detect Poison
-Disrupt Undead
-Electric Jolt
-Flare
-Ghost Sound
-Launch Bolt
-Launch Item
-Light
-Mage Hand
-Mending
-Message
-Open/Close
-Prestidigitation
-Ray of Frost
-Read Magic
-Repair Minor Damage
-Resistance
-Silent Portal
-Sonic Snap
-Stick
-Touch of Fatigue
-Accelerated Movement
-Alarm
-Animate Rope
-Appraising Touch
-Arrow Mind
-Babau Slime
-Backbiter
-Benign Transposition
-Bigby's Tripping Hand
-Bigby's Helpful Hand
-Blade of Blood
-Blades of Fire
-Blood Wind
-Breath Flare
-Burning Hands
-Burning Rage
-Buzzing Bee
-Cause Fear
-Charm Person
-Cheat
-Chill Touch
-Color Spray
-Comprehend Languages
-Corrosive Grasp
-Critical Strike
-Cutting Hand
-Dead end
-Death's Call
-Deep Call
-Deep Breath
-Deflect, Lesser
-Detect Familiar
-Detect Secret Doors
-Detect Undead
-Disarm
-Disquise Self
-Dispel Ward
-Distract
-Distract Assailant
-Ebon Eyes
-Ectoplasmic Armor
