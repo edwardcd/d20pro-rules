@@ -2085,3 +2085,73 @@ Zone of Respite
 Zone of Revelation
 Zone of Silence
 Zone of Truth
+Acid Splash
+Amaneunsis
+Arcane Mark
+Caltrops
+Cleaning
+Dancing Lights
+Daze
+Detect Magic
+Detect Poison
+Disrupt Undead
+Electric Jolt
+Flare
+Ghost Sound
+Launch Bolt
+Launch Item
+Light
+Mage Hand
+Mending
+Message
+Open/Close
+Prestidigitation
+Ray of Frost
+Read Magic
+Repair Minor Damage
+Resistance
+Silent Portal
+Sonic Snap
+Stick
+Touch of Fatigue
+Accelerated Movement
+Alarm
+Animate Rope
+Appraising Touch
+Arrow Mind
+Babau Slime
+Backbiter
+Benign Transposition
+Bigby's Tripping Hand
+Bigby's Helpful Hand
+Blade of Blood
+Blades of Fire
+Blood Wind
+Breath Flare
+Burning Hands
+Burning Rage
+Buzzing Bee
+Cause Fear
+Charm Person
+Cheat
+Chill Touch
+Color Spray
+Comprehend Languages
+Corrosive Grasp
+Critical Strike
+Cutting Hand
+Dead end
+Death's Call
+Deep Call
+Deep Breath
+Deflect, Lesser
+Detect Familiar
+Detect Secret Doors
+Detect Undead
+Disarm
+Disquise Self
+Dispel Ward
+Distract
+Distract Assailant
+Ebon Eyes
+Ectoplasmic Armor
