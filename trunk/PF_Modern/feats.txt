@@ -31,25 +31,29 @@ Generic|Arcane Blast
 Generic|Arcane Jinxer
 Generic|Arcane School Spirit
 Generic|Arcane Shield
+Generic|Arcane Skills
 Generic|Arcane Strike
 Generic|Arcane Talent
 Generic|Arcane Vendetta
 Generic|Area Jinx
+Generic|Armor Proficiency (All)
 Generic|Armor Proficiency (Heavy)
 Generic|Armor Proficiency (Light)
 Generic|Armor Proficiency (Medium)
-Generic|Armor Proficiency (All)
 Generic|Aspect of the Beast (Claws of the Beast)
 Generic|Aspect of the Beast (Night Senses - Darkvision +30)
 Generic|Aspect of the Beast (Night Senses - Darkvision 30)
 Generic|Aspect of the Beast (Night Senses - Low-Light Vision)
 Generic|Aspect of the Beast (Predators Leap)
 Generic|Aspect of the Beast (Wild Instinct)
+Generic|Astrology
 Generic|Athletic
 Generic|Augment Summoning
+Generic|Avoidance
 Generic|Awesome Blow
 Generic|Babble-Peddler
 Generic|Back to Back
+Generic|Backhand Slash
 Generic|Bashing Finish
 Generic|Beliers Bite
 Generic|Betrayer
@@ -72,6 +76,8 @@ Generic|Boar Shred
 Generic|Boar Style
 Generic|Body Shield
 Generic|Bodyguard
+Generic|Bodyguard
+Generic|Bold Adventurer
 Generic|Bolster Jinx
 Generic|Bolstered Resilience
 Generic|Bonebreaker
@@ -80,21 +86,30 @@ Generic|Bouncing Spell
 Generic|Bounding Hammer
 Generic|Brain Eater
 Generic|Branded for Retribution
+Generic|Brawl
+Generic|Breadth of Experience
 Generic|Breadth of Experience
 Generic|Break Guard
 Generic|Brew Fleshcrafting Poison
 Generic|Brew Potion
+Generic|Bring It
+Generic|Bring it On
 Generic|Broken Wing Gambit
 Generic|Brutal Grappler
+Generic|Builder
 Generic|Bull Rush Strike
 Generic|Burn Rider
+Generic|Business Savvy
 Generic|Calm Disposition
 Generic|Careful Speaker
 Generic|Cartwheel Dodge
 Generic|Catch Off-Guard
 Generic|Caustic Slur
+Generic|Cautious
 Generic|Cavalry Formation
+Generic|Ceremonial Caster
 Generic|Chainbreaker
+Generic|Chainsaw Impale
 Generic|Channel Smite
 Generic|Channeled Revival
 Generic|Channeling Scourge
@@ -102,6 +117,9 @@ Generic|Charge Through
 Generic|Charging Hurler
 Generic|Childlike
 Generic|Chokehold
+Generic|Cirque des MoitiÃ© - Cirque Acrobate
+Generic|Cirque des MoitiÃ© - Cirque ContrÃ´leur
+Generic|Cirque des MoitiÃ© - Cirque Vedette
 Generic|City Born - Korvosa
 Generic|City Born - Magnimar
 Generic|City Born - Riddleport
@@ -116,12 +134,20 @@ Generic|Combat Casting
 Generic|Combat Expertise
 Generic|Combat Medic
 Generic|Combat Patrol
+Generic|Combat Patrol
 Generic|Combat Reflexes
 Generic|Combat Style Master
 Generic|Command Undead
 Generic|Companion Figurine
+Generic|Computer Backdoor
+Generic|Computer Charm
+Generic|Computer Code Monkey
+Generic|Computer False Trail
+Generic|Computer Stealth
 Generic|Conceal Scent
+Generic|Confident
 Generic|Contingent Chenneling
+Generic|Cool
 Generic|Cooperative Crafting
 Generic|Coordinated Charge
 Generic|Coordinated Defense
@@ -130,6 +156,7 @@ Generic|Cornugon Shield
 Generic|Cornugon Smash
 Generic|Cornugon Stun
 Generic|Cornugon Trip
+Generic|Correspondencism
 Generic|Corsair of Taldor
 Generic|Cosmopolitan
 Generic|Country Born
@@ -143,7 +170,10 @@ Generic|Craft Wondrous Item
 Generic|Crane Riposte
 Generic|Crane Style
 Generic|Crane Wing
+Generic|Creative
+Generic|Creature Bane Spell
 Generic|Crippling Critical
+Generic|Critical Brawl
 Generic|Critical Focus
 Generic|Critical Mastery
 Generic|Crossbow Mastery
@@ -164,7 +194,7 @@ Generic|Deadly Stroke
 Generic|Deafening Critical
 Generic|Death from Above
 Generic|Death or Glory
-Generic|Death’s Suitor
+Generic|Deathâ€™s Suitor
 Generic|Deathless Initiate
 Generic|Deathless Master
 Generic|Deathless Zealot
@@ -185,7 +215,7 @@ Generic|Derro Magister
 Generic|Dervish Dance
 Generic|Desert Dweller
 Generic|Desperate Battler
-Generic|Destroyer’s Blessing 
+Generic|Destroyerâ€™s Blessing 
 Generic|Destructive Dispel
 Generic|Devastating Strike
 Generic|Devils Foe 
@@ -214,6 +244,8 @@ Generic|Disruptive Spell
 Generic|Distance Thrower
 Generic|Distant Jinx 
 Generic|Distant Jinx 
+Generic|Divinationism
+Generic|Divinatory Caster
 Generic|Divine Deception 
 Generic|Diviners Delving 
 Generic|Djinni Spin
@@ -224,6 +256,7 @@ Generic|Domain Strike
 Generic|Dorn-Dergar Master 
 Generic|Double Bane
 Generic|Double Slice 
+Generic|Dowsing
 Generic|Draconic Defender 
 Generic|Draconic Discipline 
 Generic|Drag Down
@@ -232,6 +265,7 @@ Generic|Dragon Roar
 Generic|Dragon Style
 Generic|Dramatic Display
 Generic|Dreadful Carnage 
+Generic|Drive By Attack
 Generic|Duck and Cover 
 Generic|Eagle Eyes 
 Generic|Eagle Knight Candidate 
@@ -240,6 +274,7 @@ Generic|Earth Child Style
 Generic|Earth Child Topple
 Generic|Eclectic 
 Generic|Ectoplasmic Spell 
+Generic|Educated
 Generic|Effortless Trickery 
 Generic|Efreeti Stance
 Generic|Efreeti Style
@@ -251,6 +286,7 @@ Generic|Elemental Focus
 Generic|Elemental Spell 
 Generic|Elephant Stomp 
 Generic|Elusive Redirection
+Generic|Elusive Target
 Generic|Elven Accuracy 
 Generic|Empower Spell 
 Generic|Empower Spell-Like Ability
@@ -263,6 +299,7 @@ Generic|Equipment Trick - Kaava Musk
 Generic|Equipment Trick (heavy blade scabbard) 
 Generic|Equipment Trick (shield) 
 Generic|Escape Route
+Generic|Escapology
 Generic|Eschew Materials 
 Generic|Exhausting Critical 
 Generic|Exotic Weapon Proficiency 
@@ -287,8 +324,11 @@ Generic|Extra Rage
 Generic|Extra Rage Power 
 Generic|Extra Revelation 
 Generic|Extra Rogue Talent 
+Generic|Extra Rogue Talent
 Generic|Eye of the Arclord 
+Generic|Faction Bane Spell
 Generic|False Opening
+Generic|Fanning
 Generic|Far Shot 
 Generic|Fascination Jinx 
 Generic|Fast Crawl 
@@ -310,15 +350,19 @@ Generic|Final Embrace
 Generic|Final Embrace Horror
 Generic|Final Embrace Master
 Generic|Fire Gods Blessing 
+Generic|First Impression
 Generic|Flagbearer 
 Generic|Flame-Tested Survivor 
 Generic|Flanking Foil
 Generic|Fleet 
+Generic|Fleet Of Foot
 Generic|Flyby Attack 
+Generic|Focused
 Generic|Focused Discipline 
 Generic|Focused Shot
 Generic|Focused Spell 
 Generic|Following Step 
+Generic|Force Stop
 Generic|Forge Ring 
 Generic|Fortified Armor Training
 Generic|Fortune Teller 
@@ -330,10 +374,12 @@ Generic|Furys Fall
 Generic|Furys Snare 
 Generic|Galley Slave 
 Generic|Gang Up 
+Generic|Gearhead
 Generic|Gift of Sight 
 Generic|Gifted Mesmerist 
 Generic|Gnome Trickster 
 Generic|Go Unnoticed 
+Generic|Go Unnoticed
 Generic|Godless Healing 
 Generic|Godless Healing 
 Generic|Gore Fiend 
@@ -371,6 +417,7 @@ Generic|Greater Weapon Specialization
 Generic|Greater Whip Mastery
 Generic|Green Faith Acolyte 
 Generic|Groundling 
+Generic|Guide
 Generic|Guided Hand
 Generic|Gunsmithing
 Generic|Gunsmithing 
@@ -379,6 +426,7 @@ Generic|Hamatula Grasp
 Generic|Hamatula Strike 
 Generic|Hamatulatsu 
 Generic|Hammer the Gap
+Generic|Hardware
 Generic|Harmonic Sage
 Generic|Harmonic Spell 
 Generic|Harrowed 
@@ -391,26 +439,32 @@ Generic|Heightened Trap Sense
 Generic|Hellcat Pounce 
 Generic|Hellcat Stealth 
 Generic|Helpless Prisoner 
+Generic|Herbalism
 Generic|Hermean Blood 
-Generic|Heros Fortune 
-Generic|Heros Display
 Generic|Heroic Defiance  
 Generic|Heroic Recovery  
+Generic|Heros Display
+Generic|Heros Fortune 
 Generic|Hex Strike
 Generic|History of Scars 
 Generic|Horse Master
 Generic|Hover 
+Generic|Illusionary Caster
 Generic|Impact Critical Shot
 Generic|Impaling Charge 
 Generic|Impaling Critical
+Generic|Improved Avoidance
 Generic|Improved Back to Back
 Generic|Improved Blind-Fight 
+Generic|Improved Brawl
 Generic|Improved Bull Rush 
+Generic|Improved Burst Fire
 Generic|Improved Channel 
 Generic|Improved Charging Hurler
 Generic|Improved Cleaving Finish
 Generic|Improved Counterspell 
 Generic|Improved Critical 
+Generic|Improved Critical Brawl
 Generic|Improved Devastating Strike
 Generic|Improved Dirty Trick 
 Generic|Improved Disarm 
@@ -423,9 +477,11 @@ Generic|Improved Great Fortitude
 Generic|Improved Impaling Critical
 Generic|Improved Iron Will  
 Generic|Improved Ki Throw 
+Generic|Improved Knockout Punch
 Generic|Improved Lightning Reflexes  
 Generic|Improved Natural Armor 
 Generic|Improved Natural Attack 
+Generic|Improved Natural Healing
 Generic|Improved Overrun 
 Generic|Improved Precise Shot 
 Generic|Improved Rending Fury
@@ -445,8 +501,11 @@ Generic|Improved Two-weapon Fighting
 Generic|Improved Unarmed Strike 
 Generic|Improved Vital Strike 
 Generic|Improved Whip Mastery
+Generic|Improvised Implements
 Generic|Improvised Weapon Mastery 
+Generic|Improvised Weapons
 Generic|In Harms Way 
+Generic|In Harm's Way
 Generic|Indigestible 
 Generic|Indomitable Mount 
 Generic|Inscribe Rune 
@@ -456,8 +515,10 @@ Generic|Intensified Spell
 Generic|Intimidating Bane
 Generic|Intimidating Prowess 
 Generic|Invested Magic 
+Generic|Invocative Caster
 Generic|Invoke Primal Instinct 
 Generic|Iomedaean Sword Oath 
+Generic|Ipmroved Damage Threshold
 Generic|Iron Will 
 Generic|Ironguts 
 Generic|Ironhide 
@@ -482,6 +543,7 @@ Generic|Kirin Path
 Generic|Kirin Strike
 Generic|Kirin Style
 Generic|Knockout Artist
+Generic|Knockout Punch
 Generic|Lamashtus Mark
 Generic|Landing Roll
 Generic|Large Target 
@@ -525,8 +587,10 @@ Generic|Master Siege Engineer
 Generic|Masterful Display
 Generic|Maximize Spell 
 Generic|Maximized Spellstrike
+Generic|Medical Expert
 Generic|Medusas Wrath 
 Generic|Menacing Bane
+Generic|Mentalism
 Generic|Merciful Bane
 Generic|Merciful Spell 
 Generic|Minor Spell Expertise 
@@ -551,8 +615,10 @@ Generic|Mounted Shield
 Generic|Mounted Skirmisher 
 Generic|Multiattack 
 Generic|Multiweapon Fighting 
-Generic|Murderer’s Circle
+Generic|Murdererâ€™s Circle
+Generic|Mysticism
 Generic|Nameless Servitor 
+Generic|Natural Caster
 Generic|Natural Spell 
 Generic|Neckbreaker
 Generic|Necromantic Affinity 
@@ -564,6 +630,7 @@ Generic|Night Stalker
 Generic|Nightmare Fist
 Generic|Nightmare Striker
 Generic|Nightmare Weaver
+Generic|Nimble
 Generic|Nimble Moves 
 Generic|No Name
 Generic|Noble Scion of Lore 
@@ -572,14 +639,17 @@ Generic|Noble Scion of Peace
 Generic|Noble Scion of the Arts 
 Generic|Noble Scion of War 
 Generic|Noxious Bite
+Generic|Oathbound
 Generic|Old Cults Awakener 
 Generic|Ominous Mien 
+Generic|Online Casting
 Generic|Ooze Companion 
 Generic|Ooze Whisperer 
 Generic|Opening Volley
 Generic|Osiriontologist 
 Generic|Osyluth Guile
 Generic|Outflank 
+Generic|Over the Shoulder
 Generic|Pack Attack
 Generic|Paired Opportunists 
 Generic|Panther Claw
@@ -615,6 +685,7 @@ Generic|Practiced Tactician
 Generic|Precise Shot 
 Generic|Precise Strike 
 Generic|Preferred Spell 
+Generic|Prestidigitation
 Generic|Prone Shooter
 Generic|Prone Slinger
 Generic|Punishing Kick  
@@ -653,7 +724,11 @@ Generic|Rhetorical Flourish
 Generic|Rhino Charge 
 Generic|Ricochet Shot Deed
 Generic|Ride-by Attack 
+Generic|Rifle Spin
 Generic|Righteous Healing
+Generic|Ritualist
+Generic|Ritualist II
+Generic|Ritualist III
 Generic|Rugged Northerner 
 Generic|Run 
 Generic|Sable Company Marine 
@@ -668,6 +743,7 @@ Generic|Scholar
 Generic|School Strike
 Generic|Scorpion Style
 Generic|Scribe Scroll 
+Generic|Scribe Spell App
 Generic|Sea Legs
 Generic|Second Chance 
 Generic|Secret Signs 
@@ -679,6 +755,7 @@ Generic|Self-sufficient
 Generic|Serpent Lash 
 Generic|Shade of the Uskwood 
 Generic|Shadow Strike 
+Generic|Shadowbane Spell
 Generic|Shaitan Earthblast
 Generic|Shaitan Skin
 Generic|Shaitan Style
@@ -694,8 +771,8 @@ Generic|Shield Focus
 Generic|Shield Master 
 Generic|Shield of Swings 
 Generic|Shield Proficiency 
-Generic|Shield Proficiency Tower
 Generic|Shield Proficiency - All
+Generic|Shield Proficiency Tower
 Generic|Shield Slam 
 Generic|Shield Specialization 
 Generic|Shield Wall 
@@ -717,6 +794,7 @@ Generic|Silent Spell
 Generic|Simple Weapon Proficiency - All 
 Generic|Skill Focus: -Choose- 
 Generic|Skilled Driver
+Generic|Slapstick
 Generic|Slayers Knack
 Generic|Sliding Axe Throw 
 Generic|Sling Flail
@@ -770,27 +848,38 @@ Generic|Stone-Faced
 Generic|Storm-Lashed 
 Generic|Stormstruck Shambler 
 Generic|Strangler
+Generic|Street Magic
+Generic|Streetfighting
 Generic|Strength of the Diamond 
 Generic|Strike Back 
 Generic|Strong Comeback
+Generic|Stud
+Generic|Studious
 Generic|Stunning Assault
 Generic|Stunning Critical  
 Generic|Stunning Fist  
 Generic|Stunning Pin
+Generic|Suck on This
 Generic|Suffocating Strangulation 
 Generic|Summoner&apos;s Call: 
 Generic|Sundering Strike 
+Generic|Superior Avoidance
+Generic|Supernatural Strike
 Generic|Sure Grasp
+Generic|Surgery
 Generic|Survivor 
 Generic|Swap Places 
 Generic|Swarm Dodger 
 Generic|Swift Aid 
 Generic|Sword And Pistol
+Generic|Sympathetic Caster
 Generic|Sympathetic Rage 
 Generic|Taldan Conscript 
 Generic|Taldan Duelist 
 Generic|Taldan Knight 
 Generic|Taldan Squire 
+Generic|Talented
+Generic|Talismanic Caster
 Generic|Talmandor&apos;s Lifting 
 Generic|Tandem Trip
 Generic|Tantrum 
@@ -822,10 +911,16 @@ Generic|Touch of Serenity
 Generic|Touched by Sacred Fire 
 Generic|Toughness 
 Generic|Touvette Defender
+Generic|Tracker
+Generic|Training
 Generic|Trample 
 Generic|Trappers Setup
 Generic|Trick Riding 
 Generic|Tripping Strike 
+Generic|Trustworthy
+Generic|Turn Creature Type
+Generic|Turn Magical Beasts
+Generic|Turn Outsider
 Generic|Turn Undead
 Generic|Twin Thunders
 Generic|Twin Thunders Flurry
@@ -836,15 +931,22 @@ Generic|Two-Weapon Feint
 Generic|Two-weapon Fighting 
 Generic|Two-weapon Rend 
 Generic|Umbral Scion 
+Generic|Unbalance Opponent
+Generic|Uncanny Dodge 
+Generic|Undead Ignore You
 Generic|Under and Over 
 Generic|Underfoot 
 Generic|Unseat 
 Generic|Urban Forager 
 Generic|Varisian Tattoo 
+Generic|Vehicle Dodge
+Generic|Vehicle Expert
+Generic|Vehicle Specialization
 Generic|Verbose Performer 
 Generic|Vermin Heart 
 Generic|Versatile Jinxer 
 Generic|Vicious Stomp
+Generic|Virgin
 Generic|Vital Strike 
 Generic|Wand Dancer 
 Generic|War Singer 
@@ -855,7 +957,9 @@ Generic|Wave Strike
 Generic|Weapon Finesse 
 Generic|Weapon Focus
 Generic|Weapon Specialization 
+Generic|Weapon Specialization
 Generic|Well-Prepared 
+Generic|Whatever
 Generic|Wheeling Charge 
 Generic|Whip Mastery
 Generic|Whip-Slinger 
@@ -870,108 +974,7 @@ Generic|Wingover
 Generic|Witty Feint 
 Generic|Worst Case Jinxer 
 InitModifier|Improved Initiative 
-Generic|Uncanny Dodge 
-Generic|Brawl
-Generic|Builder
-Generic|Business Savvy
-Generic|Cautious
-Generic|Computer Code Monkey
-Generic|Computer Backdoor
-Generic|Computer Charm
-Generic|Computer False Trail
-Generic|Computer Stealth
-Generic|Confident
-Generic|Creative
-Generic|Critical Brawl
-Generic|Drive By Attack
-Generic|Educated
-Generic|Elusive Target
-Generic|Fleet Of Foot
-Generic|Focused
-Generic|Force Stop
-Generic|Gearhead
-Generic|Guide
-Generic|Improved Brawl
-Generic|Improved Critical Brawl
-Generic|Improved Knockout Punch
-Generic|Improved Natural Healing
-Generic|Knockout Punch
-Generic|Medical Expert
-Generic|Nimble
-Generic|Streetfighting
-Generic|Studious
-Generic|Surgery
-Generic|Tracker
-Generic|Trustworthy
-Generic|Unbalance Opponent
-Generic|Vehicle Dodge
-Generic|Vehicle Expert
-Generic|Vehicle Specialization
-Generic|Ipmroved Damage Threshold
-Generic|Supernatural Strike
-Generic|Training
-Generic|Talented
-Generic|Turn Creature Type
-Generic|Weapon Specialization
-Generic|Backhand Slash
-Generic|Bring it On
-Generic|Chainsaw Impale
-Generic|Cool
-Generic|First Impression
-Generic|Hardware
-Generic|Improvised Implements
-Generic|Over the Shoulder
-Generic|Rifle Spin
-Generic|Slapstick
-Generic|Stud
-Generic|Suck on This
-Generic|Virgin
-Generic|Whatever
-Generic|Arcane Skills
-Generic|Astrology
-Generic|Ceremonial Caster
-Generic|Cirque des Moitié - Cirque Acrobate
-Generic|Cirque des Moitié - Cirque Contrôleur
-Generic|Cirque des Moitié - Cirque Vedette
-Generic|Correspondencism
-Generic|Creature Bane Spell
-Generic|Divinationism
-Generic|Divinatory Caster
-Generic|Dowsing
-Generic|Escapology
-Generic|Faction Bane Spell
-Generic|Herbalism
-Generic|Illusionary Caster
-Generic|Invocative Caster
-Generic|Mentalism
-Generic|Mysticism
-Generic|Natural Caster
-Generic|Oathbound
-Generic|Online Casting
-Generic|Prestidigitation
-Generic|Scribe Spell App
-Generic|Shadowbane Spell
-Generic|Street Magic
-Generic|Sympathetic Caster
-Generic|Talismanic Caster
-Generic|Turn Magical Beasts
-Generic|Turn Outsider
-Generic|Improvised Weapons
-Generic|Bring It
-Generic|Undead Ignore You
-Generic|Avoidance
-Generic|Bodyguard
-Generic|Combat Patrol
-Generic|Fanning
-Generic|Improved Avoidance
-Generic|Improved Burst Fire
-Generic|In Harm's Way
-Generic|Superior Avoidance
-Generic|Bold Adventurer
-Generic|Ritualist
-Generic|Ritualist II
-Generic|Ritualist III
-Generic|Breadth of Experience
-Generic|Extra Rogue Talent
-Generic|Go Unnoticed
+
+
+
 
