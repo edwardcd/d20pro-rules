@@ -158,10 +158,12 @@ Bullet Shield
 Bull's Strength
 Bull's Strength, Mass
 Bungle
+Burglar's Buddy
 Burning Disarm
 Burning Gaze
 Burning Hands
 Burrow
+Burst
 Burst Bonds
 Burst of Glory
 Burst of Nettles
@@ -207,6 +209,7 @@ Chord of Shards
 Circle of Clarity
 Circle of Death
 Clairaudience/Clairvoyance
+Clammy Touch
 Clashing Rocks
 Cleanse
 Clenched Fist
@@ -216,12 +219,14 @@ Cloak of Shade
 Cloak of Winds
 Clone
 Cloudkill
+Clown Car
 Codespeak
 Cold Ice Strike
 Color Spray
 Command
 Command Plants
 Command Undead
+Command Zombie
 Command, Greater
 Commune
 Commune with Nature
@@ -247,6 +252,7 @@ Control Undead
 Control Water
 Control Weather
 Control Winds
+Control Zombie
 Coordinated Effort
 Corrosive Consumption
 Corrosive Touch
@@ -260,6 +266,8 @@ Create Demiplane
 Create Demiplane, Greater
 Create Demiplane, Lesser
 Create Food and Water
+Create Greater Zombie
+Create Okokiyat
 Create Pit
 Create Soul Gem
 Create Treasure Map
@@ -281,6 +289,7 @@ Cure Serious Wounds, Mass
 Curse of Disgust
 Curse of Magic Negation
 Curse Water
+Curse Water
 Curse, Major
 Cursed Earth
 Cushioning Bands
@@ -293,6 +302,7 @@ Dancing Lights
 Darkness
 Darkvision
 Darkvision, Communal
+Dataread
 Daybreak Arrow
 Daylight
 Daze
@@ -317,6 +327,7 @@ Defensive Shock
 Defile Armor
 Deflection
 Defoliate
+Degauss
 Delay Pain
 Delay Poison
 Delay Poison, Communal
@@ -325,6 +336,7 @@ Delayed Consumption
 Delusional Pride
 Demand
 Denounce
+Depression
 Desecrate
 Destablize Powder
 Destruction
@@ -343,6 +355,7 @@ Detect Snares and Pits
 Detect the Faithful
 Detect Thoughts
 Detect Undead
+Detect Zombie
 Detonate
 Devolution
 Diagnose Disease
@@ -404,6 +417,7 @@ Echean's Excellent Enclosure
 Echolocation
 Effortless Armor
 Eldritch Fever
+Electromagnetic Pulse
 Elemental Aura
 Elemental Body I
 Elemental Body II
@@ -456,6 +470,7 @@ False Life
 False Life, Greater
 False Vision
 Familiar Melding
+Far Hand
 Fear
 Feast of Ashes
 Feather Fall
@@ -471,6 +486,7 @@ Find Quarry
 Find the Path
 Find Traps
 Finger of Death
+Finger of Fire
 Fire Breath
 Fire of Entanglement
 Fire of Judgment
@@ -551,6 +567,7 @@ Glide
 Glitterdust
 Globe of Invulnerability
 Globe of Invulnerability, Greater
+Gloom
 Glyph of Warding
 Glyph of Warding, Greater
 Good Hope
@@ -560,6 +577,7 @@ Gozreh's Trident
 Grace
 Grasping Hand
 Gravity Bow
+Gray Fire
 Grease
 Greensight
 Grove of Respite
@@ -578,6 +596,7 @@ Haste
 Haunted Fey Aspect
 Haunting Choir
 Haunting Mists
+Haywire
 Haze of Dreams
 Heal
 Heal Mount
@@ -660,6 +679,7 @@ Innocence
 Insanity
 Insect Plague
 Instant Armor
+Instant Connectivity
 Instant Enemy
 Instant Suffocation
 Instant Summons
@@ -741,6 +761,7 @@ Lose the Trail
 Lover's Vengeance
 Lullaby
 Lunar Veil
+Machine Invisibility
 Mad Hallucination
 Mad Monkeys
 Mage Armor
@@ -752,13 +773,16 @@ Mage's Magnificent Mansion
 Mage's Private Sanctum
 Mage's Sword
 Magic Aura
+Magic Bullets
 Magic Circle against Chaos
 Magic Circle against Evil
 Magic Circle against Good
 Magic Circle against Law
 Magic Fang
 Magic Fang, Greater
+Magic ID
 Magic Jar
+Magic Message
 Magic Missile
 Magic Mouth
 Magic Siege Engine
@@ -779,9 +803,12 @@ Mark of Justice
 Marks of Forbiddance
 Mask Dweomer
 Mask Dweomer, Communal
+Mask Metal
 Masterwork Transformation
 Maze
+Measurement
 Meld into Stone
+Memory Block
 Memory Lapse
 Mending
 Message
@@ -865,10 +892,14 @@ Phantasmal Killer
 Phantasmal Revenge
 Phantasmal Web
 Phantom Chariot
+Phantom Chopper
 Phantom Driver
+Phantom Limousine
+Phantom Projectiles
 Phantom Steed
 Phantom Steed, Communal
 Phantom Trap
+Phantom Watchdog
 Phase Door
 Pick Your Poison
 Pied Piping
@@ -901,6 +932,8 @@ Polymorph Any Object
 Polymorph, Greater
 Polypurpose Panacea
 Possess Object
+Possess Zombie
+Power Device
 Power Word Blind
 Power Word Kill
 Power Word Stun
@@ -957,6 +990,7 @@ Ray of Sickening
 Read Magic
 Read Weather
 Rebuke
+Recharge
 Reckless Infatuation
 Recoil Fire
 Recorporeal Incarnation
@@ -970,6 +1004,7 @@ Reinforce Armaments, Communal
 Rejuvenate Eidolon
 Rejuvenate Eidolon, Greater
 Rejuvenate Eidolon, Lesser
+Relay Text
 Reloading Hands
 Remove Blindness/Deafness
 Remove Curse
@@ -1047,7 +1082,9 @@ Seamantle
 Searing Light
 Secret Chest
 Secret Page
+Secret Pocket
 Secret Speech
+Secret Vault
 Secure Shelter
 Seducer's Eyes
 See Alignment
@@ -1097,6 +1134,7 @@ Shocking Image
 Shout
 Shout, Greater
 Shrink Item
+Shutdown
 Siege of Trees
 Siege of Trees, Greater
 Sift
@@ -1250,6 +1288,7 @@ Symbol of Weakness
 Sympathetic Vibration
 Sympathetic Wounds
 Sympathy
+Synchronicity
 Tactical Acumen
 Tactical Formation
 Tap Inner Beauty
@@ -1291,6 +1330,8 @@ Touch of Madness
 Touch of Slime
 Touch of the Sea
 Toxic Gift
+Toxicity
+Trace Purge
 Tracking Mark
 Trail of the Rose
 Transformation
@@ -1356,6 +1397,7 @@ Vermin Shape I
 Vermin Shape II
 Versatile Weapon
 Vestment of the Champion
+Via Negativa
 Vigor
 Viper Bomb Admixture
 Virtue
@@ -1406,6 +1448,7 @@ Wilderness Soldiers
 Wind Walk
 Wind Wall
 Winds of Vengeance
+Wire Walk
 Wish
 Witness
 Wood Shape
@@ -1418,52 +1461,9 @@ Wrath
 Wrathful Mantle
 Wreath of Blades
 Youthful Appearance
-Zone of Silence
-Zone of Truth
-Clammy Touch
-Command Zombie
-Control Zombie
-Create Greater Zombie
-Create Okokiyat
-Curse Water
-Depression
-Detect Zombie
-Gloom
-Gray Fire
-Possess Zombie
-Toxicity
 Zombie Belch
 Zombie Blight
 Zombie Drain
 Zombie Fever
-Burglar's Buddy
-Burst
-Clown Car
-Dataread
-Degauss
-Electromagnetic Pulse
-Far Hand
-Finger of Fire
-Haywire
-Instant Connectivity
-Machine Invisibility
-Magic Bullets
-Magic ID
-Magic Message
-Mask Metal
-Memory Block
-Phantom Chopper
-Phantom Limousine
-Phantom Projectiles
-Phantom Watchdog
-Power Device
-Recharge
-Relay Text
-Secret Pocket
-Secret Vault
-Shutdown
-Synchronicity
-Trace Purge
-Via Negativa
-Wire Walk
-Measurement
+Zone of Silence
+Zone of Truth
