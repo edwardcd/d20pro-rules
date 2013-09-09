@@ -70,8 +70,6 @@ Generic|Weapon Focus
 Generic|Weapon Proficiency
 Generic|Wintertouched
 
-
-
 Generic|**********PARAGON FEATS**********
 Generic|-Action Recovery [Human]
 Generic|-Agile Athlete
@@ -126,7 +124,6 @@ Generic|-Twofold Curse [Warlock]
 Generic|-Uncanny Dodge
 Generic|-Underfoot [Halfling]
 
-
 Generic|**********EPIC FEATS**********
 Generic|--Arcane Mastery [Wizard]
 Generic|--Axe Mastery
@@ -147,7 +144,6 @@ Generic|--Two-Weapon Flurry
 Generic|--Unfettered Stride
 
 Generic|**********MULTICLASS FEATS**********
-
 Generic|Arcane Initiate [Multiclass Wizard]
 Generic|Initiate of the Faith [Multiclass Cleric]
 Generic|Pact Initiate [Multiclass Warlock]
@@ -156,6 +152,6 @@ Generic|Soldier of the Faith [Multiclass Paladin]
 Generic|Student of Battle [Multiclass Warlord]
 Generic|Student of the Sword [Multiclass Fighter]
 Generic|Warrior of the Wild [Multiclass Ranger]
-Generic|Novice Power 
-Generic|Acolyte Power
-Generic|Adept Power
+Generic|Novice Power [Multiclass Encounter]
+Generic|Acolyte Power [Multiclass Utility]
+Generic|Adept Power [Multiclass Daily]
