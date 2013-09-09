@@ -36,7 +36,7 @@ Generic|Hellfire Blood [Tiefling]
 Generic|Human Perseverance [Human]
 Generic|Improved Dark One's Blessing [Warlock]
 Generic|Improved Fate of the Void [Warlock]
-Generic|Improved Initiative
+InitModifier|Improved Initiative|4
 Generic|Improved Misty Step [Warlock]
 Generic|Inspired Recovery [Warlord]
 Generic|Jack of All Trades
