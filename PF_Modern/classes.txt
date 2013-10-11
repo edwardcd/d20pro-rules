@@ -1,9 +1,204 @@
-// Updated 25 June 2012
+// Updated 11 Oct 2013
+## CLASS: MODERN HERO PATH OF THE WEREWOLF
+CreatureClass=Modern Hero Path of the Werewolf
+AttackRate=1
+GoodSaves=Ref
+GoodSaves=Fort
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
+#SPELLS PER DAY
+PerDay1=1|1
+PerDay2=2|2
+PerDay3=2|2|1
+PerDay4=2|2|2
+PerDay5=2|2|2|1
+PerDay6=2|2|2|2
+PerDay7=2|2|2|2|1
+PerDay8=2|2|2|2|2
+PerDay9=2|2|2|2|2|1
+PerDay10=2|2|2|2|2|2
+PerDay11=2|2|2|2|2|2|1
+PerDay12=2|2|2|2|2|2|2
+PerDay13=2|2|2|2|2|2|2|1
+PerDay14=2|2|2|2|2|2|2|2
+PerDay15=2|2|2|2|2|2|2|2|1
+PerDay16=2|2|2|2|2|2|2|2|2
+PerDay17=2|2|2|2|2|2|2|2|2|1
+PerDay18=2|2|2|2|2|2|2|2|2|2
+PerDay19=3|3|3|3|3|3|3|3|3|3
+PerDay20=4|4|4|4|4|4|4|4|4|4
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3
+Known4=6|4|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=9|5|4|3|2|1
+Known11=9|5|5|4|3|2
+Known12=9|5|5|4|3|2|1
+Known13=9|5|5|4|4|3|2
+Known14=9|5|5|4|4|3|2|1
+Known15=9|5|5|4|4|4|3|2
+Known16=9|5|5|4|4|4|3|2|1
+Known17=9|5|5|4|4|4|3|3|2
+Known18=9|5|5|4|4|4|3|3|2|1
+Known19=9|5|5|4|4|4|3|3|3|2
+Known20=9|5|5|4|4|4|3|3|3|3
+
+## CLASS: MODERN HERO PATH OF THE VAMPIRE
+CreatureClass=Modern Hero Path of the Vampire
+AttackRate=.75
+GoodSaves=Ref
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
+#SPELLS PER DAY
+PerDay1=1|1
+PerDay2=2|2
+PerDay3=2|2|1
+PerDay4=2|2|2
+PerDay5=2|2|2|1
+PerDay6=2|2|2|2
+PerDay7=2|2|2|2|1
+PerDay8=2|2|2|2|2
+PerDay9=2|2|2|2|2|1
+PerDay10=2|2|2|2|2|2
+PerDay11=2|2|2|2|2|2|1
+PerDay12=2|2|2|2|2|2|2
+PerDay13=2|2|2|2|2|2|2|1
+PerDay14=2|2|2|2|2|2|2|2
+PerDay15=2|2|2|2|2|2|2|2|1
+PerDay16=2|2|2|2|2|2|2|2|2
+PerDay17=2|2|2|2|2|2|2|2|2|1
+PerDay18=2|2|2|2|2|2|2|2|2|2
+PerDay19=3|3|3|3|3|3|3|3|3|3
+PerDay20=4|4|4|4|4|4|4|4|4|4
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3
+Known4=6|4|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=9|5|4|3|2|1
+Known11=9|5|5|4|3|2
+Known12=9|5|5|4|3|2|1
+Known13=9|5|5|4|4|3|2
+Known14=9|5|5|4|4|3|2|1
+Known15=9|5|5|4|4|4|3|2
+Known16=9|5|5|4|4|4|3|2|1
+Known17=9|5|5|4|4|4|3|3|2
+Known18=9|5|5|4|4|4|3|3|2|1
+Known19=9|5|5|4|4|4|3|3|3|2
+Known20=9|5|5|4|4|4|3|3|3|3
+
+## CLASS: MODERN HERO PATH OF THE DEMON
+CreatureClass=Modern Hero Path of the Demon
+AttackRate=.75
+GoodSaves=Fort
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
+#SPELLS PER DAY
+PerDay1=1|1
+PerDay2=2|2
+PerDay3=2|2|1
+PerDay4=2|2|2
+PerDay5=2|2|2|1
+PerDay6=2|2|2|2
+PerDay7=2|2|2|2|1
+PerDay8=2|2|2|2|2
+PerDay9=2|2|2|2|2|1
+PerDay10=2|2|2|2|2|2
+PerDay11=2|2|2|2|2|2|1
+PerDay12=2|2|2|2|2|2|2
+PerDay13=2|2|2|2|2|2|2|1
+PerDay14=2|2|2|2|2|2|2|2
+PerDay15=2|2|2|2|2|2|2|2|1
+PerDay16=2|2|2|2|2|2|2|2|2
+PerDay17=2|2|2|2|2|2|2|2|2|1
+PerDay18=2|2|2|2|2|2|2|2|2|2
+PerDay19=3|3|3|3|3|3|3|3|3|3
+PerDay20=4|4|4|4|4|4|4|4|4|4
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3
+Known4=6|4|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=9|5|4|3|2|1
+Known11=9|5|5|4|3|2
+Known12=9|5|5|4|3|2|1
+Known13=9|5|5|4|4|3|2
+Known14=9|5|5|4|4|3|2|1
+Known15=9|5|5|4|4|4|3|2
+Known16=9|5|5|4|4|4|3|2|1
+Known17=9|5|5|4|4|4|3|3|2
+Known18=9|5|5|4|4|4|3|3|2|1
+Known19=9|5|5|4|4|4|3|3|3|2
+Known20=9|5|5|4|4|4|3|3|3|3
 
 ## CLASS: MODERN HERO PATH OF STR
 CreatureClass=Modern Hero Path of Str
 AttackRate=1
 GoodSaves=Fort
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
+#SPELLS PER DAY
+PerDay1=1|1
+PerDay2=2|2
+PerDay3=2|2|1
+PerDay4=2|2|2
+PerDay5=2|2|2|1
+PerDay6=2|2|2|2
+PerDay7=2|2|2|2|1
+PerDay8=2|2|2|2|2
+PerDay9=2|2|2|2|2|1
+PerDay10=2|2|2|2|2|2
+PerDay11=2|2|2|2|2|2|1
+PerDay12=2|2|2|2|2|2|2
+PerDay13=2|2|2|2|2|2|2|1
+PerDay14=2|2|2|2|2|2|2|2
+PerDay15=2|2|2|2|2|2|2|2|1
+PerDay16=2|2|2|2|2|2|2|2|2
+PerDay17=2|2|2|2|2|2|2|2|2|1
+PerDay18=2|2|2|2|2|2|2|2|2|2
+PerDay19=3|3|3|3|3|3|3|3|3|3
+PerDay20=4|4|4|4|4|4|4|4|4|4
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|2
+Known3=5|3
+Known4=6|4|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=9|5|4|3|2|1
+Known11=9|5|5|4|3|2
+Known12=9|5|5|4|3|2|1
+Known13=9|5|5|4|4|3|2
+Known14=9|5|5|4|4|3|2|1
+Known15=9|5|5|4|4|4|3|2
+Known16=9|5|5|4|4|4|3|2|1
+Known17=9|5|5|4|4|4|3|3|2
+Known18=9|5|5|4|4|4|3|3|2|1
+Known19=9|5|5|4|4|4|3|3|3|2
+Known20=9|5|5|4|4|4|3|3|3|3
+
+## CLASS: MODERN HERO PATH OF THE ANGEL
+CreatureClass=Modern Hero Path of the Angel
+AttackRate=.75
+GoodSaves=Fort
+GoodSaves=Will
 SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|STR
 #SPELLS PER DAY
 PerDay1=1|1
