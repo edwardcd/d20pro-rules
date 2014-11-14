@@ -1,19 +1,118 @@
-// Updated 06 September 2012
+// Updated 14 November 2014
 
-## CLASS: NINJA
-CreatureClass=Ninja
+// Playtest - Occult Adventures
+
+## CLASS: KINETICIST
+CreatureClass=Kineticist
 AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: MEDIUM
+CreatureClass=Medium
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: MESMERIST
+CreatureClass=Mesmerist
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: OCCULTIST
+CreatureClass=Occultist
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: PSYCHIC
+CreatureClass=Psychic
+AttackRate=.5
+GoodSaves=will
+
+## CLASS: SPIRITUALIST
+CreatureClass=Spiritualist
+AttackRate=.75
+GoodSaves=Fort|Will
+
+## CLASS: MANIFESTED PHANTOM
+CreatureClass=Manifested Phantom
+AttackRate=.75
+GoodSaves=
+
+
+// Advanced Class Guide
+
+
+## CLASS: ARCANIST
+CreatureClass=Arcanist
+AttackRate=.5
+GoodSaves=Will
+
+## CLASS: BLOODRAGER
+CreatureClass=Bloodrager
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: BRAWLER
+CreatureClass=Brawler
+AttackRate=1
+GoodSaves=Fort|Ref
+
+## CLASS: HUNTER
+CreatureClass=Hunter
+AttackRate=.75
+GoodSaves=Fort|Ref
+
+## CLASS: INVESTIGATOR
+CreatureClass=Investigator
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: SHAMAN
+CreatureClass=Shaman
+AttackRate=.75
+GoodSaves=Will
+
+## CLASS: SKALD
+CreatureClass=Skald
+AttackRate=1
+GoodSaves=Fort|Will
+
+## CLASS: SLAYER
+CreatureClass=Slayer
+AttackRate=1
+GoodSaves=Fort|Ref
+
+## CLASS: SWASHBUCKLER
+CreatureClass=Swashbuckler
+AttackRate=1
 GoodSaves=Ref
+
+## CLASS: WARPRIEST
+CreatureClass=Warpriest
+AttackRate=.75
+GoodSaves=Fort|Will
+
+
+// Ultimate Combat
+
 
 ## CLASS: GUNSLINGER
 CreatureClass=Gunslinger
 AttackRate=1
 GoodSaves=Fort|Ref
 
+## CLASS: NINJA
+CreatureClass=Ninja
+AttackRate=.75
+GoodSaves=Ref
+
 ## CLASS: SAMURAI
 CreatureClass=Samurai
 AttackRate=1
 GoodSaves=Fort
+
+
+// Ultimate Magic
+
 
 ## CLASS: MAGUS
 CreatureClass=Magus
@@ -49,6 +148,10 @@ PerDay17=5|5|5|5|4|4|2
 PerDay18=5|5|5|5|5|4|3
 PerDay19=5|5|5|5|5|5|4
 PerDay20=5|5|5|5|5|5|5
+
+
+// Prestige Class - Campaign Setting
+
 
 ## CLASS: RED MANTIS ASSASSIN
 CreatureClass=Red Mantis Assassin
@@ -97,6 +200,10 @@ GoodSaves=Fort
 CreatureClass=Harrower
 AttackRate=.5
 GoodSaves=Fort|Will
+
+
+// Advanced Player's Guide
+
 
 ## CLASS: ALCHEMIST
 CreatureClass=Alchemist
@@ -161,6 +268,383 @@ PerDay18=-|4|3|2|2
 PerDay19=-|4|3|3|2
 PerDay20=-|4|4|3|3
 
+## CLASS: CAVALIER
+CreatureClass=Cavalier
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: ORACLE
+CreatureClass=Oracle
+AttackRate=.75
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+#SPELLS AVAILABLE
+Spells0=Bleed|Create Water|Detect Magic|Detect Poison|Guidance|Light|Mending|Purify Food and Drink|Read Magic|Resistance|Stabilize|Virtue|Spark
+Spells1=Bane|Bless|Bless Water|Cause Fear|Command|Comprehend Languages|Cure Light Wounds|Curse Water|Deathwatch|Detect Chaos|Detect Evil|Detect Good|Detect Law|Detect Undead|Divine Favor|Doom|Endure Elements|Entropic Shield|Hide from Undead|Inflict Light Wounds|Magic Stone|Magic Weapon|Obscuring Mist|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Remove Fear|Sanctuary|Shield of Faith|Summon Monster I|Gorum's Armor|Unbreakable Heart|Weapons against Evil
+Spells2=Aid|Align Weapon|Augury|Bear's Endurance|Bull's Strength|Calm Emotions|Consecrate|Cure Moderate Wounds|Darkness|Death Knell|Delay Poison|Desecrate|Eagle's Splendor|Enthrall|Find Traps|Gentle Repose|Hold Person|Inflict Moderate Wounds|Make Whole|Owl's Wisdom|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Sound Burst|Spiritual Weapon|Status|Summon Monster II|Undetectable Alignment|Zone of Truth|Grace
+Spells3=Animate Dead|Bestow Curse|Blindness/Deafness|Contagion|Continual Flame|Create Food and Water|Cure Serious Wounds|Daylight|Deeper Darkness|Dispel Magic|Glyph of Warding|Helping Hand|Inflict Serious Wounds|Invisibility Purge|Locate Object|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Vestment|Meld into Stone|Obscure Object|Prayer|Protection from Energy|Remove Blindness/Deafness|Remove Curse|Remove Disease|Searing Light|Speak with Dead|Stone Shape|Summon Monster III|Water Breathing|Water Walk|Wind Wall|Lover's Vengeance|Borrow Fortune|Summon Ancestral Guardian
+Spells4=Airwalk|Chaos Hammer|Control Water|Cure Critical Wounds|Death Ward|Dimensional Anchor|Discern Lies|Dismissal|Divination|Divine Power|Freedom of Movement|Giant Vermin|Holy Smite|Imbue with Spell Ability|Inflict Critical Wounds|Magic Weapon, Greater|Neutralize Poison|Order's Wrath|Planar Ally, Lesser|Poison|Repel Vermin|Restoration|Sending|Spell Immunity|Summon Monster IV|Tongues|Unholy Blight|Shield of the Dawnflower|Aura of Doom|Mighty Strength
+Spells5=Atonement|Break Enchantment|Breath of Life|Command, Greater|Commune|Cure Light Wounds, Mass|Dispel Chaos|Dispel Evil|Dispel Good|Dispel Law|Disrupting Weapon|Flame Strike|Hallow|Inflict Light Wounds, Mass|Insect Plague|Mark of Justice|Plane Shift|Raise Dead|Righteous Might|Scrying|Slay Living|Spell Resistance|Summon Monster V|Symbol of Pain|Symbol of Sleep|True Seeing|Unhallow|Wall of Stone|Ancestral Memory
+Spells6=Animate Objects|Antilife Shell|Banishment|Bear's Endurance, Mass|Blade Barrier|Bull's Strength, Mass|Create Undead|Cure Moderate Wounds, Mass|Dispel Magic, Greater|Eagle's Splendor, Mass|Find the Path|Forbiddance|Geas/Quest|Glyph of Warding, Greater|Harm|Heal|Heroes' Feast|Inflict Moderate Wounds, Mass|Owl's Wisdom, Mass|Planar Ally|Summon Monster VI|Symbol of Fear|Symbol of Persuasion|Undeath to Death|Wind Walk|Word of Recall
+Spells7=Blasphemy|Control Weather|Cure Serious Wounds, Mass|Destruction|Dictum|Ethereal Jaunt|Holy Word|Inflict Serious Wounds, Mass|Refuge|Regenerate|Repulsion|Restoration, Greater|Resurrection|Scrying, Greater|Summon Monster VII|Symbol of Stunning|Symbol of Weakness|Word of Chaos|Vision of Lamashtu
+Spells8=Antimagic Field|Cloak of Chaos|Create Greater Undead|Cure Critical Wounds, Mass|Dimensional Lock|Discern Location|Earthquake|Fire Storm|Holy Aura|Planar Ally, Greater|Inflict Critical Wounds, Mass|Shield of Law|Spell Immunity, Greater|Summon Monster VIII|Symbol of Death|Symbol of Insanity|Unholy Aura
+Spells9=Astral Projection|Energy Drain|Etherealness|Gate|Heal, Mass|Implosion|Miracle|Soul Bind|Storm of Vengeance|Summon Monster IX|True Resurrection|Interplanetary Teleport
+#SPELLS PER DAY
+PerDay1=20|3
+PerDay2=20|4
+PerDay3=20|5
+PerDay4=20|6|3
+PerDay5=20|6|4
+PerDay6=20|6|5|3
+PerDay7=20|6|6|4
+PerDay8=20|6|6|5|3
+PerDay9=20|6|6|6|4
+PerDay10=20|6|6|6|5|3
+PerDay11=20|6|6|6|6|4
+PerDay12=20|6|6|6|6|5|3
+PerDay13=20|6|6|6|6|6|4
+PerDay14=20|6|6|6|6|6|5|3
+PerDay15=20|6|6|6|6|6|6|4
+PerDay16=20|6|6|6|6|6|6|5|3
+PerDay17=20|6|6|6|6|6|6|6|4
+PerDay18=20|6|6|6|6|6|6|6|5|3
+PerDay19=20|6|6|6|6|6|6|6|6|4
+PerDay20=20|6|6|6|6|6|6|6|6|6
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|1
+Known3=5|3
+Known4=6|3|1
+Known5=6|4|2
+Known6=7|4|2|1
+Known7=7|5|3|2
+Known8=8|5|3|2|1
+Known9=8|5|4|3|2
+Known10=9|5|4|3|2|1
+Known11=9|5|5|4|3|2
+Known12=9|5|5|4|3|2|1
+Known13=9|5|5|4|4|3|2
+Known14=9|5|5|4|4|3|2|1
+Known15=9|5|5|4|4|4|3|2
+Known16=9|5|5|4|4|4|3|2|1
+Known17=9|5|5|4|4|4|3|3|2
+Known18=9|5|5|4|4|4|3|3|2|1
+Known19=9|5|5|4|4|4|3|3|3|2
+Known20=9|5|5|4|4|4|3|3|3|3
+#DOMAINS
+DomainBattle=Enlarge Person|Fog Cloud|Magic Vestment|Wall of Fire|Righteous Might|Buss's Strength, Mass|Control Weather|Earthquake|Storm of Vengeance
+DomainBones=Cause Fear|False Life|Animate Dead|Fear|Slay Living|Circle of Death|Control Undead|Horrid Wilting|Wail of the Banshee
+DomainFlame=Burning Hands|Resist Energy|Fireball|Wall of Fire|Summon Monster V|Fire Seeds|Fire Storm|Incendiary Cloud|Fiery Body
+DomainHeavens=Color Spray|Hypnotic Pattern|Daylight|Rainbow Pattern|Overland Flight|Chain Lightning|Prismatic Spray|Sunburst|Meteor Swarm
+DomainLife=Detect Undead|Restoration, Lesser|Neutralize Poison|Restoration|Breath of Life|Heal|Restoration, Greater|Cure Critical Wounds, Mass|Heal, Mass
+DomainLore=Identify|Tongues|Locate Object|Legend Lore|Contact Other Plane|Owl's Wisdom, Mass|Vision|Moment of Prescience|Time Stop
+DomainNature=Charm Animal|Barkskin|Speak with Plants|Grove of Respite|Awaken|Stone Tell|Creeping Doom|Animal Shapes|World Wave
+DomainStone=Magic Stone|Stone Call|Meld into Stone|Wall of Stone|Stoneskin|Stone Tell|Statue|Repel Metal or Stone|Clashing Rocks
+DomainWaves=Touch of the Sea|Slipstream|Water Breathing|Wall of Ice|Geyser|Fluid Form|Vortex|Seamantle|Tsunami
+DomainWind=Alter Winds|Gust of Wind|Cloak of Winds|River of Wind|Control Winds|Sirocco|Control Weather|Whirlwind|Winds of Vengeance
+
+## CLASS: INQUISITOR
+CreatureClass=Inquisitor
+AttackRate=.75
+GoodSaves=Fort|Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|WIS
+#SPELLS AVAILABLE
+Spells0=Acid Splash|Bleed|Brand|Create Water|Detect Magic|Detect Poison|Disrupt Undead|Guidance|Light|Read Magic|Resistance|Sift|Stabilize|Virtue|Brand|Sift
+Spells1=Bane|Bless|Bless Water|Cause Fear|Command|Comprehend Languages|Cure Light Wounds|Curse Water|Alarm|Detect Chaos|Detect Evil|Detect Good|Detect Law|Detect Undead|Divine Favor|Doom|Expeditious Retreat|True Strike|Hide from Undead|Inflict Light Wounds|Magic Weapon|Disguise Self|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Remove Fear|Sanctuary|Shield of Faith|Burst Bonds|Tireless Pursuit|Wrath|Gorum's Armor|Ear-Piercing Scream|Forbid Action|Forced Quiet|Hex Ward|Horn of Pursuit|Interrogation|Know the Enemy|Lend Judgment|Persuasive Goad|Sanctify Corpse|Vocal Alteration|Wartrain Mount|Litany of Sloth|Bowstaff|Compel Hostility|Deadeye's Lore|Litany of Weakness|Lock Gaze|Longshot|Peacebond|Returning Weapon|Unerring Weapon|Weapons against Evil
+Spells2=Aid|Align Weapon|Calm Emotions|Consecrate|Detect Thoughts|Cure Moderate Wounds|Darkness|Death Knell|Delay Poison|Desecrate|Enthrall|Find Traps|Hold Person|Inflict Moderate Wounds|Knock|See Invisibility|Remove Paralysis|Resist Energy|Restoration, Lesser|Shield Other|Silence|Spiritual Weapon|Invisibility|Tongues|Undetectable Alignment|Zone of Truth|Whispering Wind|Bloodhound|Castigate|Confess|Corruption Resistance|Flames of the Faithful|Follow Aura|Ghostbane Dirge|Honeyed Tongue|Perceive Cues|Sacred Bond|Weapon of Awe|Acute Senses|Delay Pain|Disguise Other|Distressing Tone|Ghostly Disguise|Howling Agony|Surmount Affliction|Bestow Weapon Proficiency|Blistering Invective|Brow Gasher|Discovery Torch|Effortless Armor|Instrument of Agony|Litany of Defense|Magic Siege Engine|Protection from Chaos, Communal|Protection from Evil, Communal|Protection from Good, Communal|Protection from Law, Communal|Qualm|Returning Weapon, Communal|Tactical Acumen
+Spells3=Arcane Sight|Continual Flame|Cure Serious Wounds|Daylight|Deeper Darkness|Dimensional Anchor|Dispel Magic|Glyph of Warding|Halt Undead|Heroism|Inflict Serious Wounds|Invisibility Purge|Keen Edge|Locate Object|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Vestment|Magic Weapon, Greater|Nondetection|Obscure Object|Prayer|Protection from Energy|Remove Curse|Remove Disease|Searing Light|Speak with Dead|Banish Seeming|Blood Biography|Cast Out|Coordinated Effort|Fester|Hidden Speech|Hunter's Eye|Retribution|Righteous Vigor|Seek Thoughts|Ward the Faithful|Blessing of the Mole|Countless Eyes|Eldritch Fever|Terrible Remorse|Witness|Burst of Speed|Daybreak Arrow|Deadly Juggernaut|Delay Poison, Communal|Litany of Eloquence|Litany of Entanglement|Litany of Righteousness|Litany of Warding|Locate Weakness|Resist Energy, Communal
+Spells4=Chaos Hammer|Cure Critical Wounds|Death Ward|Detect Scrying|Discern Lies|Dismissal|Divination|Divine Power|Fear|Freedom of Movement|Geas, Lesser|Hold Monster|Holy Smite|Inflict Critical Wounds|Magic Weapon, Greater|Invisibility, Greater|Neutralize Poison|Order's Wrath|Restoration|Sending|Spell Immunity|Stoneskin|Unholy Blight|Brand, Greater|Coward's Lament|Defile Armor|Denounce|Forced Repentance|Rebuke|Sanctify Armor|Shared Wrath|Sleepwalk|Tireless Pursuers|Battlemind Link|Curse of Magic Negation|Daze, Mass|Fleshworm Infestation|Interrogation, Greater|Leashed Shackles|Reprobation|Find Quarry|Judgment Light|Litany of Escape|Litany of Sight|Magic Siege Engine, Greater|Named Bullet|Protection from Energy, Communal
+Spells5=Atonement|Banishment|Break Enchantment|Command, Greater|Commune|Cure Light Wounds, Mass|Dispel Chaos|Dispel Evil|Dispel Good|Dispel Law|Disrupting Weapon|Geas/Quest|Hallow|Inflict Light Wounds, Mass|Mark of Justice|Righteous Might|Spell Resistance|Telepathic Bond|True Seeing|Flame Strike|Unhallow|Castigate, Mass|Ghostbane Dirge, Mass|Resounding Blow|Unwilling Shield|Divine Pursuit|Forbid Action, Greater|Lend Judgment, Greater|Litany of Thunder|Litany of Vengeance|Spell Immunity, Communal|Stoneskin, Communal
+Spells6=Blade Barrier|Blasphemy|Circle of Death|Cure Moderate Wounds, Mass|Dictum|Dispel Magic, Greater|Find the Path|Forbiddance|Glyph of Warding, Greater|Harm|Heal|Heroes' Feast|Inflict Moderate Wounds, Mass|Legend Lore|Repulsion|Undeath to Death|Word of Chaos|Cleanse|Fester, Mass|Vision of Lamashtu|Overwhelming Presence|Litany of Madness|Named Bullet, Greater
+#SPELLS PER DAY
+PerDay1=20|1
+PerDay2=20|2
+PerDay3=20|3
+PerDay4=20|3|1
+PerDay5=20|4|2
+PerDay6=20|4|3|
+PerDay7=20|4|3|1
+PerDay8=20|4|4|2
+PerDay9=20|5|4|3
+PerDay10=20|5|4|3|1
+PerDay11=20|5|4|4|2
+PerDay12=20|5|5|4|3|
+PerDay13=20|5|5|4|3|1
+PerDay14=20|5|5|4|4|2
+PerDay15=20|5|5|5|4|3
+PerDay16=20|5|5|5|4|3|1
+PerDay17=20|5|5|5|4|4|2
+PerDay18=20|5|5|5|5|4|3
+PerDay19=20|5|5|5|5|5|4
+PerDay20=20|5|5|5|5|5|5
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|3
+Known3=6|4
+Known4=6|4|2
+Known5=6|4|3
+Known6=6|4|4
+Known7=6|5|4|2
+Known8=6|5|4|3
+Known9=6|5|4|4
+Known10=6|5|5|4|2
+Known11=6|6|5|4|3
+Known12=6|6|5|4|4
+Known13=6|6|5|5|4|2
+Known14=6|6|6|5|4|3
+Known15=6|6|6|5|4|4
+Known16=6|6|6|5|5|4|2
+Known17=6|6|6|6|5|4|3
+Known18=6|6|6|6|5|4|4
+Known19=6|6|6|6|5|5|4
+Known20=6|6|6|6|6|5|5
+#DOMAINS
+DomainAir=Obscuring Mist|Wind Wall|Gaseous Form|Airwalk|Control Winds|Chain Lightning|Elemental Body IV|Whirlwind|Elemental Swarm
+DomainAirCloud=Obscuring Mist|Wind Wall|Gaseous Form|Solid Fog|Control Winds|Chain Lightning|Elemental Body IV|Whirlwind|Storm of Vengeance
+DomainAirWind=Whispering Wind|Wind Wall|Gaseous Form|Airwalk|Control Winds|Wind Walk|Elemental Body IV|Whirlwind|Winds of Vengeance
+DomainAnimal=Calm Animals|Hold Animal|Dominate Animal|Summon Nature's Ally IV|Beast Shape III|Antilife Shell|Animal Shapes|Summon Nature's Ally VIII|Shapechange
+DomainAnimalFeather=Calm Animals|Feather Fall|Fly|Summon Nature's Ally IV|Beast Shape III|Fly, Mass|Animal Shapes|Summon Nature's Ally VIII|Shapechange
+DomainAnimalFur=Magic Fang|Hold Animal|Beast Shape I|Summon Nature's Ally IV|Beast Shape III|Antilife Shell|Animal Shapes|Summon Nature's Ally VIII|Shapechange
+DomainArtifice=Animate Rope|Wood Shape|Stone Shape|Minor Creation|Fabricate|Major Creation|Wall of Iron|Instant Summons|Prismatic Sphere
+DomainArtificeConstruct=Animate Rope|Wood Shape|Stone Shape|Minor Creation|Fabricate|Major Creation|Limited Wish|Polymorph Any Object|Prismatic Sphere
+DomainArtificeToil=Command|Wood Shape|Stone Shape|Minor Creation|Waves of Fatigue|Major Creation|Waves of Exhaustion|Instant Summons|Prismatic Sphere
+DomainChaos=Protection from Law|Align Weapon|Magic Circle against Law|Chaos Hammer|Dispel Law|Animate Objects|Word of Chaos|Cloak of Chaos|Summon Monster IX
+DomainChaosAzata=Expeditious Retreat|Align Weapon|Fly|Chaos Hammer|Dispel Law|Planar Ally|Word of Chaos|Cloak of Chaos|Summon Monster IX
+DomainChaosDemon=Doom|Align Weapon|Rage|Chaos Hammer|Dispel Law|Planar Binding|Word of Chaos|Cloak of Chaos|Summon Monster IX
+DomainChaosProtean=Confusion, Lesser|Align Weapon|Displacement|Chaos Hammer|Dispel Law|Planar Binding|Word of Chaos|Cloak of Chaos|Summon Monster IX
+DomainCharm=Charm Person|Calm Emotions|Suggestion|Heroism|Charm Monster|Geas/Quest|Insanity|Demand|Dominate Monster
+DomainCharmLove=Charm Person|Enthrall|Suggestion|Heroism|Charm Monster|Geas/Quest|Insanity|Euphoric Tranquility|Dominate Monster
+DomainCharmLust=Charm Person|Touch of Idiocy|Suggestion|Confusion|Charm Monster|Geas/Quest|Insanity|Demand|Dominate Monster
+DomainCommunity=Bless|Shield Other|Prayer|Status|Telepathic Bond|Heroes' Feast|Refuge|Cure Critical Wounds, Mass|Miracle
+DomainCommunityFamily=Bless|Calm Emotions|Create Food and Water|Status|Telepathic Bond|Heroes' Feast|Refuge|Cure Critical Wounds, Mass|Miracle
+DomainCommunityHome=Alarm|Shield Other|Glyph of Warding|Status|Telepathic Bond|Heroes' Feast|Guards and Wards|Cure Critical Wounds, Mass|Miracle
+DomainDarkness=Obscuring Mist|Blindness/Deafness|Deeper Darkness|Shadow Conjuration|Summon Monster V|Shadow Walk|Power Word Blind|Shadow Evocation, Greater|Shades
+DomainDarknessLoss=Obscuring Mist|Blindness/Deafness|Deeper Darkness|Shadow Conjuration|Enervation|Modify Memory|Power Word Blind|Shadow Evocation, Greater|Energy Drain
+DomainDeath=Cause Fear|Death Knell|Animate Dead|Death Ward|Slay Living|Create Undead|Destruction|Create Greater Undead|Wail of the Banshee
+DomainDeathMurder=Cause Fear|Death Knell|Keen Edge|Death Ward|Suffocation|Create Undead|Destruction|Create Greater Undead|Suffocation, Mass
+DomainDeathUndead=Cause Fear|Ghoul Touch|Animate Dead|Enervation|Slay Living|Create Undead|Destruction|Create Greater Undead|Energy Drain
+DomainDestruction=True Strike|Shatter|Rage|Inflict Critical Wounds|Shout|Harm|Disintegrate|Earthquake|Implosion
+DomainDestructionCatastrophe=True Strike|Gust of Wind|Call Lightning|Inflict Critical Wounds|Shout|Harm|Control Weather|Earthquake|Implosion
+DomainDestructionRage=True Strike|Bull's Strength|Rage|Inflict Critical Wounds|Shout|Moonstruck|Disintegrate|Earthquake|Implosion
+DomainEarth=Magic Stone|Soften Earth and Stone|Stone Shape|Spike Stones|Wall of Stone|Stoneskin|Elemental Body IV|Earthquake|Elemental Swarm
+DomainEarthCaves=Magic Stone|Create Pit|Spiked Pit|Spike Stones|Wall of Stone|Hungry Pit|Elemental Body IV|Earthquake|Elemental Swarm
+DomainEarthMental=Magic Stone|Heat Metal|Stone Shape|Spike Stones|Wall of Stone|Wall of Iron|Elemental Body IV|Iron Body|Elemental Swarm
+DomainEvil=Protection from Good|Align Weapon|Magic Circle against Good|Unholy Blight|Dispel Good|Create Undead|Blasphemy|Unholy Aura|Summon Monster IX
+DomainEvilDemon=Doom|Align Weapon|Rage|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
+DomainEvilDaemon=Cause Fear|Align Weapon|Vampiric Touch|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
+DomainEvilDevil=Command|Align Weapon|Suggestion|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
+DomainFire=Burning Hands|Produce Flame|Fireball|Wall of Fire|Fire Shield|Fire Seeds|Elemental Body IV|Incendiary Cloud|Elemental Swarm
+DomainFireAsh=Burning Hands|Produce Flame|Fireball|Wall of Fire|Fire Shield|Fire Seeds|Disintegrate|Incendiary Cloud|Fiery Body
+DomainFireSmoke=Burning Hands|Pyrotechnics|Stinking Cloud|Wall of Fire|Fire Shield|Fire Seeds|Elemental Body IV|Incendiary Cloud|Elemental Swarm
+DomainGlory=Shield of Faith|Bless Weapon|Searing Light|Holy Smite|Righteous Might|Undeath to Death|Holy Sword|Holy Aura|Gate
+DomainGloryHeroism=Shield of Faith|Bless Weapon|Heroism|Holy Smite|Righteous Might|Heroism, Greater|Holy Sword|Holy Aura|Gate
+DomainGloryHonor=Shield of Faith|Zone of Truth|Searing Light|Holy Smite|Righteous Might|Geas/Quest|Holy Sword|Holy Aura|Gate
+DomainGood=Protection from Evil|Align Weapon|Magic Circle against Evil|Holy Smite|Dispel Evil|Blade Barrier|Holy Word|Holy Aura|Summon Monster IX
+DomainGoodAgathion=Shield of Faith|Align Weapon|Tongues|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
+DomainGoodArchon=Divine Favor|Align Weapon|Prayer|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
+DomainGoodAzata=Expeditious Retreat|Align Weapon|Fly|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
+DomainHealing=Cure Light Wounds|Cure Moderate Wounds|Cure Serious Wounds|Cure Critical Wounds|Breath of Life|Heal|Regenerate|Cure Critical Wounds, Mass|Heal, Mass
+DomainHealingRestoration=Cure Light Wounds|Remove Disease|Cure Serious Wounds|Neutralize Poison|Break Enchantment|Heal|Regenerate|Cure Critical Wounds, Mass|Heal, Mass
+DomainHealingResurrection=Cure Light Wounds|Cure Moderate Wounds|Cure Serious Wounds|Cure Critical Wounds|Raise Dead|Heal|Resurrection|Cure Critical Wounds, Mass|True Resurrection
+DomainKnowledge=Comprehend Languages|Detect Thoughts|Speak with Dead|Divination|True Seeing|Find the Path|Legend Lore|Discern Location|Foresight
+DomainKnowledgeMemory=Comprehend Languages|Memory Lapse|Speak with Dead|Divination|True Seeing|Modify Memory|Legend Lore|Moment of Prescience|Foresight
+DomainKnowledgeThought=Comprehend Languages|Detect Thoughts|Seek Thoughts|Divination|Telepathic Bond|Find the Path|Legend Lore|Mind Blank|Foresight
+DomainLaw=Protection from Chaos|Align Weapon|Magic Circle against Chaos|Order's Wrath|Dispel Chaos|Hold Monster|Dictum|Shield of Law|Summon Monster IX
+DomainLawArchon=Divine Favor|Align Weapon|Prayer|Order's Wrath|Dispel Chaos|Planar Ally|Dictum|Shield of Law|Summon Monster IX
+DomainLawDevil=Command|Align Weapon|Suggestion|Order's Wrath|Dispel Chaos|Planar Binding|Dictum|Shield of Law|Summon Monster IX
+DomainLawInevitable=Protection from Chaos|Align Weapon|Command Undead|Order's Wrath|Command, Greater|Planar Binding|Dictum|Shield of Law|Summon Monster IX
+DomainLiberation=Remove Fear|Remove Paralysis|Remove Curse|Freedom of Movement|Break Enchantment|Dispel Magic, Greater|Refuge|Mind Blank|Freedom
+DomainLiberationFreedom=Sanctuary|Remove Paralysis|Remove Curse|Freedom of Movement|Plane Shift|Dispel Magic, Greater|Refuge|Mind Blank|Freedom
+DomainLiberationRevolution=Remove Fear|Enthrall|Remove Curse|Freedom of Movement|Break Enchantment|Symbol of Persuasion|Refuge|Mind Blank|Freedom
+DomainLuck=True Strike|Aid|Protection from Energy|Freedom of Movement|Break Enchantment|Mislead|Spell Turning|Moment of Prescience|Miracle
+DomainLuckCurse=Bane|Aid|Bestow Curse|Freedom of Movement|Break Enchantment|Eyebite|Spell Turning|Moment of Prescience|Miracle
+DomainLuckFate=True Strike|Augury|Borrow Fortune|Freedom of Movement|Break Enchantment|Mislead|Spell Turning|Moment of Prescience|Miracle
+DomainMadness=Confusion, Lesser|Touch of Idiocy|Rage|Confusion|Nightmare|Phantasmal Killer|Insanity|Scintillating Pattern|Weird
+DomainMadnessInsanity=Confusion, Lesser|Touch of Idiocy|Rage|Moonstruck|Nightmare|Phantasmal Web|Insanity|Scintillating Pattern|Weird
+DomainMadnessNightmare=Confusion, Lesser|Touch of Idiocy|Rage|Phantasmal Killer|Nightmare|Cloak of Dreams|Insanity|Scintillating Pattern|Weird
+DomainMagic=Identify|Magic Mouth|Dispel Magic|Imbue with Spell Ability|Spell Resistance|Antimagic Field|Spell Turning|Protection from Spells|Mage's Disjunction
+DomainMagicArcane=Magic Aura|Magic Mouth|Dispel Magic|Arcane Eye|Spell Resistance|Analyze Dweomer|Spell Turning|Protection from Spells|Mage's Disjunction
+DomainMagicDivine=Identify|Bless Water|Dispel Magic|Imbue with Spell Ability|Cleanse|Antimagic Field|Resurrection|Protection from Spells|Miracle
+DomainNobility=Divine Favor|Enthrall|Magic Vestment|Discern Lies|Command, Greater|Geas/Quest|Repulsion|Demand|Storm of Vengeance
+DomainNobilityLeadership=Bless|Enthrall|Prayer|Discern Lies|Command, Greater|Brilliant Inspiration|Repulsion|Demand|Storm of Vengeance
+DomainNobilityMartyr=Divine Favor|Shield Other|Magic Vestment|Discern Lies|Command, Greater|Sacrificial Oath|Repulsion|Demand|Storm of Vengeance
+DomainPlant=Entangle|Barkskin|Plant Growth|Command Plants|Wall of Thorns|Repel Wood|Animate Plants|Control Plants|Shambler
+DomainPlantDecay=Entangle|Barkskin|Contagion|Poison|Wall of Thorns|Harm|Animate Plants|Control Plants|Shambler
+DomainPlantGrowth=Enlarge Person|Barkskin|Plant Growth|Command Plants|Righteous Might|Repel Wood|Animate Plants|Control Plants|Shambler
+DomainProtection=Sanctuary|Shield Other|Protection from Energy|Spell Immunity|Spell Resistance|Antimagic Field|Repulsion|Mind Blank|Prismatic Sphere
+DomainProtectionDefense=Shield|Barkskin|Protection from Energy|Spell Immunity|Spell Resistance|Antimagic Field|Deflection|Mind Blank|Prismatic Sphere
+DomainProtectionPurity=Protection from Chaos/Evil/Good/Law|Shield Other|Atonement|Spell Immunity|Spell Resistance|Antimagic Field|Repulsion|Mind Blank|Prismatic Sphere
+DomainRepose=Deathwatch|Gentle Repose|Speak with Dead|Death Ward|Slay Living|Undeath to Death|Destruction|Waves of Exhaustion|Wail of the Banshee
+DomainReposeAncestors=Deathwatch|Gentle Repose|Speak with Dead|Rest Eternal|Slay Living|Geas/Quest|Destruction|Waves of Exhaustion|Wail of the Banshee
+DomainReposeSouls=Deathwatch|Gentle Repose|Animate Dead|Death Ward|Slay Living|Antilife Shell|Destruction|Waves of Exhaustion|Trap the Soul
+DomainReposeSoulsPharasma=Deathwatch|Gentle Repose|Speak with Dead|Death Ward|Slay Living|Antilife Shell|Destruction|Waves of Exhaustion|Trap the Soul
+DomainRune=Erase|Secret Page|Glyph of Warding|Explosive Runes|Planner Binding, Lesser|Glyph of Warding, Greater|Instant Summons|Symbol of Death|Teleportation Circle
+DomainRuneLanguage=Comprehend Languages|Share Language|Tongues|Explosive Runes|Telepathic Bond|Glyph of Warding, Greater|Instant Summons|Symbol of Death|Teleportation Circle
+DomainRuneWards=Arcane Lock|Secret Page|Glyph of Warding|Dimensional Anchor|Planner Binding, Lesser|Guards and Wards|Instant Summons|Symbol of Death|Teleportation Circle
+DomainStrength=Enlarge Person|Bull's Strength|Magic Vestment|Spell Immunity|Righteous Might|Stoneskin|Grasping Hand|Clenched Fist|Crushing Hand
+DomainStrengthFerocity=Enlarge Person|Bull's Strength|Rage|Spell Immunity|Righteous Might|Bull's Strength, Mass|Grasping Hand|Clenched Fist|Crushing Hand
+DomainStrengthResolve=Bless|Bull's Strength|Magic Vestment|Spell Immunity|Righteous Might|Heroes' Feast|Grasping Hand|Clenched Fist|Crushing Hand
+DomainSun=Endure Elements|Heat Metal|Searing Light|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
+DomainSunDay=Endure Elements|Continual Flame|Daylight|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
+DomainSunLight=Faerie Fire|Heat Metal|Daylight|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
+DomainTravel=Longstrider|Locate Object|Fly|Dimension Door|Teleport|Find the Path|Teleport, Greater|Phase Door|Astral Projection
+DomainTravelExploration=Expeditious Retreat|Locate Object|Fly|Locate Creature|Teleport|Find the Path|Teleport, Greater|Phase Door|World Wave
+DomainTravelTrade=Floating Disk|Locate Object|Fly|Dimension Door|Overland Flight|Find the Path|Teleport, Greater|Phase Door|Gate
+DomainTrickery=Disguise Self|Invisibility|Nondetection|Confusion|False Vision|Mislead|Screen|Invisibility, Mass|Time Stop
+DomainTrickeryDeception=Disguise Self|Mirror Image|Nondetection|Confusion|False Vision|Mislead|Project Image|Invisibility, Mass|Time Stop
+DomainTrickeryThievery=Disguise Self|Invisibility|Locate Object|Confusion|False Vision|Mislead|Ethereal Jaunt|Invisibility, Mass|Time Stop
+DomainWar=Magic Weapon|Spiritual Weapon|Magic Vestment|Divine Power|Flame Strike|Blade Barrier|Power Word Blind|Power Word Stun|Power Word Kill
+DomainWarBlood=Magic Weapon|Spiritual Weapon|Vampiric Touch|Divine Power|Wall of Thorns|Blade Barrier|Inflict Serious Wounds, Mass|Power Word Stun|Power Word Kill
+DomainWarTactics=Magic Weapon|Aid|Magic Vestment|Divine Power|Command, Greater|Blade Barrier|Power Word Blind|Planar Ally, Greater|Power Word Kill
+DomainWater=Obscuring Mist|Fog Cloud|Water Breathing|Control Water|Ice Storm|Cone of Cold|Elemental Body IV|Horrid Wilting|Elemental Swarm
+DomainWaterIce=Obscuring Mist|Fog Cloud|Water Breathing|Control Water|Ice Storm|Cone of Cold|Freezing Sphere|Horrid Wilting|Polar Ray
+DomainWaterOceans=Obscuring Mist|Slipstream|Water Walk|Control Water|Ice Storm|Cone of Cold|Elemental Body IV|Horrid Wilting|Tsunami
+DomainWeather=Obscuring Mist|Fog Cloud|Call Lightning|Sleet Storm|Ice Storm|Control Winds|Control Weather|Whirlwind|Storm of Vengeance
+DomainWeatherSeasons=Goodberry|Fog Cloud|Call Lightning|Blight|Ice Storm|Control Winds|Control Weather|Sunburst|Storm of Vengeance
+DomainWeatherStorms=Obscuring Mist|Fog Cloud|Call Lightning|Sleet Storm|Call Lightning Storm|Sirocco|Control Weather|Whirlwind|Storm of Vengeance
+
+## CLASS: WITCH
+CreatureClass=Witch
+AttackRate=.5
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
+#SPELLS AVAILABLE
+Spells0=Arcane Mark|Bleed|Dancing Lights|Daze|Detect Magic|Detect Poison|Guidance|Light|Mending|Message|Putrefy Food and Drink|Read Magic|Resistance|Spark|Stabilize|Touch of Fatigue
+Spells1=Beguiling Gift|Burning Hands|Cause Fear|Charm Person|Chill Touch|Command|Comprehend Languages|Cure Light Wounds|Dancing Lantern|Detect Secret Doors|Enlarge Person|Hypnotism|Identify|Ill Omen|Inflict Light Wounds|Mage Armor|Mask Dweomer|Mount|Obscuring Mist|Ray of Enfeeblement|Reduce Person|Sleep|Summon Monster I|Unseen Servant|Infernal Healing|Unbreakable Heart|Bungle|Decompose Corpse|Delusional Pride|Diagnose Disease|Ear-Piercing Scream|Forced Quiet|Frostbite|Fumbletongue|Hex Ward|Icicle Dagger|Interrogation|Ki Arrow|Ray of Sickening|Remove Sickness|Restore Corpse|Sanctify Corpse|Shadow Weapon|Summon Minor Monster|Unprepared Combatant|Vocal Alteration|Youthful Appearance|Air Bubble|Compel Hostility|Damp Powder|Jury-Rig|Lock Gaze|Negative Reaction|Peacebond|Reinforce Armaments|Unerring Weapon|Weaken Powder
+Spells2=Alter Self|Augury|Blindness|Deafness|Burning Gaze|Cure Moderate Wounds|Daze Monster|Death Knell|Delay Poison|Detect Thoughts|Enthrall|False Life|Feast of Ashes|Fester|Find Traps|Fog Cloud|Gentle Repose|Glide|Glitterdust|Hidden Speech|Hold Person|Inflict Moderate Wounds|Levitate|Perceive Cues|Pox Pustules|Scare|See Invisibility|Spectral Hand|Status|Summon Monster II|Summon Swarm|Touch of Idiocy|Vomit Swarm|Web|Zone of Truth|Blood Transcription|Boiling Blood|Delay Pain|Disfiguring Touch|Ghostly Disguise|Haunting Mists|Mad Hallucination|Masterwork Transformation|Miserable Pity|Pernicious Poison|Protective Penumbra|Share Memory|Silk to Steel|Skinsend|Steal Voice|Symbol of Mirroring|Unnatural Lust|Unshakable Chill|Web Shelter|Adoration|Bestow Weapon Proficiency|Destabilize Powder|Frost Fall|Mask Dweomer, Communal|Mount, Communal|Qualm|Recoil Fire|Reinforce Armaments, Communal|Returning Weapon|Stabilize Powder|Thunder Fire
+Spells3=Arcane Sight|Bestow Curse|Clairaudience/Clairvoyance|Cup of Dust|Deep Slumber|Dispel Magic|Fly|Glyph of Warding|Guiding Star|Heroism|Lightning Bolt|Locate Object|Nature's Exile|Pain Strike|Rage|Ray of Exhaustion|Remove Blindness/Deafness|Remove Curse|Remove Disease|Screech|Seek Thoughts|Sepia Snake Sigil|Share Senses|Sleet Storm|Speak with Dead|Stinking Cloud|Suggestion|Summon Monster III|Tongues|Twilight Knife|Vampiric Touch|Water Walk|Harrowing|Lover's Vengeance|Vermin Shape I|Waters of Lamashtu|Anthropomorphic Animal|Ash Storm|Cackling Skull|Countless Eyes|Eldritch Fever|Eruptive Pustules|Excruciating Deformation|Howling Agony|Ki Leech|Loathsome Veil|Marionette Possession|Rain of Frogs|Reckless Infatuation|Sands of Time|Spit Venom|Strangling Hair|Unadulterated Loathing|Vermin Shape I|Vision of Hell|Witness|Delay Poison, Communal|Flash Fire|Healing Thief|Hostile Levitation|Locate Weakness|Pup Shape|Returning Weapon, Communal
+Spells4=Arcane Eye|Black Tentacles|Charm Monster|Confusion|Crushing Despair|Cure Serious Wounds|Death Ward|Detect Scrying|Dimension Door|Discern Lies|Divination|Enervation|Fear|Geas, Lesser|Ice Storm|Inflict Serious Wounds|Locate Creature|Minor Creation|Moonstruck|Neutralize Poison|Phantasmal Killer|Poison|Scrying|Secure Shelter|Sleepwalk|Solid Fog|Spite|Summon Monster IV|Threefold Aspect|Wandering Star Motes|Infernal Healing, Greater|Vermin Shape II|Age Resistance, Lesser|Cape of Wasps||Curse of Magic Negation|Daze, Mass|False Life, Greater|Familiar Melding|Fleshworm Infestation|Ride the Waves|Shadow Step|Symbol of Healing|Symbol of Revelation|Symbol of Slowing|Touch of Slime|Vermin Shape II|Volcanic Storm|Absorb Toxicity|Debilitating Portent|Named Bullet|Tongues, Communal
+Spells5=Baleful Polymorph|Banish Seeming|Blight|Break Enchantment|Cloudkill|Contact Other Plane|Cure Critical Wounds|Dominate Person|Feeblemind|Hold Monster|Inflict Critical Wounds|Magic Jar|Major Creation|Mark of Justice|Mind Fog|Overland Flight|Pain Strike, Mass|Prying Eyes|Reincarnate|Rest Eternal|Secret Chest|Suffocation|Summon Monster V|Symbol of Pain|Symbol of Sleep|Telepathic Bond|Teleport|Waves of Fatigue|Contagion, Greater|Curse, Major|Curse of Disgust|Plague Carrier|Possessed Object|Smug Narcissism|Symbol of Scrying|Hostile Juxtaposition|Summoner Conduit|Symbol of Striking|Wreath of Blades
+Spells6=Analyze Dweomer|Animate Objects|Cloak of Dreams|Cone of Cold|Cure Light Wounds, Mass|Dispel Magic, Greater|Eyebite|Fester, Mass|Find the Path|Flesh to Stone|Geas/Quest|Guards and Wards|Heroism, Greater|Inflict Light Wounds, Mass|Legend Lore|Raise Dead|Slay Living|Stone to Flesh|Suggestion, Mass|Summon Monster VI|Swarm Skin|Symbol of Fear|Symbol of Persuasion|Transformation|True Seeing|Unwilling Shield|Age Resistance|Epidemic|Ice Crystal Teleport|Plague Storm|Symbol of Sealing|Vengeful Outrage|Dust Form|Named Bullet, Greater
+Spells7=Arcane Sight, Greater|Chain Lightning|Control Weather|Cure Moderate Wounds, Mass|Harm|Heal|Hold Person, Mass|Inflict Moderate Wounds, Mass|Insanity|Instant Summons|Phase Door|Plane Shift|Power Word Blind|Regenerate|Scrying, Greater|Summon Monster VII|Symbol of Stunning|Symbol of Weakness|Teleport, Greater|Teleport Object|Vision|Waves of Exhaustion|Vision of Lamashtu|Age Resistance, Greater|Create Demiplane, Lesser|Ice Body|Lunar Veil|Scouring Winds|Temporary Resurrection|Waves of Ecstasy|Hostile Juxtaposition, Greater|Walk through Space
+Spells8=Antipathy|Charm Monster, Mass|Clone|Cure Serious Wounds, Mass|Demand|Destruction|Discern Location|Horrid Wilting|Inflict Serious Wounds, Mass|Irresistible Dance|Maze|Mind Blank|Moment of Prescience|Power Word Stun|Prying Eyes, Greater|Resurrection|Stormbolts|Summon Monster VIII|Symbol of Death|Symbol of Insanity|Sympathy|Trap the Soul|Create Demiplane|Prediction of Failure|Frightful Aspect
+Spells9=Astral Projection|Cure Critical Wounds, Mass|Dominate Monster|Elemental Swarm|Foresight|Hold Monster, Mass|Inflict Critical Wounds, Mass|Power Word Kill|Refuge|Soul Bind|Storm of Vengeance|Suffocation, Mass|Summon Monster IX|Teleportation Circle|Wail of the Banshee|Interplanetary Teleport|Create Demiplane, Greater|Cursed Earth|Symbol of Strife|Symbol of Vulnerability|Polar Midnight|Heroic Invocation|Mind Blank, Communal
+#SPELLS PER DAY
+PerDay1=3|1
+PerDay2=4|2
+PerDay3=4|2|1
+PerDay4=4|3|2
+PerDay5=4|3|2|1
+PerDay6=4|3|3|2
+PerDay7=4|4|3|2|1
+PerDay8=4|4|3|3|2
+PerDay9=4|4|4|3|2|1
+PerDay10=4|4|4|3|3|2
+PerDay11=4|4|4|4|3|2|1
+PerDay12=4|4|4|4|3|3|2
+PerDay13=4|4|4|4|4|3|2|1
+PerDay14=4|4|4|4|4|3|3|2
+PerDay15=4|4|4|4|4|4|3|2|1
+PerDay16=4|4|4|4|4|4|3|3|2
+PerDay17=4|4|4|4|4|4|4|3|2|1
+PerDay18=4|4|4|4|4|4|4|3|3|2
+PerDay19=4|4|4|4|4|4|4|4|3|3
+PerDay20=4|4|4|4|4|4|4|4|4|4
+
+## CLASS: SUMMONER
+CreatureClass=Summoner
+AttackRate=.5
+GoodSaves=Will
+SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
+#SPELLS AVAILABLE
+Spells0=Acid Splash|Arcane Mark|Daze|Detect Magic|Guidance|Light|Mage Hand|Mending|Message|Open/Close|Read Magic|Resistance
+Spells1=Alarm|Ant Haul|Daze Monster|Endure Elements|Enlarge Person|Expeditious Retreat|Feather Fall|Grease|Identify|Jump|Mage Armor|Magic Fang|Magic Mouth|Mount|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Reduce Person|Rejuvenate Eidolon, Lesser|Shield|Summon Monster I|Unfetter|Unseen Servant|Ventriloquism|Infernal Healing|Corrosive Touch|Icicle Dagger|Ray of Sickening|Summon Minor Monster|Compel Hostility|Jury-Rig|Life Conduit
+Spells2=Alter Self|Barkskin|Bear's Endurance|Blur|Bull's Strength|Cat's Grace|Create Pit|Detect Thoughts|Eagle's Splendor|Evolution Surge, Lesser|Fox's Cunning|Glide|Glitterdust|Haste|Invisibility|Levitate|Misdirection|Owl's Wisdom|Phantom Steed|Protection from Arrows|Resist Energy|See Invisibility|Slow|Spider Climb|Summon Eidolon|Summon Monster II|Summon Swarm|Wind Wall|Cushioning Bands|Restore Eidolon, Lesser|Web Shelter|Ablative Barrier|Ant Haul, Communal|Mount, Communal|Protection from Chaos, Communal|Protection from Evil, Communal|Protection from Good, Communal|Protection from Law, Communal|Twisted Space|Warding Weapon
+Spells3=Aqueous Orb|Black Tentacles|Charm Monster|Devolution|Dimension Door|Dimensional Anchor|Dispel Magic|Displacement|Enlarge Person, Mass|Evolution Surge|Fire Shield|Fly|Heroism|Invisibility, Greater|Locate Creature|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Fang, Greater|Minor Creation|Nondetection|Protection from Energy|Rage|Reduce Person, Mass|Rejuvenate Eidolon|Seek Thoughts|Spiked Pit|Stoneskin|Summon Monster IV|Tongues|Wall of Fire|Wall of Ice|Water Breathing|Agonize|Control Summoned Creature|Mad Monkeys|Marionette Possession|Rain of Frogs|Restore Eidolon|Pellet Blast|Life Conduit, Improved|Obsidian Flow|Phantom Chariot|Phantom Steed, Communal|Protection from Arrows, Communal|Resist Energy, Communal|Spider Climb, Communal
+Spells4=Acid Pit|Baleful Polymorph|Bear's Endurance, Mass|Bull's Strength, Mass|Cat's Grace, Mass|Contact Other Plane|Dismissal|Eagle's Splendor, Mass|Evolution Surge, Greater|Fox's Cunning, Mass|Hold Monster|Insect Plague|Mage's Faithful Hound|Magic Jar|Major Creation|Overland Flight|Owl's Wisdom, Mass|Planar Binding, Lesser|Purified Calling|Sending|Summon Monster V|Teleport|Transmogrify|Wall of Stone|Daze, Mass|Vitriolic Mist|Hostile Juxtaposition|Protection from Energy, Communal|Stoneskin, Communal|Summoner Conduit|Tongues, Communal
+Spells5=Banishment|Creeping Doom|Dispel Magic, Greater|Ethereal Jaunt|Heroism, Greater|Hungry Pit|Invisibility, Mass|Planar Adaptation|Planar Binding|Plane Shift|Repulsion|Rejuvenate Eidolon, Greater|Sequester|Simulacrum|Spell Turning|Summon Monster VII|Teleport, Greater|True Seeing|Wall of Iron|Conjure Black Pudding|Create Demiplane, Lesser|Ice Crystal Teleport|Energy Siege Shot|Life Conduit, Greater|Tar Pool|Wreath of Blades
+Spells6=Antipathy|Binding|Charm Monster, Mass|Dimensional Lock|Discern Location|Dominate Monster|Incendiary Cloud|Maze|Planar Adaptation, Mass|Planar Binding, Greater|Protection from Spells|Summon Monster VIII|Sympathy|Teleportation Circle|Create Demiplane|Eagle Aerie|Energy Siege Shot, Greater|Hostile Juxtaposition, Greater|Walk through Space
+#SPELLS PER DAY
+PerDay1=20|1
+PerDay2=20|2
+PerDay3=20|3
+PerDay4=20|3|1
+PerDay5=20|4|2
+PerDay6=20|4|3
+PerDay7=20|4|3|1
+PerDay8=20|4|4|2
+PerDay9=20|5|4|3
+PerDay10=20|5|4|3|1
+PerDay11=20|5|4|4|2
+PerDay12=20|5|5|4|3
+PerDay13=20|5|5|4|3|1
+PerDay14=20|5|5|4|4|2
+PerDay15=20|5|5|5|4|3|
+PerDay16=20|5|5|5|4|3|1
+PerDay17=20|5|5|5|4|4|2
+PerDay18=20|5|5|5|5|4|3
+PerDay19=20|5|5|5|5|5|4
+PerDay20=20|5|5|5|5|5|5
+#SPELLS KNOWN
+Known1=4|2
+Known2=5|3
+Known3=6|3
+Known4=6|4|2
+Known5=6|4|3
+Known6=6|4|4
+Known7=6|5|4|2
+Known8=6|5|4|3
+Known9=6|5|4|4
+Known10=6|5|5|4|2
+Known11=6|6|5|4|3
+Known12=6|6|5|4|4
+Known13=6|6|5|5|4|2
+Known14=6|6|6|5|4|3
+Known15=6|6|6|5|4|4
+Known16=6|6|6|5|5|4|2|
+Known17=6|6|6|6|5|4|3|
+Known18=6|6|6|6|5|4|4|
+Known19=6|6|6|6|5|5|4|
+Known20=6|6|6|6|6|5|5|
+
+
+// Advanced Player's Guide Prestige Classes
+
+
+## CLASS: BATTLE HERALD
+CreatureClass=Battle Herald
+AttackRate=1
+GoodSaves=Fort|Will
+
+## CLASS: HOLY VINDICATOR
+CreatureClass=Holy Vindicator
+AttackRate=1
+GoodSaves=Fort|Will
+
+## CLASS: HORIZON WALKER
+CreatureClass=Horizon Walker
+AttackRate=1
+GoodSaves=Fort
+
+## CLASS: MASTER CHYMIST
+CreatureClass=Master Chymist
+AttackRate=1
+GoodSaves=Fort|Ref
+
+## CLASS: MASTER SPY
+CreatureClass=Master Spy
+AttackRate=.75
+GoodSaves=Ref|Will
+
+## CLASS: NATURE WARDEN
+CreatureClass=Nature Warden
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: RAGE PROPHET
+CreatureClass=Rage Prophet
+AttackRate=.75
+GoodSaves=Fort
+
+## CLASS: STALWART DEFENDER
+CreatureClass=Stalwart Defender
+AttackRate=1
+GoodSaves=Fort|Will
+
+
+// Pathfinder Core Rulebook
+
+
 ## CLASS: BARBARIAN
 CreatureClass=Barbarian
 AttackRate=1
@@ -221,11 +705,6 @@ Known17=6|6|6|6|5|4|3
 Known18=6|6|6|6|5|4|4
 Known19=6|6|6|6|5|5|4
 Known20=6|6|6|6|6|5|5
-
-## CLASS: CAVALIER
-CreatureClass=Cavalier
-AttackRate=1
-GoodSaves=Fort
 
 ## CLASS: CLERIC
 CreatureClass=Cleric
@@ -432,247 +911,15 @@ CreatureClass=Fighter
 AttackRate=1
 GoodSaves=Fort
 
-## CLASS: INQUISITOR
-CreatureClass=Inquisitor
-AttackRate=.75
-GoodSaves=Fort|Will
-SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|WIS
-#SPELLS AVAILABLE
-Spells0=Acid Splash|Bleed|Brand|Create Water|Detect Magic|Detect Poison|Disrupt Undead|Guidance|Light|Read Magic|Resistance|Sift|Stabilize|Virtue|Brand|Sift
-Spells1=Bane|Bless|Bless Water|Cause Fear|Command|Comprehend Languages|Cure Light Wounds|Curse Water|Alarm|Detect Chaos|Detect Evil|Detect Good|Detect Law|Detect Undead|Divine Favor|Doom|Expeditious Retreat|True Strike|Hide from Undead|Inflict Light Wounds|Magic Weapon|Disguise Self|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Remove Fear|Sanctuary|Shield of Faith|Burst Bonds|Tireless Pursuit|Wrath|Gorum's Armor|Ear-Piercing Scream|Forbid Action|Forced Quiet|Hex Ward|Horn of Pursuit|Interrogation|Know the Enemy|Lend Judgment|Persuasive Goad|Sanctify Corpse|Vocal Alteration|Wartrain Mount|Litany of Sloth|Bowstaff|Compel Hostility|Deadeye's Lore|Litany of Weakness|Lock Gaze|Longshot|Peacebond|Returning Weapon|Unerring Weapon|Weapons against Evil
-Spells2=Aid|Align Weapon|Calm Emotions|Consecrate|Detect Thoughts|Cure Moderate Wounds|Darkness|Death Knell|Delay Poison|Desecrate|Enthrall|Find Traps|Hold Person|Inflict Moderate Wounds|Knock|See Invisibility|Remove Paralysis|Resist Energy|Restoration, Lesser|Shield Other|Silence|Spiritual Weapon|Invisibility|Tongues|Undetectable Alignment|Zone of Truth|Whispering Wind|Bloodhound|Castigate|Confess|Corruption Resistance|Flames of the Faithful|Follow Aura|Ghostbane Dirge|Honeyed Tongue|Perceive Cues|Sacred Bond|Weapon of Awe|Acute Senses|Delay Pain|Disguise Other|Distressing Tone|Ghostly Disguise|Howling Agony|Surmount Affliction|Bestow Weapon Proficiency|Blistering Invective|Brow Gasher|Discovery Torch|Effortless Armor|Instrument of Agony|Litany of Defense|Magic Siege Engine|Protection from Chaos, Communal|Protection from Evil, Communal|Protection from Good, Communal|Protection from Law, Communal|Qualm|Returning Weapon, Communal|Tactical Acumen
-Spells3=Arcane Sight|Continual Flame|Cure Serious Wounds|Daylight|Deeper Darkness|Dimensional Anchor|Dispel Magic|Glyph of Warding|Halt Undead|Heroism|Inflict Serious Wounds|Invisibility Purge|Keen Edge|Locate Object|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Vestment|Magic Weapon, Greater|Nondetection|Obscure Object|Prayer|Protection from Energy|Remove Curse|Remove Disease|Searing Light|Speak with Dead|Banish Seeming|Blood Biography|Cast Out|Coordinated Effort|Fester|Hidden Speech|Hunter's Eye|Retribution|Righteous Vigor|Seek Thoughts|Ward the Faithful|Blessing of the Mole|Countless Eyes|Eldritch Fever|Terrible Remorse|Witness|Burst of Speed|Daybreak Arrow|Deadly Juggernaut|Delay Poison, Communal|Litany of Eloquence|Litany of Entanglement|Litany of Righteousness|Litany of Warding|Locate Weakness|Resist Energy, Communal
-Spells4=Chaos Hammer|Cure Critical Wounds|Death Ward|Detect Scrying|Discern Lies|Dismissal|Divination|Divine Power|Fear|Freedom of Movement|Geas, Lesser|Hold Monster|Holy Smite|Inflict Critical Wounds|Magic Weapon, Greater|Invisibility, Greater|Neutralize Poison|Order's Wrath|Restoration|Sending|Spell Immunity|Stoneskin|Unholy Blight|Brand, Greater|Coward's Lament|Defile Armor|Denounce|Forced Repentance|Rebuke|Sanctify Armor|Shared Wrath|Sleepwalk|Tireless Pursuers|Battlemind Link|Curse of Magic Negation|Daze, Mass|Fleshworm Infestation|Interrogation, Greater|Leashed Shackles|Reprobation|Find Quarry|Judgment Light|Litany of Escape|Litany of Sight|Magic Siege Engine, Greater|Named Bullet|Protection from Energy, Communal
-Spells5=Atonement|Banishment|Break Enchantment|Command, Greater|Commune|Cure Light Wounds, Mass|Dispel Chaos|Dispel Evil|Dispel Good|Dispel Law|Disrupting Weapon|Geas/Quest|Hallow|Inflict Light Wounds, Mass|Mark of Justice|Righteous Might|Spell Resistance|Telepathic Bond|True Seeing|Flame Strike|Unhallow|Castigate, Mass|Ghostbane Dirge, Mass|Resounding Blow|Unwilling Shield|Divine Pursuit|Forbid Action, Greater|Lend Judgment, Greater|Litany of Thunder|Litany of Vengeance|Spell Immunity, Communal|Stoneskin, Communal
-Spells6=Blade Barrier|Blasphemy|Circle of Death|Cure Moderate Wounds, Mass|Dictum|Dispel Magic, Greater|Find the Path|Forbiddance|Glyph of Warding, Greater|Harm|Heal|Heroes' Feast|Inflict Moderate Wounds, Mass|Legend Lore|Repulsion|Undeath to Death|Word of Chaos|Cleanse|Fester, Mass|Vision of Lamashtu|Overwhelming Presence|Litany of Madness|Named Bullet, Greater
-#SPELLS PER DAY
-PerDay1=20|1
-PerDay2=20|2
-PerDay3=20|3
-PerDay4=20|3|1
-PerDay5=20|4|2
-PerDay6=20|4|3|
-PerDay7=20|4|3|1
-PerDay8=20|4|4|2
-PerDay9=20|5|4|3
-PerDay10=20|5|4|3|1
-PerDay11=20|5|4|4|2
-PerDay12=20|5|5|4|3|
-PerDay13=20|5|5|4|3|1
-PerDay14=20|5|5|4|4|2
-PerDay15=20|5|5|5|4|3
-PerDay16=20|5|5|5|4|3|1
-PerDay17=20|5|5|5|4|4|2
-PerDay18=20|5|5|5|5|4|3
-PerDay19=20|5|5|5|5|5|4
-PerDay20=20|5|5|5|5|5|5
-#SPELLS KNOWN
-Known1=4|2
-Known2=5|3
-Known3=6|4
-Known4=6|4|2
-Known5=6|4|3
-Known6=6|4|4
-Known7=6|5|4|2
-Known8=6|5|4|3
-Known9=6|5|4|4
-Known10=6|5|5|4|2
-Known11=6|6|5|4|3
-Known12=6|6|5|4|4
-Known13=6|6|5|5|4|2
-Known14=6|6|6|5|4|3
-Known15=6|6|6|5|4|4
-Known16=6|6|6|5|5|4|2
-Known17=6|6|6|6|5|4|3
-Known18=6|6|6|6|5|4|4
-Known19=6|6|6|6|5|5|4
-Known20=6|6|6|6|6|5|5
-#DOMAINS
-DomainAir=Obscuring Mist|Wind Wall|Gaseous Form|Airwalk|Control Winds|Chain Lightning|Elemental Body IV|Whirlwind|Elemental Swarm
-DomainAirCloud=Obscuring Mist|Wind Wall|Gaseous Form|Solid Fog|Control Winds|Chain Lightning|Elemental Body IV|Whirlwind|Storm of Vengeance
-DomainAirWind=Whispering Wind|Wind Wall|Gaseous Form|Airwalk|Control Winds|Wind Walk|Elemental Body IV|Whirlwind|Winds of Vengeance
-DomainAnimal=Calm Animals|Hold Animal|Dominate Animal|Summon Nature's Ally IV|Beast Shape III|Antilife Shell|Animal Shapes|Summon Nature's Ally VIII|Shapechange
-DomainAnimalFeather=Calm Animals|Feather Fall|Fly|Summon Nature's Ally IV|Beast Shape III|Fly, Mass|Animal Shapes|Summon Nature's Ally VIII|Shapechange
-DomainAnimalFur=Magic Fang|Hold Animal|Beast Shape I|Summon Nature's Ally IV|Beast Shape III|Antilife Shell|Animal Shapes|Summon Nature's Ally VIII|Shapechange
-DomainArtifice=Animate Rope|Wood Shape|Stone Shape|Minor Creation|Fabricate|Major Creation|Wall of Iron|Instant Summons|Prismatic Sphere
-DomainArtificeConstruct=Animate Rope|Wood Shape|Stone Shape|Minor Creation|Fabricate|Major Creation|Limited Wish|Polymorph Any Object|Prismatic Sphere
-DomainArtificeToil=Command|Wood Shape|Stone Shape|Minor Creation|Waves of Fatigue|Major Creation|Waves of Exhaustion|Instant Summons|Prismatic Sphere
-DomainChaos=Protection from Law|Align Weapon|Magic Circle against Law|Chaos Hammer|Dispel Law|Animate Objects|Word of Chaos|Cloak of Chaos|Summon Monster IX
-DomainChaosAzata=Expeditious Retreat|Align Weapon|Fly|Chaos Hammer|Dispel Law|Planar Ally|Word of Chaos|Cloak of Chaos|Summon Monster IX
-DomainChaosDemon=Doom|Align Weapon|Rage|Chaos Hammer|Dispel Law|Planar Binding|Word of Chaos|Cloak of Chaos|Summon Monster IX
-DomainChaosProtean=Confusion, Lesser|Align Weapon|Displacement|Chaos Hammer|Dispel Law|Planar Binding|Word of Chaos|Cloak of Chaos|Summon Monster IX
-DomainCharm=Charm Person|Calm Emotions|Suggestion|Heroism|Charm Monster|Geas/Quest|Insanity|Demand|Dominate Monster
-DomainCharmLove=Charm Person|Enthrall|Suggestion|Heroism|Charm Monster|Geas/Quest|Insanity|Euphoric Tranquility|Dominate Monster
-DomainCharmLust=Charm Person|Touch of Idiocy|Suggestion|Confusion|Charm Monster|Geas/Quest|Insanity|Demand|Dominate Monster
-DomainCommunity=Bless|Shield Other|Prayer|Status|Telepathic Bond|Heroes' Feast|Refuge|Cure Critical Wounds, Mass|Miracle
-DomainCommunityFamily=Bless|Calm Emotions|Create Food and Water|Status|Telepathic Bond|Heroes' Feast|Refuge|Cure Critical Wounds, Mass|Miracle
-DomainCommunityHome=Alarm|Shield Other|Glyph of Warding|Status|Telepathic Bond|Heroes' Feast|Guards and Wards|Cure Critical Wounds, Mass|Miracle
-DomainDarkness=Obscuring Mist|Blindness/Deafness|Deeper Darkness|Shadow Conjuration|Summon Monster V|Shadow Walk|Power Word Blind|Shadow Evocation, Greater|Shades
-DomainDarknessLoss=Obscuring Mist|Blindness/Deafness|Deeper Darkness|Shadow Conjuration|Enervation|Modify Memory|Power Word Blind|Shadow Evocation, Greater|Energy Drain
-DomainDeath=Cause Fear|Death Knell|Animate Dead|Death Ward|Slay Living|Create Undead|Destruction|Create Greater Undead|Wail of the Banshee
-DomainDeathMurder=Cause Fear|Death Knell|Keen Edge|Death Ward|Suffocation|Create Undead|Destruction|Create Greater Undead|Suffocation, Mass
-DomainDeathUndead=Cause Fear|Ghoul Touch|Animate Dead|Enervation|Slay Living|Create Undead|Destruction|Create Greater Undead|Energy Drain
-DomainDestruction=True Strike|Shatter|Rage|Inflict Critical Wounds|Shout|Harm|Disintegrate|Earthquake|Implosion
-DomainDestructionCatastrophe=True Strike|Gust of Wind|Call Lightning|Inflict Critical Wounds|Shout|Harm|Control Weather|Earthquake|Implosion
-DomainDestructionRage=True Strike|Bull's Strength|Rage|Inflict Critical Wounds|Shout|Moonstruck|Disintegrate|Earthquake|Implosion
-DomainEarth=Magic Stone|Soften Earth and Stone|Stone Shape|Spike Stones|Wall of Stone|Stoneskin|Elemental Body IV|Earthquake|Elemental Swarm
-DomainEarthCaves=Magic Stone|Create Pit|Spiked Pit|Spike Stones|Wall of Stone|Hungry Pit|Elemental Body IV|Earthquake|Elemental Swarm
-DomainEarthMental=Magic Stone|Heat Metal|Stone Shape|Spike Stones|Wall of Stone|Wall of Iron|Elemental Body IV|Iron Body|Elemental Swarm
-DomainEvil=Protection from Good|Align Weapon|Magic Circle against Good|Unholy Blight|Dispel Good|Create Undead|Blasphemy|Unholy Aura|Summon Monster IX
-DomainEvilDemon=Doom|Align Weapon|Rage|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
-DomainEvilDaemon=Cause Fear|Align Weapon|Vampiric Touch|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
-DomainEvilDevil=Command|Align Weapon|Suggestion|Unholy Blight|Dispel Good|Planar Binding|Blasphemy|Unholy Aura|Summon Monster IX
-DomainFire=Burning Hands|Produce Flame|Fireball|Wall of Fire|Fire Shield|Fire Seeds|Elemental Body IV|Incendiary Cloud|Elemental Swarm
-DomainFireAsh=Burning Hands|Produce Flame|Fireball|Wall of Fire|Fire Shield|Fire Seeds|Disintegrate|Incendiary Cloud|Fiery Body
-DomainFireSmoke=Burning Hands|Pyrotechnics|Stinking Cloud|Wall of Fire|Fire Shield|Fire Seeds|Elemental Body IV|Incendiary Cloud|Elemental Swarm
-DomainGlory=Shield of Faith|Bless Weapon|Searing Light|Holy Smite|Righteous Might|Undeath to Death|Holy Sword|Holy Aura|Gate
-DomainGloryHeroism=Shield of Faith|Bless Weapon|Heroism|Holy Smite|Righteous Might|Heroism, Greater|Holy Sword|Holy Aura|Gate
-DomainGloryHonor=Shield of Faith|Zone of Truth|Searing Light|Holy Smite|Righteous Might|Geas/Quest|Holy Sword|Holy Aura|Gate
-DomainGood=Protection from Evil|Align Weapon|Magic Circle against Evil|Holy Smite|Dispel Evil|Blade Barrier|Holy Word|Holy Aura|Summon Monster IX
-DomainGoodAgathion=Shield of Faith|Align Weapon|Tongues|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
-DomainGoodArchon=Divine Favor|Align Weapon|Prayer|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
-DomainGoodAzata=Expeditious Retreat|Align Weapon|Fly|Holy Smite|Dispel Evil|Planar Ally|Holy Word|Holy Aura|Summon Monster IX
-DomainHealing=Cure Light Wounds|Cure Moderate Wounds|Cure Serious Wounds|Cure Critical Wounds|Breath of Life|Heal|Regenerate|Cure Critical Wounds, Mass|Heal, Mass
-DomainHealingRestoration=Cure Light Wounds|Remove Disease|Cure Serious Wounds|Neutralize Poison|Break Enchantment|Heal|Regenerate|Cure Critical Wounds, Mass|Heal, Mass
-DomainHealingResurrection=Cure Light Wounds|Cure Moderate Wounds|Cure Serious Wounds|Cure Critical Wounds|Raise Dead|Heal|Resurrection|Cure Critical Wounds, Mass|True Resurrection
-DomainKnowledge=Comprehend Languages|Detect Thoughts|Speak with Dead|Divination|True Seeing|Find the Path|Legend Lore|Discern Location|Foresight
-DomainKnowledgeMemory=Comprehend Languages|Memory Lapse|Speak with Dead|Divination|True Seeing|Modify Memory|Legend Lore|Moment of Prescience|Foresight
-DomainKnowledgeThought=Comprehend Languages|Detect Thoughts|Seek Thoughts|Divination|Telepathic Bond|Find the Path|Legend Lore|Mind Blank|Foresight
-DomainLaw=Protection from Chaos|Align Weapon|Magic Circle against Chaos|Order's Wrath|Dispel Chaos|Hold Monster|Dictum|Shield of Law|Summon Monster IX
-DomainLawArchon=Divine Favor|Align Weapon|Prayer|Order's Wrath|Dispel Chaos|Planar Ally|Dictum|Shield of Law|Summon Monster IX
-DomainLawDevil=Command|Align Weapon|Suggestion|Order's Wrath|Dispel Chaos|Planar Binding|Dictum|Shield of Law|Summon Monster IX
-DomainLawInevitable=Protection from Chaos|Align Weapon|Command Undead|Order's Wrath|Command, Greater|Planar Binding|Dictum|Shield of Law|Summon Monster IX
-DomainLiberation=Remove Fear|Remove Paralysis|Remove Curse|Freedom of Movement|Break Enchantment|Dispel Magic, Greater|Refuge|Mind Blank|Freedom
-DomainLiberationFreedom=Sanctuary|Remove Paralysis|Remove Curse|Freedom of Movement|Plane Shift|Dispel Magic, Greater|Refuge|Mind Blank|Freedom
-DomainLiberationRevolution=Remove Fear|Enthrall|Remove Curse|Freedom of Movement|Break Enchantment|Symbol of Persuasion|Refuge|Mind Blank|Freedom
-DomainLuck=True Strike|Aid|Protection from Energy|Freedom of Movement|Break Enchantment|Mislead|Spell Turning|Moment of Prescience|Miracle
-DomainLuckCurse=Bane|Aid|Bestow Curse|Freedom of Movement|Break Enchantment|Eyebite|Spell Turning|Moment of Prescience|Miracle
-DomainLuckFate=True Strike|Augury|Borrow Fortune|Freedom of Movement|Break Enchantment|Mislead|Spell Turning|Moment of Prescience|Miracle
-DomainMadness=Confusion, Lesser|Touch of Idiocy|Rage|Confusion|Nightmare|Phantasmal Killer|Insanity|Scintillating Pattern|Weird
-DomainMadnessInsanity=Confusion, Lesser|Touch of Idiocy|Rage|Moonstruck|Nightmare|Phantasmal Web|Insanity|Scintillating Pattern|Weird
-DomainMadnessNightmare=Confusion, Lesser|Touch of Idiocy|Rage|Phantasmal Killer|Nightmare|Cloak of Dreams|Insanity|Scintillating Pattern|Weird
-DomainMagic=Identify|Magic Mouth|Dispel Magic|Imbue with Spell Ability|Spell Resistance|Antimagic Field|Spell Turning|Protection from Spells|Mage's Disjunction
-DomainMagicArcane=Magic Aura|Magic Mouth|Dispel Magic|Arcane Eye|Spell Resistance|Analyze Dweomer|Spell Turning|Protection from Spells|Mage's Disjunction
-DomainMagicDivine=Identify|Bless Water|Dispel Magic|Imbue with Spell Ability|Cleanse|Antimagic Field|Resurrection|Protection from Spells|Miracle
-DomainNobility=Divine Favor|Enthrall|Magic Vestment|Discern Lies|Command, Greater|Geas/Quest|Repulsion|Demand|Storm of Vengeance
-DomainNobilityLeadership=Bless|Enthrall|Prayer|Discern Lies|Command, Greater|Brilliant Inspiration|Repulsion|Demand|Storm of Vengeance
-DomainNobilityMartyr=Divine Favor|Shield Other|Magic Vestment|Discern Lies|Command, Greater|Sacrificial Oath|Repulsion|Demand|Storm of Vengeance
-DomainPlant=Entangle|Barkskin|Plant Growth|Command Plants|Wall of Thorns|Repel Wood|Animate Plants|Control Plants|Shambler
-DomainPlantDecay=Entangle|Barkskin|Contagion|Poison|Wall of Thorns|Harm|Animate Plants|Control Plants|Shambler
-DomainPlantGrowth=Enlarge Person|Barkskin|Plant Growth|Command Plants|Righteous Might|Repel Wood|Animate Plants|Control Plants|Shambler
-DomainProtection=Sanctuary|Shield Other|Protection from Energy|Spell Immunity|Spell Resistance|Antimagic Field|Repulsion|Mind Blank|Prismatic Sphere
-DomainProtectionDefense=Shield|Barkskin|Protection from Energy|Spell Immunity|Spell Resistance|Antimagic Field|Deflection|Mind Blank|Prismatic Sphere
-DomainProtectionPurity=Protection from Chaos/Evil/Good/Law|Shield Other|Atonement|Spell Immunity|Spell Resistance|Antimagic Field|Repulsion|Mind Blank|Prismatic Sphere
-DomainRepose=Deathwatch|Gentle Repose|Speak with Dead|Death Ward|Slay Living|Undeath to Death|Destruction|Waves of Exhaustion|Wail of the Banshee
-DomainReposeAncestors=Deathwatch|Gentle Repose|Speak with Dead|Rest Eternal|Slay Living|Geas/Quest|Destruction|Waves of Exhaustion|Wail of the Banshee
-DomainReposeSouls=Deathwatch|Gentle Repose|Animate Dead|Death Ward|Slay Living|Antilife Shell|Destruction|Waves of Exhaustion|Trap the Soul
-DomainReposeSoulsPharasma=Deathwatch|Gentle Repose|Speak with Dead|Death Ward|Slay Living|Antilife Shell|Destruction|Waves of Exhaustion|Trap the Soul
-DomainRune=Erase|Secret Page|Glyph of Warding|Explosive Runes|Planner Binding, Lesser|Glyph of Warding, Greater|Instant Summons|Symbol of Death|Teleportation Circle
-DomainRuneLanguage=Comprehend Languages|Share Language|Tongues|Explosive Runes|Telepathic Bond|Glyph of Warding, Greater|Instant Summons|Symbol of Death|Teleportation Circle
-DomainRuneWards=Arcane Lock|Secret Page|Glyph of Warding|Dimensional Anchor|Planner Binding, Lesser|Guards and Wards|Instant Summons|Symbol of Death|Teleportation Circle
-DomainStrength=Enlarge Person|Bull's Strength|Magic Vestment|Spell Immunity|Righteous Might|Stoneskin|Grasping Hand|Clenched Fist|Crushing Hand
-DomainStrengthFerocity=Enlarge Person|Bull's Strength|Rage|Spell Immunity|Righteous Might|Bull's Strength, Mass|Grasping Hand|Clenched Fist|Crushing Hand
-DomainStrengthResolve=Bless|Bull's Strength|Magic Vestment|Spell Immunity|Righteous Might|Heroes' Feast|Grasping Hand|Clenched Fist|Crushing Hand
-DomainSun=Endure Elements|Heat Metal|Searing Light|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
-DomainSunDay=Endure Elements|Continual Flame|Daylight|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
-DomainSunLight=Faerie Fire|Heat Metal|Daylight|Fire Shield|Flame Strike|Fire Seeds|Sunbeam|Sunburst|Prismatic Sphere
-DomainTravel=Longstrider|Locate Object|Fly|Dimension Door|Teleport|Find the Path|Teleport, Greater|Phase Door|Astral Projection
-DomainTravelExploration=Expeditious Retreat|Locate Object|Fly|Locate Creature|Teleport|Find the Path|Teleport, Greater|Phase Door|World Wave
-DomainTravelTrade=Floating Disk|Locate Object|Fly|Dimension Door|Overland Flight|Find the Path|Teleport, Greater|Phase Door|Gate
-DomainTrickery=Disguise Self|Invisibility|Nondetection|Confusion|False Vision|Mislead|Screen|Invisibility, Mass|Time Stop
-DomainTrickeryDeception=Disguise Self|Mirror Image|Nondetection|Confusion|False Vision|Mislead|Project Image|Invisibility, Mass|Time Stop
-DomainTrickeryThievery=Disguise Self|Invisibility|Locate Object|Confusion|False Vision|Mislead|Ethereal Jaunt|Invisibility, Mass|Time Stop
-DomainWar=Magic Weapon|Spiritual Weapon|Magic Vestment|Divine Power|Flame Strike|Blade Barrier|Power Word Blind|Power Word Stun|Power Word Kill
-DomainWarBlood=Magic Weapon|Spiritual Weapon|Vampiric Touch|Divine Power|Wall of Thorns|Blade Barrier|Inflict Serious Wounds, Mass|Power Word Stun|Power Word Kill
-DomainWarTactics=Magic Weapon|Aid|Magic Vestment|Divine Power|Command, Greater|Blade Barrier|Power Word Blind|Planar Ally, Greater|Power Word Kill
-DomainWater=Obscuring Mist|Fog Cloud|Water Breathing|Control Water|Ice Storm|Cone of Cold|Elemental Body IV|Horrid Wilting|Elemental Swarm
-DomainWaterIce=Obscuring Mist|Fog Cloud|Water Breathing|Control Water|Ice Storm|Cone of Cold|Freezing Sphere|Horrid Wilting|Polar Ray
-DomainWaterOceans=Obscuring Mist|Slipstream|Water Walk|Control Water|Ice Storm|Cone of Cold|Elemental Body IV|Horrid Wilting|Tsunami
-DomainWeather=Obscuring Mist|Fog Cloud|Call Lightning|Sleet Storm|Ice Storm|Control Winds|Control Weather|Whirlwind|Storm of Vengeance
-DomainWeatherSeasons=Goodberry|Fog Cloud|Call Lightning|Blight|Ice Storm|Control Winds|Control Weather|Sunburst|Storm of Vengeance
-DomainWeatherStorms=Obscuring Mist|Fog Cloud|Call Lightning|Sleet Storm|Call Lightning Storm|Sirocco|Control Weather|Whirlwind|Storm of Vengeance
-
 ## CLASS: MONK
 CreatureClass=Monk
 AttackRate=.75
 GoodSaves=Fort|Ref|Will
 
-## CLASS: ORACLE
-CreatureClass=Oracle
-AttackRate=.75
-GoodSaves=Will
-SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
-#SPELLS AVAILABLE
-Spells0=Bleed|Create Water|Detect Magic|Detect Poison|Guidance|Light|Mending|Purify Food and Drink|Read Magic|Resistance|Stabilize|Virtue|Spark
-Spells1=Bane|Bless|Bless Water|Cause Fear|Command|Comprehend Languages|Cure Light Wounds|Curse Water|Deathwatch|Detect Chaos|Detect Evil|Detect Good|Detect Law|Detect Undead|Divine Favor|Doom|Endure Elements|Entropic Shield|Hide from Undead|Inflict Light Wounds|Magic Stone|Magic Weapon|Obscuring Mist|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Remove Fear|Sanctuary|Shield of Faith|Summon Monster I|Gorum's Armor|Unbreakable Heart|Weapons against Evil
-Spells2=Aid|Align Weapon|Augury|Bear's Endurance|Bull's Strength|Calm Emotions|Consecrate|Cure Moderate Wounds|Darkness|Death Knell|Delay Poison|Desecrate|Eagle's Splendor|Enthrall|Find Traps|Gentle Repose|Hold Person|Inflict Moderate Wounds|Make Whole|Owl's Wisdom|Remove Paralysis|Resist Energy|Restoration, Lesser|Shatter|Shield Other|Silence|Sound Burst|Spiritual Weapon|Status|Summon Monster II|Undetectable Alignment|Zone of Truth|Grace
-Spells3=Animate Dead|Bestow Curse|Blindness/Deafness|Contagion|Continual Flame|Create Food and Water|Cure Serious Wounds|Daylight|Deeper Darkness|Dispel Magic|Glyph of Warding|Helping Hand|Inflict Serious Wounds|Invisibility Purge|Locate Object|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Vestment|Meld into Stone|Obscure Object|Prayer|Protection from Energy|Remove Blindness/Deafness|Remove Curse|Remove Disease|Searing Light|Speak with Dead|Stone Shape|Summon Monster III|Water Breathing|Water Walk|Wind Wall|Lover's Vengeance|Borrow Fortune|Summon Ancestral Guardian
-Spells4=Airwalk|Chaos Hammer|Control Water|Cure Critical Wounds|Death Ward|Dimensional Anchor|Discern Lies|Dismissal|Divination|Divine Power|Freedom of Movement|Giant Vermin|Holy Smite|Imbue with Spell Ability|Inflict Critical Wounds|Magic Weapon, Greater|Neutralize Poison|Order's Wrath|Planar Ally, Lesser|Poison|Repel Vermin|Restoration|Sending|Spell Immunity|Summon Monster IV|Tongues|Unholy Blight|Shield of the Dawnflower|Aura of Doom|Mighty Strength
-Spells5=Atonement|Break Enchantment|Breath of Life|Command, Greater|Commune|Cure Light Wounds, Mass|Dispel Chaos|Dispel Evil|Dispel Good|Dispel Law|Disrupting Weapon|Flame Strike|Hallow|Inflict Light Wounds, Mass|Insect Plague|Mark of Justice|Plane Shift|Raise Dead|Righteous Might|Scrying|Slay Living|Spell Resistance|Summon Monster V|Symbol of Pain|Symbol of Sleep|True Seeing|Unhallow|Wall of Stone|Ancestral Memory
-Spells6=Animate Objects|Antilife Shell|Banishment|Bear's Endurance, Mass|Blade Barrier|Bull's Strength, Mass|Create Undead|Cure Moderate Wounds, Mass|Dispel Magic, Greater|Eagle's Splendor, Mass|Find the Path|Forbiddance|Geas/Quest|Glyph of Warding, Greater|Harm|Heal|Heroes' Feast|Inflict Moderate Wounds, Mass|Owl's Wisdom, Mass|Planar Ally|Summon Monster VI|Symbol of Fear|Symbol of Persuasion|Undeath to Death|Wind Walk|Word of Recall
-Spells7=Blasphemy|Control Weather|Cure Serious Wounds, Mass|Destruction|Dictum|Ethereal Jaunt|Holy Word|Inflict Serious Wounds, Mass|Refuge|Regenerate|Repulsion|Restoration, Greater|Resurrection|Scrying, Greater|Summon Monster VII|Symbol of Stunning|Symbol of Weakness|Word of Chaos|Vision of Lamashtu
-Spells8=Antimagic Field|Cloak of Chaos|Create Greater Undead|Cure Critical Wounds, Mass|Dimensional Lock|Discern Location|Earthquake|Fire Storm|Holy Aura|Planar Ally, Greater|Inflict Critical Wounds, Mass|Shield of Law|Spell Immunity, Greater|Summon Monster VIII|Symbol of Death|Symbol of Insanity|Unholy Aura
-Spells9=Astral Projection|Energy Drain|Etherealness|Gate|Heal, Mass|Implosion|Miracle|Soul Bind|Storm of Vengeance|Summon Monster IX|True Resurrection|Interplanetary Teleport
-#SPELLS PER DAY
-PerDay1=20|3
-PerDay2=20|4
-PerDay3=20|5
-PerDay4=20|6|3
-PerDay5=20|6|4
-PerDay6=20|6|5|3
-PerDay7=20|6|6|4
-PerDay8=20|6|6|5|3
-PerDay9=20|6|6|6|4
-PerDay10=20|6|6|6|5|3
-PerDay11=20|6|6|6|6|4
-PerDay12=20|6|6|6|6|5|3
-PerDay13=20|6|6|6|6|6|4
-PerDay14=20|6|6|6|6|6|5|3
-PerDay15=20|6|6|6|6|6|6|4
-PerDay16=20|6|6|6|6|6|6|5|3
-PerDay17=20|6|6|6|6|6|6|6|4
-PerDay18=20|6|6|6|6|6|6|6|5|3
-PerDay19=20|6|6|6|6|6|6|6|6|4
-PerDay20=20|6|6|6|6|6|6|6|6|6
-#SPELLS KNOWN
-Known1=4|2
-Known2=5|1
-Known3=5|3
-Known4=6|3|1
-Known5=6|4|2
-Known6=7|4|2|1
-Known7=7|5|3|2
-Known8=8|5|3|2|1
-Known9=8|5|4|3|2
-Known10=9|5|4|3|2|1
-Known11=9|5|5|4|3|2
-Known12=9|5|5|4|3|2|1
-Known13=9|5|5|4|4|3|2
-Known14=9|5|5|4|4|3|2|1
-Known15=9|5|5|4|4|4|3|2
-Known16=9|5|5|4|4|4|3|2|1
-Known17=9|5|5|4|4|4|3|3|2
-Known18=9|5|5|4|4|4|3|3|2|1
-Known19=9|5|5|4|4|4|3|3|3|2
-Known20=9|5|5|4|4|4|3|3|3|3
-#DOMAINS
-DomainBattle=Enlarge Person|Fog Cloud|Magic Vestment|Wall of Fire|Righteous Might|Buss's Strength, Mass|Control Weather|Earthquake|Storm of Vengeance
-DomainBones=Cause Fear|False Life|Animate Dead|Fear|Slay Living|Circle of Death|Control Undead|Horrid Wilting|Wail of the Banshee
-DomainFlame=Burning Hands|Resist Energy|Fireball|Wall of Fire|Summon Monster V|Fire Seeds|Fire Storm|Incendiary Cloud|Fiery Body
-DomainHeavens=Color Spray|Hypnotic Pattern|Daylight|Rainbow Pattern|Overland Flight|Chain Lightning|Prismatic Spray|Sunburst|Meteor Swarm
-DomainLife=Detect Undead|Restoration, Lesser|Neutralize Poison|Restoration|Breath of Life|Heal|Restoration, Greater|Cure Critical Wounds, Mass|Heal, Mass
-DomainLore=Identify|Tongues|Locate Object|Legend Lore|Contact Other Plane|Owl's Wisdom, Mass|Vision|Moment of Prescience|Time Stop
-DomainNature=Charm Animal|Barkskin|Speak with Plants|Grove of Respite|Awaken|Stone Tell|Creeping Doom|Animal Shapes|World Wave
-DomainStone=Magic Stone|Stone Call|Meld into Stone|Wall of Stone|Stoneskin|Stone Tell|Statue|Repel Metal or Stone|Clashing Rocks
-DomainWaves=Touch of the Sea|Slipstream|Water Breathing|Wall of Ice|Geyser|Fluid Form|Vortex|Seamantle|Tsunami
-DomainWind=Alter Winds|Gust of Wind|Cloak of Winds|River of Wind|Control Winds|Sirocco|Control Weather|Whirlwind|Winds of Vengeance
-
-
-
 ## CLASS: PALADIN
 CreatureClass=Paladin
 AttackRate=1
-GoodSaves=Fort,Will
+GoodSaves=Fort|Will
 SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Druid|WIS
 #SPELLS AVAILABLE
 Spells1=Bless|Bless Water|Bless Weapon|Create Water|Cure Light Wounds|Detect Poison|Detect Undead|Divine Favor|Endure Elements|Magic Weapon|Protection from Chaos|Protection from Evil|Read Magic|Resistance|Restoration, Lesser|Virtue|Challenge Evil|Ghostbane Dirge|Grace|Hero's Defiance|Honeyed Tongue|Knight's Calling|Rally Point|Veil of Positive Energy|Unbreakable Heart|Diagnose Disease|Horn of Pursuit|Know the Enemy|Sanctify Corpse|Wartrain Mount|Word of Resolve|Bowstaff|Compel Hostility|Liberating Command|Litany of Sloth|Longshot|Sun Metal|Tactical Acumen|Weapons against Evil|Iron Beard
@@ -683,7 +930,7 @@ Spells4=Break Enchantment|Cure Serious Wounds|Death Ward|Dispel Chaos|Dispel Evi
 PerDay4=-|0
 PerDay5=-|1
 PerDay6=-|1
-PerDay7=-|1
+PerDay7=-|1|0
 PerDay8=-|1|1
 PerDay9=-|2|1
 PerDay10=-|2|1|0
@@ -701,7 +948,7 @@ PerDay20=-|4|4|3|3
 ## CLASS: RANGER
 CreatureClass=Ranger
 AttackRate=1
-GoodSaves=Fort, Ref
+GoodSaves=Fort|Ref
 SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Druid|WIS
 #SPELLS AVAILABLE
 Spells1=Alarm|Animal Messenger|Calm Animals|Charm Animal|Delay Poison|Detect Animals or Plants|Detect Poison|Detect Snares and Pits|Endure Elements|Entangle|Hide from Animals|Jump|Longstrider|Magic Fang|Pass without Trace|Read Magic|Resist Energy|Speak with Animals|Summon Nature's Ally I|Ant Haul|Aspect of the Falcon|Call Animal|Cloak of Shade|Dancing Lantern|Detect Aberration|Feather Step|Glide|Gravity Bow|Hunter's Howl|Keen Senses|Lead Blades|Negate Aroma|Residual Tracking|Tireless Pursuit|Unbreakable Heart|Anticipate Peril|Diagnose Disease|Horn of Pursuit|Know the Enemy|Summon Minor Ally|Wartrain Mount|Abundant Ammunition|Air Bubble|Bowstaff|Compel Hostility|Deadeye's Lore|Liberating Command|Longshot|Returning Weapon|Sun Metal
@@ -909,100 +1156,6 @@ Known18=9|5|5|4|4|4|3|3|2|1
 Known19=9|5|5|4|4|4|3|3|3|2
 Known20=9|5|5|4|4|4|3|3|3|3
 
-## CLASS: SUMMONER
-CreatureClass=Summoner
-AttackRate=.5
-GoodSaves=Will
-SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Sorceror|CHA
-#SPELLS AVAILABLE
-Spells0=Acid Splash|Arcane Mark|Daze|Detect Magic|Guidance|Light|Mage Hand|Mending|Message|Open/Close|Read Magic|Resistance
-Spells1=Alarm|Ant Haul|Daze Monster|Endure Elements|Enlarge Person|Expeditious Retreat|Feather Fall|Grease|Identify|Jump|Mage Armor|Magic Fang|Magic Mouth|Mount|Protection from Chaos|Protection from Evil|Protection from Good|Protection from Law|Reduce Person|Rejuvenate Eidolon, Lesser|Shield|Summon Monster I|Unfetter|Unseen Servant|Ventriloquism|Infernal Healing|Corrosive Touch|Icicle Dagger|Ray of Sickening|Summon Minor Monster|Compel Hostility|Jury-Rig|Life Conduit
-Spells2=Alter Self|Barkskin|Bear's Endurance|Blur|Bull's Strength|Cat's Grace|Create Pit|Detect Thoughts|Eagle's Splendor|Evolution Surge, Lesser|Fox's Cunning|Glide|Glitterdust|Haste|Invisibility|Levitate|Misdirection|Owl's Wisdom|Phantom Steed|Protection from Arrows|Resist Energy|See Invisibility|Slow|Spider Climb|Summon Eidolon|Summon Monster II|Summon Swarm|Wind Wall|Cushioning Bands|Restore Eidolon, Lesser|Web Shelter|Ablative Barrier|Ant Haul, Communal|Mount, Communal|Protection from Chaos, Communal|Protection from Evil, Communal|Protection from Good, Communal|Protection from Law, Communal|Twisted Space|Warding Weapon
-Spells3=Aqueous Orb|Black Tentacles|Charm Monster|Devolution|Dimension Door|Dimensional Anchor|Dispel Magic|Displacement|Enlarge Person, Mass|Evolution Surge|Fire Shield|Fly|Heroism|Invisibility, Greater|Locate Creature|Magic Circle against Chaos|Magic Circle against Evil|Magic Circle against Good|Magic Circle against Law|Magic Fang, Greater|Minor Creation|Nondetection|Protection from Energy|Rage|Reduce Person, Mass|Rejuvenate Eidolon|Seek Thoughts|Spiked Pit|Stoneskin|Summon Monster IV|Tongues|Wall of Fire|Wall of Ice|Water Breathing|Agonize|Control Summoned Creature|Mad Monkeys|Marionette Possession|Rain of Frogs|Restore Eidolon|Pellet Blast|Life Conduit, Improved|Obsidian Flow|Phantom Chariot|Phantom Steed, Communal|Protection from Arrows, Communal|Resist Energy, Communal|Spider Climb, Communal
-Spells4=Acid Pit|Baleful Polymorph|Bear's Endurance, Mass|Bull's Strength, Mass|Cat's Grace, Mass|Contact Other Plane|Dismissal|Eagle's Splendor, Mass|Evolution Surge, Greater|Fox's Cunning, Mass|Hold Monster|Insect Plague|Mage's Faithful Hound|Magic Jar|Major Creation|Overland Flight|Owl's Wisdom, Mass|Planar Binding, Lesser|Purified Calling|Sending|Summon Monster V|Teleport|Transmogrify|Wall of Stone|Daze, Mass|Vitriolic Mist|Hostile Juxtaposition|Protection from Energy, Communal|Stoneskin, Communal|Summoner Conduit|Tongues, Communal
-Spells5=Banishment|Creeping Doom|Dispel Magic, Greater|Ethereal Jaunt|Heroism, Greater|Hungry Pit|Invisibility, Mass|Planar Adaptation|Planar Binding|Plane Shift|Repulsion|Rejuvenate Eidolon, Greater|Sequester|Simulacrum|Spell Turning|Summon Monster VII|Teleport, Greater|True Seeing|Wall of Iron|Conjure Black Pudding|Create Demiplane, Lesser|Ice Crystal Teleport|Energy Siege Shot|Life Conduit, Greater|Tar Pool|Wreath of Blades
-Spells6=Antipathy|Binding|Charm Monster, Mass|Dimensional Lock|Discern Location|Dominate Monster|Incendiary Cloud|Maze|Planar Adaptation, Mass|Planar Binding, Greater|Protection from Spells|Summon Monster VIII|Sympathy|Teleportation Circle|Create Demiplane|Eagle Aerie|Energy Siege Shot, Greater|Hostile Juxtaposition, Greater|Walk through Space
-#SPELLS PER DAY
-PerDay1=20|1
-PerDay2=20|2
-PerDay3=20|3
-PerDay4=20|3|1
-PerDay5=20|4|2
-PerDay6=20|4|3
-PerDay7=20|4|3|1
-PerDay8=20|4|4|2
-PerDay9=20|5|4|3
-PerDay10=20|5|4|3|1
-PerDay11=20|5|4|4|2
-PerDay12=20|5|5|4|3
-PerDay13=20|5|5|4|3|1
-PerDay14=20|5|5|4|4|2
-PerDay15=20|5|5|5|4|3|
-PerDay16=20|5|5|5|4|3|1
-PerDay17=20|5|5|5|4|4|2
-PerDay18=20|5|5|5|5|4|3
-PerDay19=20|5|5|5|5|5|4
-PerDay20=20|5|5|5|5|5|5
-#SPELLS KNOWN
-Known1=4|2
-Known2=5|3
-Known3=6|3
-Known4=6|4|2
-Known5=6|4|3
-Known6=6|4|4
-Known7=6|5|4|2
-Known8=6|5|4|3
-Known9=6|5|4|4
-Known10=6|5|5|4|2
-Known11=6|6|5|4|3
-Known12=6|6|5|4|4
-Known13=6|6|5|5|4|2
-Known14=6|6|6|5|4|3
-Known15=6|6|6|5|4|4
-Known16=6|6|6|5|5|4|2|
-Known17=6|6|6|6|5|4|3|
-Known18=6|6|6|6|5|4|4|
-Known19=6|6|6|6|5|5|4|
-Known20=6|6|6|6|6|5|5|
-
-## CLASS: WITCH
-CreatureClass=Witch
-AttackRate=.5
-GoodSaves=Will
-SpellCaster=com.mindgene.d20.plugin.dnd.creature.SpellCasterTemplate_Wizard|INT
-#SPELLS AVAILABLE
-Spells0=Arcane Mark|Bleed|Dancing Lights|Daze|Detect Magic|Detect Poison|Guidance|Light|Mending|Message|Putrefy Food and Drink|Read Magic|Resistance|Spark|Stabilize|Touch of Fatigue
-Spells1=Beguiling Gift|Burning Hands|Cause Fear|Charm Person|Chill Touch|Command|Comprehend Languages|Cure Light Wounds|Dancing Lantern|Detect Secret Doors|Enlarge Person|Hypnotism|Identify|Ill Omen|Inflict Light Wounds|Mage Armor|Mask Dweomer|Mount|Obscuring Mist|Ray of Enfeeblement|Reduce Person|Sleep|Summon Monster I|Unseen Servant|Infernal Healing|Unbreakable Heart|Bungle|Decompose Corpse|Delusional Pride|Diagnose Disease|Ear-Piercing Scream|Forced Quiet|Frostbite|Fumbletongue|Hex Ward|Icicle Dagger|Interrogation|Ki Arrow|Ray of Sickening|Remove Sickness|Restore Corpse|Sanctify Corpse|Shadow Weapon|Summon Minor Monster|Unprepared Combatant|Vocal Alteration|Youthful Appearance|Air Bubble|Compel Hostility|Damp Powder|Jury-Rig|Lock Gaze|Negative Reaction|Peacebond|Reinforce Armaments|Unerring Weapon|Weaken Powder
-Spells2=Alter Self|Augury|Blindness|Deafness|Burning Gaze|Cure Moderate Wounds|Daze Monster|Death Knell|Delay Poison|Detect Thoughts|Enthrall|False Life|Feast of Ashes|Fester|Find Traps|Fog Cloud|Gentle Repose|Glide|Glitterdust|Hidden Speech|Hold Person|Inflict Moderate Wounds|Levitate|Perceive Cues|Pox Pustules|Scare|See Invisibility|Spectral Hand|Status|Summon Monster II|Summon Swarm|Touch of Idiocy|Vomit Swarm|Web|Zone of Truth|Blood Transcription|Boiling Blood|Delay Pain|Disfiguring Touch|Ghostly Disguise|Haunting Mists|Mad Hallucination|Masterwork Transformation|Miserable Pity|Pernicious Poison|Protective Penumbra|Share Memory|Silk to Steel|Skinsend|Steal Voice|Symbol of Mirroring|Unnatural Lust|Unshakable Chill|Web Shelter|Adoration|Bestow Weapon Proficiency|Destabilize Powder|Frost Fall|Mask Dweomer, Communal|Mount, Communal|Qualm|Recoil Fire|Reinforce Armaments, Communal|Returning Weapon|Stabilize Powder|Thunder Fire
-Spells3=Arcane Sight|Bestow Curse|Clairaudience/Clairvoyance|Cup of Dust|Deep Slumber|Dispel Magic|Fly|Glyph of Warding|Guiding Star|Heroism|Lightning Bolt|Locate Object|Nature's Exile|Pain Strike|Rage|Ray of Exhaustion|Remove Blindness/Deafness|Remove Curse|Remove Disease|Screech|Seek Thoughts|Sepia Snake Sigil|Share Senses|Sleet Storm|Speak with Dead|Stinking Cloud|Suggestion|Summon Monster III|Tongues|Twilight Knife|Vampiric Touch|Water Walk|Harrowing|Lover's Vengeance|Vermin Shape I|Waters of Lamashtu|Anthropomorphic Animal|Ash Storm|Cackling Skull|Countless Eyes|Eldritch Fever|Eruptive Pustules|Excruciating Deformation|Howling Agony|Ki Leech|Loathsome Veil|Marionette Possession|Rain of Frogs|Reckless Infatuation|Sands of Time|Spit Venom|Strangling Hair|Unadulterated Loathing|Vermin Shape I|Vision of Hell|Witness|Delay Poison, Communal|Flash Fire|Healing Thief|Hostile Levitation|Locate Weakness|Pup Shape|Returning Weapon, Communal
-Spells4=Arcane Eye|Black Tentacles|Charm Monster|Confusion|Crushing Despair|Cure Serious Wounds|Death Ward|Detect Scrying|Dimension Door|Discern Lies|Divination|Enervation|Fear|Geas, Lesser|Ice Storm|Inflict Serious Wounds|Locate Creature|Minor Creation|Moonstruck|Neutralize Poison|Phantasmal Killer|Poison|Scrying|Secure Shelter|Sleepwalk|Solid Fog|Spite|Summon Monster IV|Threefold Aspect|Wandering Star Motes|Infernal Healing, Greater|Vermin Shape II|Age Resistance, Lesser|Cape of Wasps||Curse of Magic Negation|Daze, Mass|False Life, Greater|Familiar Melding|Fleshworm Infestation|Ride the Waves|Shadow Step|Symbol of Healing|Symbol of Revelation|Symbol of Slowing|Touch of Slime|Vermin Shape II|Volcanic Storm|Absorb Toxicity|Debilitating Portent|Named Bullet|Tongues, Communal
-Spells5=Baleful Polymorph|Banish Seeming|Blight|Break Enchantment|Cloudkill|Contact Other Plane|Cure Critical Wounds|Dominate Person|Feeblemind|Hold Monster|Inflict Critical Wounds|Magic Jar|Major Creation|Mark of Justice|Mind Fog|Overland Flight|Pain Strike, Mass|Prying Eyes|Reincarnate|Rest Eternal|Secret Chest|Suffocation|Summon Monster V|Symbol of Pain|Symbol of Sleep|Telepathic Bond|Teleport|Waves of Fatigue|Contagion, Greater|Curse, Major|Curse of Disgust|Plague Carrier|Possessed Object|Smug Narcissism|Symbol of Scrying|Hostile Juxtaposition|Summoner Conduit|Symbol of Striking|Wreath of Blades
-Spells6=Analyze Dweomer|Animate Objects|Cloak of Dreams|Cone of Cold|Cure Light Wounds, Mass|Dispel Magic, Greater|Eyebite|Fester, Mass|Find the Path|Flesh to Stone|Geas/Quest|Guards and Wards|Heroism, Greater|Inflict Light Wounds, Mass|Legend Lore|Raise Dead|Slay Living|Stone to Flesh|Suggestion, Mass|Summon Monster VI|Swarm Skin|Symbol of Fear|Symbol of Persuasion|Transformation|True Seeing|Unwilling Shield|Age Resistance|Epidemic|Ice Crystal Teleport|Plague Storm|Symbol of Sealing|Vengeful Outrage|Dust Form|Named Bullet, Greater
-Spells7=Arcane Sight, Greater|Chain Lightning|Control Weather|Cure Moderate Wounds, Mass|Harm|Heal|Hold Person, Mass|Inflict Moderate Wounds, Mass|Insanity|Instant Summons|Phase Door|Plane Shift|Power Word Blind|Regenerate|Scrying, Greater|Summon Monster VII|Symbol of Stunning|Symbol of Weakness|Teleport, Greater|Teleport Object|Vision|Waves of Exhaustion|Vision of Lamashtu|Age Resistance, Greater|Create Demiplane, Lesser|Ice Body|Lunar Veil|Scouring Winds|Temporary Resurrection|Waves of Ecstasy|Hostile Juxtaposition, Greater|Walk through Space
-Spells8=Antipathy|Charm Monster, Mass|Clone|Cure Serious Wounds, Mass|Demand|Destruction|Discern Location|Horrid Wilting|Inflict Serious Wounds, Mass|Irresistible Dance|Maze|Mind Blank|Moment of Prescience|Power Word Stun|Prying Eyes, Greater|Resurrection|Stormbolts|Summon Monster VIII|Symbol of Death|Symbol of Insanity|Sympathy|Trap the Soul|Create Demiplane|Prediction of Failure|Frightful Aspect
-Spells9=Astral Projection|Cure Critical Wounds, Mass|Dominate Monster|Elemental Swarm|Foresight|Hold Monster, Mass|Inflict Critical Wounds, Mass|Power Word Kill|Refuge|Soul Bind|Storm of Vengeance|Suffocation, Mass|Summon Monster IX|Teleportation Circle|Wail of the Banshee|Interplanetary Teleport|Create Demiplane, Greater|Cursed Earth|Symbol of Strife|Symbol of Vulnerability|Polar Midnight|Heroic Invocation|Mind Blank, Communal
-#SPELLS PER DAY
-PerDay1=3|1
-PerDay2=4|2
-PerDay3=4|2|1
-PerDay4=4|3|2
-PerDay5=4|3|2|1
-PerDay6=4|3|3|2
-PerDay7=4|4|3|2|1
-PerDay8=4|4|3|3|2
-PerDay9=4|4|4|3|2|1
-PerDay10=4|4|4|3|3|2
-PerDay11=4|4|4|4|3|2|1
-PerDay12=4|4|4|4|3|3|2
-PerDay13=4|4|4|4|4|3|2|1
-PerDay14=4|4|4|4|4|3|3|2
-PerDay15=4|4|4|4|4|4|3|2|1
-PerDay16=4|4|4|4|4|4|3|3|2
-PerDay17=4|4|4|4|4|4|4|3|2|1
-PerDay18=4|4|4|4|4|4|4|3|3|2
-PerDay19=4|4|4|4|4|4|4|4|3|3
-PerDay20=4|4|4|4|4|4|4|4|4|4
-
 ## CLASS: WIZARD
 CreatureClass=Wizard
 AttackRate=.5
@@ -1079,20 +1232,19 @@ PerDay18=4|5|5|5|5|5|5|4|4|3
 PerDay19=4|5|5|5|5|5|5|5|4|4
 PerDay20=4|5|5|5|5|5|5|5|5|5
 
+
+// Pathfinder Core Rulebook Prestige Classes
+
+
 ## CLASS: ARCANE ARCHER
 CreatureClass=Arcane Archer
 AttackRate=0
-GoodSaves=Fort,Ref
+GoodSaves=Fort|Ref
 
 ## CLASS: ARCANE TRICKSTER
 CreatureClass=Arcane Trickster
 AttackRate=0
-GoodSaves=Ref, Will
-
-## CLASS: ARCHMAGE
-CreatureClass=Archmage
-AttackRate=0
-GoodSaves=Will
+GoodSaves=Ref|Will
 
 ## CLASS: ASSASSIN
 CreatureClass=Assassin
@@ -1102,17 +1254,12 @@ GoodSaves=Ref
 ## CLASS: DRAGON DISCIPLE
 CreatureClass=Dragon Disciple
 AttackRate=0
-GoodSaves=Fort, Will
+GoodSaves=Fort|Will
 
 ## CLASS: DUELIST
 CreatureClass=Duelist
 AttackRate=1
 GoodSaves=Ref
-
-## CLASS: DWARVEN DEFENDER
-CreatureClass=Dwarven Defender
-AttackRate=1
-GoodSaves=Fort, Will
 
 ## CLASS: ELDRITCH KNIGHT
 CreatureClass=Eldritch Knight
@@ -1129,20 +1276,20 @@ CreatureClass=Mystic Theurge
 AttackRate=0
 GoodSaves=Will
 
+## CLASS: PATHFINDER CHRONICLER
+CreatureClass=Pathfinder Chronicler
+AttackRate=1
+GoodSaves=Ref|Will
+
 ## CLASS: SHADOW DANCER
 CreatureClass=Shadow Dancer
 AttackRate=.75
 GoodSaves=Ref
 
-## CLASS: PATHFINDER CHRONICLER
-CreatureClass=Pathfinder Chronicler
-AttackRate=1
-GoodSaves=Ref, Will
 
-## CLASS: DAIVRAT
-CreatureClass=Daivrat
-AttackRate=0
-GoodSaves=Will
+// NPC Classes
+
+
 
 ## CLASS: ADEPT
 CreatureClass=Adept
@@ -1197,6 +1344,10 @@ GoodSaves=Will
 CreatureClass=Warrior
 AttackRate=1
 GoodSaves=Fort
+
+
+// Monster Class Types
+
 
 ## CLASS: ABERRATION
 CreatureClass=Aberration
